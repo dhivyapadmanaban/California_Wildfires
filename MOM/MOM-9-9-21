@@ -1,0 +1,26 @@
+MOM - 9/9/
+
+ERD notes: Dhivya
+------------
+1. Add MAJOR_INCIDENT column to FIRE_INCIDENTS
+2. Weather columns for FIRE_LOCATIONS 
+	- Humidity
+	- Min Temp
+	- Max Temp
+	-Wind
+3. Add cause description to FIRE_FACTS table
+4. Populate mockup data in table 	
+
+DB connection - Taravat
+---------------
+1. Change the pandas code for appending data to postgrestable
+2. PPT - Done
+
+ML : Shailee
+---
+1. Read data from DB 
+2. Output labels for input data
+
+GITHUB : Anu
+--------- 
+Create Repo & branches
