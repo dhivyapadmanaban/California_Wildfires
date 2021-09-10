@@ -24,3 +24,10 @@ ML : Shailee
 GITHUB : Anu
 --------- 
 Create Repo & branches
+
+Open ques to TAs 
+--------------------
+1. What should be the branch name ? - Name of module working or individual name 
+2. Does branch follow same folder structure format like main?
+3. Person doing X role should do branch merge with main ? In that case, if the person is not the repo owner can  he/she do it ?
+4. If we are using Tableau for visualization , does it have to get connected to Db? With  free version is it possible? What are the other options?
