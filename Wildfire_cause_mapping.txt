@@ -1,0 +1,18 @@
+1 - lightning
+2 - equipment use
+3 - smoking
+4 - campfire
+5 - debris
+6 - Railroad
+7 - arson
+8 - playing with fire
+9 - miscellaneous
+10 - vehicle
+11 - power line
+12 - Firefighter Training
+13 - Non-Firefighter Training
+14 - unidentified
+15 - Structure
+16- aircraft
+18 - Escaped Prescribed Burn
+19 - Illegal Alien Campfire
