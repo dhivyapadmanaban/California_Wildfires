@@ -32,3 +32,4 @@ Open ques to TAs
 3. Person doing X role should do branch merge with main ? In that case, if the person is not the repo owner can  he/she do it ?
 4. If we are using Tableau for visualization , does it have to get connected to Db? With  free version is it possible? What are the other options?
 5. AWS for DB ? - Explain about our process.
+6. Sample data that mimics the expected final database structure or schema
