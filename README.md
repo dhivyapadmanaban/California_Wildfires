@@ -24,3 +24,7 @@ Below questions are answered by analyzing the dataset and building model:
 ## Communication Protocol
 
 ![image](https://user-images.githubusercontent.com/83181834/132966692-1dff4ebd-bddc-46ca-9eaa-4ff9df42ce5b.png)
+
+## Link to Google Slides Presentation
+
+https://docs.google.com/presentation/d/1GVM7zW76ahHW7EQw37eZMHLR06Flqr9Tug5ImQGsppc/edit?usp=sharing
