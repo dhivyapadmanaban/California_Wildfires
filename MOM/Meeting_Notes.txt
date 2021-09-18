@@ -44,3 +44,12 @@ To - do
 3. ML - Add pressure, Increase accuracy, Change features.
 
 4. Initial analysis - Shailee - 
+
+-----------
+Doubts:
+
+1. Google slides storyboard is like what Dhivya has done, we shall present a storyboard of what our dashboard is going to look like.
+
+2. Initial analysis: trying to plot a column of interest and check the outliers and see if there is any constraints that we might face in the future and we should be aware of.
+
+3. Images of initial analysis and Machine learning should be presented in tableau, either by importing image or data as a csv file to plot it which is more professional, this is something that we must speak about tomorrow.
