@@ -25,6 +25,7 @@ Below questions are answered by analyzing the dataset and building model:
 
 ![image](https://user-images.githubusercontent.com/83181834/132966692-1dff4ebd-bddc-46ca-9eaa-4ff9df42ce5b.png)
 
-## Link to Google Slides Presentation
+## Resources
 
-https://docs.google.com/presentation/d/1GVM7zW76ahHW7EQw37eZMHLR06Flqr9Tug5ImQGsppc/edit?usp=sharing
+- **Google Slides:** [View Google Slides](https://docs.google.com/presentation/d/1GVM7zW76ahHW7EQw37eZMHLR06Flqr9Tug5ImQGsppc/edit?usp=sharing)
+- **Storyboard of Dashboard:** [View Storyboard](https://docs.google.com/presentation/d/1Pq6c_P56_Bx2GsKr0kPmHrszo_ZAOSP_QyOfqmEMr9o/edit?usp=sharing)
