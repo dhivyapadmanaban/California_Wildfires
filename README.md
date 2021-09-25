@@ -85,9 +85,9 @@ Below is the entity relation diagrams, showing the relationship between the four
 ## Interactive elements and tool to create visualizations and dashboard
    - We used Seaborn python library to depict relationship between our variables.
    
-   - We have used Tableau, a powerful visualization tool to showcase our findings. It includes a timeline of all the years and how a click refreshes the whole dashboard depicting wildfire causes and effects.
-   - It can dig into county wise details by hovering over the map of California. 
-   - It also includes graphic visuals for effects of wildfire which are easily caught by human eye.
+   - We have used Tableau, a powerful visualization tool to showcase our findings. It includes a timeline of all the years and how a click refreshes  the whole dashboard depicting wildfire causes and effects.
+     It can dig into county wise details by hovering over the map of California. 
+     It also includes graphic visuals for effects of wildfire which are easily caught by human eye.
 
 
 
