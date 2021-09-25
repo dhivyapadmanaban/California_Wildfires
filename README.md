@@ -7,7 +7,7 @@
    Our project provides a detailed analysis of all these factors and it can be used to expand the research for other states
    that pose a threat of wildfires.
    
-   ![](./Images/CA_map.png)
+   ![](./Images/CA_Map.png)
 
 
 ## Preliminary Data Preprocessing
