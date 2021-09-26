@@ -7,7 +7,7 @@
    Our project provides a detailed analysis of all these factors and it can be used to expand the research for other states
    that pose a threat of wildfires.
    
-   ![](./Images/CA_Map.png)
+   ![CA_Map](./Images/CA_map.png)
 
 
 ## Preliminary Data Preprocessing
@@ -79,7 +79,11 @@ Below is the entity relation diagrams, showing the relationship between the four
    
    The limitations of the model are :
    
-   - 
+   - We have less data points in our dataset as the counties where fire took place is only restricted to California. Later when we expand this to other  counties for other states,
+     this limitation of a smaller dataset can be overcome.
+   - The logistic regression will not be able to handle a large number of categorical features.
+   - It is difficult to capture complex relationships using logistic regression model.
+   - Non linear problems can't be solved with logistic regression since it has a linear decision surface.
    
 
 ## Interactive elements and tool to create visualizations and dashboard
