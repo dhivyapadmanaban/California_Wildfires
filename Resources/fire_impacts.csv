@@ -1,0 +1,1147 @@
+id,fire_name,total_acres_burned,county_id,injuries,structure_impacted
+1,Rim Fire,257314,55,0,0
+2,Powerhouse Fire,30274,19,0,0
+3,Mountain Fire,27531,33,0,0
+4,American Fire,27440,31,0,0
+5,Aspen Fire,22992,10,0,0
+6,Silver Fire,20292,33,26,48
+7,Salmon River Complex,14754,47,0,0
+8,Corral Complex,12503,12,0,0
+9,Deer Fire,11429,52,5,0
+10,Clover Fire,8073,45,6,211
+11,Chariot Fire,7055,37,12,158
+12,Panther Fire,6965,52,6,0
+13,Grand Fire,4346,"15,56",4,0
+14,McCabe Fire,3505,49,6,1
+15,Summit Fire,3166,33,2,1
+16,Morgan Fire,3111,7,0,0
+17,San Felipe Fire,2781,37,5,0
+18,Swedes Fire,2462,4,5,7
+19,DeLuz Fire,2236,37,0,0
+20,Fish Fire,2060,54,0,0
+21,White Fire,1984,42,0,0
+22,Carstens Fire,1708,22,1,0
+23,Falls Fire,1383,"33,",0,0
+24,General Fire,1271,37,6,0
+25,Power Fire,1070,55,0,0
+26,Shirley Fire,794,15,0,0
+27,Rancho Fire,712,15,5,0
+28,Lake Fire,712,19,0,0
+29,Water Fire,612,15,0,0
+30,Kyburz Fire,572,9,0,0
+31,Mills Fire,534,36,0,1
+32,Plumas Lightning Complex (Hough),513,32,0,0
+33,Gorgonio Fire,510,33,0,0
+34,Fox Fire (formally 3-7 Fire),502,25,0,0
+35,Branch Fire,500,40,0,0
+36,Kirker Fire,492,7,0,0
+37,Rolling Fire,482,20,0,1
+38,Gobblers Fire,413,36,0,0
+39,River Fire,406,14,2,0
+40,Putah Fire,376,28,0,0
+41,Tres Pinos Fire,354,35,0,0
+42,Shelton Fire,303,39,0,0
+43,Lone Fire,298,4,0,9
+44,Concord Fire,274,7,0,0
+45,Gold Fire,274,20,0,0
+46,Madre Fire,268,19,0,0
+47,Lyon Fire,263,37,2,176
+48,Sharp Fire,243,36,0,0
+49,Vasco Fire,240,1,0,0
+50,PFE Fire,237,31,0,0
+51,306 Fire,217,11,0,0
+52,Sierra Fire,200,36,0,0
+53,Vina Fire,200,52,0,0
+54,Burney Lightning Series (Warner Fire),196,45,0,0
+55,Paskenta Fire,195,52,0,0
+56,Silverado Fire,190,28,0,1
+57,Olive Fire,170,42,0,0
+58,Capay Fire,163,57,0,0
+59,50 Fire,163,"9,34",0,0
+60,Crane Fire,159,49,0,0
+61,Lakeville Fire,158,49,0,0
+62,Redlands Fire,150,33,0,0
+63,Diablo Fire,150,50,0,0
+64,George Fire,150,10,0,0
+65,Magic Fire,149,19,0,0
+66,Angora Fire,134,54,0,0
+67,Yellow Fire,125,49,0,0
+68,California Fire,124,48,0,0
+69,152 Fire,124,24,0,0
+70,Smiley Fire,124,33,0,0
+71,Cantwell Fire,120,17,0,1
+72,Union Fire,116,9,0,1
+73,Cleghorn Fire,110,36,0,0
+74,Clinton Fire,108,10,0,0
+75,Freeman Fire,105,27,0,0
+76,Murphy Fire,100,55,0,0
+77,Border Fire,100,37,0,0
+78,Davis Creek Complex,97,25,0,0
+79,Little Fire,97,36,0,0
+80,Coyote Fire,97,18,0,0
+81,Roadrunner Fire,96,3,0,0
+82,Creek Fire,94,40,0,0
+83,Lilly 2 Fire,91,20,0,1
+84,Adelaida Fire,85,40,0,0
+85,Retek Fire,82,23,0,0
+86,Centerville Fire,80,4,1,0
+87,Silverwood Fire,75,36,0,0
+88,Revis Fire,75,20,0,0
+89,Lytle Fire,75,36,1,1
+90,Liveoak Fire,73,36,0,0
+91,McGanney Fire,73,58,0,0
+92,Double Fire,70,17,0,0
+93,Rail Fire,68,25,0,0
+94,Wheeler Fire,64,56,0,0
+95,Tram Fire,60,33,0,0
+96,Relay Fire,60,33,0,0
+97,Tyler Fire,52,29,0,0
+98,Toro Fire,51,40,0,0
+99,Bruner Fire,50,17,0,0
+100,Cottonwood Fire,50,47,0,0
+101,Uvas Fire,50,43,0,0
+102,Grant Fire,50,1,0,0
+103,Homestead Fire,50,40,0,0
+104,Bridges Fire,46,5,2,0
+105,Pratt Fire,45,23,0,0
+106,Fiddler Fire,43,45,0,0
+107,Viper Fire,42,33,0,0
+108,Chestnut Fire,41,41,0,0
+109,Baker Fire,40,30,0,0
+110,Pierce Fire,40,33,0,0
+111,Heacock Fire,40,33,0,0
+112,Palmyrita Fire,40,33,0,0
+113,54 Fire,40,33,0,0
+114,Empire Fire,38,9,0,0
+115,Indian Fire,38,17,0,0
+116,Fallon Fire,38,1,0,0
+117,Michelle Fire,35,10,0,0
+118,Cottontail Fire,35,40,0,0
+119,Dersch Fire,33,45,0,0
+120,Chuckwagon Fire,31,5,0,0
+121,Lakeshore Fire,30,17,0,0
+122,Fawnskin Fire,30,36,0,0
+123,Sonoma-Lake-Napa Unit Lightning Fires,28,"49,48,17,6",0,0
+124,Cloverdale Fire,27,45,0,0
+125,Flume Fire,25,37,0,0
+126,Mount Fire,25,17,0,0
+127,Cherry Fire,25,33,0,0
+128,Dam Fire,23,17,0,0
+129,Gilman Fire,15,33,0,0
+130,Orleans Complex,0,12,0,0
+131,Hathaway Fire,0,33,0,0
+132,King Fire,97717,9,12,80
+133,Bald Fire,39736,45,0,0
+134,Oregon Gulch Fire (part of the Beaver Complex),35302,47,0,0
+135,Eiler Fire,32416,45,11,21
+136,Day Fire,13153,25,7,6
+137,Bully Fire,12661,45,21,20
+138,Monticello Fire,6488,57,5,0
+139,Coffee Fire,6258,45,0,0
+140,Little Deer Fire,5503,47,0,0
+141,Tomahawk Fire,5367,37,0,0
+142,Butts Fire,4300,"28,17",4,9
+143,Sand Fire,4240,"3,9",2,67
+144,Way Fire,4045,15,0,0
+145,Etiwanda Fire,2143,36,3,1
+146,Cocos Fire,1995,37,3,40
+147,Colby Fire,1952,19,0,0
+148,Nicolls Fire ,1680,15,0,0
+149,Modoc Lightning Complex,1651,25,0,0
+150,Bernardo Fire,1548,37,3,50
+151,Gulch Fire,1469,25,0,0
+152,San Mateo Fire,1457,37,0,0
+153,Campbell Fire,865,52,0,0
+154,Miguelito Fire,632,42,0,1200
+155,Junction Fire,612,20,3,47
+156,Poinsettia Fire,600,37,0,0
+157,Oregon Fire,580,53,2,1
+158,Boles Fire,516,47,1,1272
+159,59 Fire,487,55,0,0
+160,Encinal Fire,400,27,0,0
+161,Highway Fire,380,37,0,0
+162,Red Fire,333,12,0,0
+163,Courtney Fire,320,20,4,71
+164,Dog Rock Fire,311,22,0,0
+165,Tecolote Fire,274,19,0,0
+166,Hetch Hetchy Fire,269,55,0,0
+167,Dog Bar Fire,247,29,0,0
+168,Banner Fire,217,37,4,3
+169,Bald Hill 3 Fire,210,12,0,0
+170,Shoemaker Fire,190,19,0,0
+171,Dry Fire,143,45,0,0
+172,Haigh Fire,130,22,1,0
+173,Gun Fire,125,37,0,0
+174,Irene Fire,94,9,0,0
+175,Oak Fire,85,5,1,1
+176,Boca Fire,84,29,0,0
+177,Marsh Fire,80,7,0,0
+178,Cassel Fire,75,45,0,0
+179,San Lucas Fire,75,27,0,0
+180,Wildlife Fire,72,4,0,0
+181,Jackson Fire,70,55,0,0
+182,Van Buren Fire,57,33,0,0
+183,Bane Fire,48,36,0,0
+184,Interlake Fire,47,",40",0,0
+185,Hutto Fire,38,29,0,0
+186,Bible Fire,30,9,0,0
+187,Jacumba Fire,29,37,0,0
+188,Stage Coach Fire,27,28,0,0
+189,Leopard Fire,25,45,0,0
+190,Hall Fire,25,10,0,0
+191,Cascade Fire,20,9,0,0
+192,West Fire,15,53,0,0
+193,Pines Fire,10,20,0,0
+194,Happy Camp Complex,0,47,0,0
+195,Rough Fire ,151623,10,0,0
+196,Rocky Fire,69438,17,0,104
+197,Jerusalem Fire,25118,"17,28",0,27
+198,Dodge Fire,10570,18,0,0
+199,Cabin Fire,6980,54,0,0
+200,Willow Fire,5702,20,0,0
+201,Frog Fire,4863,25,0,0
+202,North Fire,4250,36,0,72
+203,Tesla Fire,2700,1,0,0
+204,Cuesta Fire,2446,40,1,1
+205,Lowell Fire,2304,29,6,57
+206,Saddle Fire ,1542,53,0,0
+207,Lumpkin Fire,1042,4,1,0
+208,Corrine Fire,920,20,0,3
+209,Elk Fire,673,17,0,0
+210,Cienega Fire,670,35,3,0
+211,Anza Fire,543,33,0,0
+212,Triple Fire,430,54,0,0
+213,Calgrove Fire ,415,19,0,0
+214,Forebay Fire,275,24,0,0
+215,Peterson Fire,215,17,0,0
+216,241 Fire,214,30,0,0
+217,China Fire,212,45,2,6
+218,Big Creek Fire,204,55,0,0
+219,Pines Fire ,200,19,0,0
+220,Stephens Fire,200,47,0,0
+221,Cooley Fire,181,47,0,0
+222,Wildcat Fire,171,37,0,0
+223,Cutca Fire,167,37,0,0
+224,Queen Fire,158,12,2,0
+225,Cook Fire,158,58,3,0
+226,Horse Fire,146,12,0,0
+227,Ward Fire,137,32,0,0
+228,Democrat Fire,128,53,0,0
+229,3-11 Fire,116,25,0,0
+230,Mark Fire,114,5,0,0
+231,Tulloch Fire,112,55,0,0
+232,36 Fire,110,52,0,1
+233,Munjar Fire,104,4,0,0
+234,Sterling Fire,100,36,0,0
+235,Laureles Fire,95,27,0,0
+236,Sprig Fire,90,45,0,0
+237,Advance Fire,86,54,4,0
+238,Otay Fire,80,37,0,0
+239,3-12 Fire,77,25,0,0
+240,Fern Fire,75,45,0,0
+241,Mallard Fire,75,45,2,1
+242,Pass Fire,67,15,0,0
+243,Dixie Fire,60,18,0,0
+244,Point Fire,59,45,0,0
+245,De Luz Fire,55,37,0,0
+246,Fork Fire,55,52,0,0
+247,Mill 2 Fire,54,36,0,0
+248,Potrero Fire,50,56,0,0
+249,Mendocino Lightning Fires,50,23,0,0
+250,Center Fire,40,18,0,0
+251,Sullivan Fire,40,50,0,0
+252,Ascot Fire,40,48,0,0
+253,Chiles Fire,38,28,0,0
+254,Browns Fire,35,53,0,0
+255,Covelo Fire,35,23,0,0
+256,McCourtney Fire,30,29,0,0
+257,Kramer Fire ,30,18,0,0
+258,Francis Fire,30,58,0,0
+259,Baxter Fire,26,31,0,0
+260,Park Fire,25,37,0,0
+261,Betabel Fire,25,35,0,0
+262,Dorris Fire,24,47,0,0
+263,Soda Fire,23,23,0,0
+264,Grade Fire,22,17,0,0
+265,Gibraltar Fire,21,42,0,0
+266,Spider Fire,21,33,0,0
+267,Pleasure Fire,19,28,0,0
+268,Keswick Fire,18,45,1,0
+269,Buck Fire,16,12,0,0
+270,Washington Fire,0,2,0,0
+271,Soberanes Fire,132127,27,0,0
+272,Erskine Fire,48019,15,0,0
+273,Chimney Fire,46344,40,1,78
+274,Blue Cut Fire,36274,36,0,324
+275,Gap Fire,33867,47,0,0
+276,Canyon Fire,12518,42,0,0
+277,Pilot Fire,8110,36,1,0
+278,Sherpa Fire,7474,42,0,0
+279,Mineral Fire,7050,10,0,2
+280,Cold Fire,5731,57,0,2
+281,Trailhead Fire,5646,"9,31",3,2600
+282,Owens River Fire,5443,14,0,0
+283,Marek Fire,4824,19,0,0
+284,Loma Fire,4474,43,0,29
+285,Clayton Fire,3929,17,0,328
+286,Metz Fire,3876,27,1,0
+287,Curry Fire,2944,10,0,0
+288,Pony Fire,2860,47,0,0
+289,Soup Complex,2652,25,0,0
+290,Willard Fire,2575,18,1,7
+291,Coleman Fire,2520,27,0,0
+292,Pine Fire,2304,56,0,0
+293,Goose Fire,2241,10,0,9
+294,Sacata Fire,2100,10,0,0
+295,Sawmill Fire,1547,49,2,0
+296,Dinosaur Fire,1246,24,0,0
+297,Roblar Fire,1245,37,0,0
+298,Sage Fire,1109,19,0,0
+299,Marshes Fire,1080,55,0,0
+300,Saddle Fire,850,4,3,3
+301,Marina Fire,650,26,0,0
+302,Tully Fire,599,12,0,3
+303,Fort Fire,554,15,0,0
+304,99 Fire,550,4,0,0
+305,Range Fire,518,15,0,0
+306,Colyear Fire,464,52,0,0
+307,Beale Fire,400,58,0,0
+308,Tule Fire,395,54,0,0
+309,Howard Fire,380,25,0,0
+310,Hog Fire,360,52,0,0
+311,Appaloosa Fire,310,5,0,0
+312,Havilah Fire,304,15,0,0
+313,DeWolf Fire,278,10,0,0
+314,Tobin Fire,248,32,0,0
+315,Onyx Fire,221,15,0,0
+316,Reservoir Fire,215,17,0,0
+317,Camanche Fire,210,3,0,0
+318,Big Fire,188,10,0,0
+319,Emerald Fire,176,9,0,0
+320,Athens Fire,169,31,0,0
+321,Sunny Fire,158,10,0,0
+322,Wheatland Fire,156,19,0,0
+323,Old Fire,150,8,0,0
+324,Holy Fire,150,30,0,0
+325,Shedd Fire,150,40,0,0
+326,Bird Fire,147,39,0,0
+327,Frame Fire,145,10,0,0
+328,Temecula Fire,139,33,1,0
+329,Famoso Fire,138,15,0,0
+330,Avocado Fire,132,10,0,0
+331,Bangor Fire,130,4,0,0
+332,Green Fire,123,10,0,0
+333,Coe Fire,120,50,0,0
+334,Coal Fire,112,4,0,0
+335,Broken Fire,103,20,0,0
+336,Cow Fire,100,45,0,0
+337,Hart Fire,100,15,0,0
+338,Bradley Fire,100,27,0,0
+339,Feather Fire,100,37,0,0
+340,Dunstone Fire,91,4,0,0
+341,Santos Fire,88,4,0,0
+342,Flores Fire,88,52,0,0
+343,Moore Fire,88,31,0,0
+344,Scott Fire,87,34,0,0
+345,Frazier Fire,86,40,0,0
+346,Grub Fire,85,20,0,0
+347,Dunnigan Fire,84,57,0,0
+348,Hoag Fire,80,52,0,0
+349,Sherwood Fire,78,56,0,0
+350,Newmark Fire,70,10,0,0
+351,Arroyo Fire,70,27,0,0
+352,Pala Fire,70,37,3,7
+353,Foothill Fire,69,17,0,0
+354,Cotton Fire,61,15,0,0
+355,Lowe Fire,52,27,0,0
+356,Ruff Fire ,50,23,0,0
+357,Spring Fire,50,36,0,0
+358,Storksbill Fire,50,9,0,0
+359,70 Fire,49,4,0,0
+360,Auburn Fire,47,29,0,0
+361,Laguna Fire,47,30,0,0
+362,Bell Fire,45,3,0,0
+363,Kugelman Fire,45,17,0,0
+364,Kuehner Fire,45,56,0,0
+365,Boys Fire,40,34,0,0
+366,Franklin Fire,40,7,0,0
+367,Phoenix Fire,38,29,0,0
+368,Mina Fire,36,23,0,0
+369,Knoxville Fire,36,17,0,0
+370,Gopher Fire,35,37,0,0
+371,Stagecoach Fire,35,5,0,0
+372,Campo Fire,33,5,0,0
+373,Moffett Fire,32,47,0,0
+374,Frymire Fire,32,55,0,0
+375,Clay Fire,32,34,0,0
+376,Lone Pine Fire,30,14,0,0
+377,Hidden Fire,30,35,0,0
+378,Taglio Fire,30,24,0,0
+379,Rock Fire,28,37,0,0
+380,Aukum Fire,25,9,0,0
+381,Bryson Fire,25,27,0,0
+382,Stafford Fire,23,12,0,0
+383,Table Fire,23,47,0,0
+384,Ken Fire,20,36,0,0
+385,Mockingbird Fire,20,17,0,0
+386,Shelter Fire,15,56,0,0
+387,Jacobson Fire,10,54,0,0
+388,Mokelumne Fire,0,2,0,0
+389,Gorman Fire,0,19,0,0
+390,Thomas Fire,281893,"42,56",0,1343
+391,Long Valley Fire,83733,18,0,0
+392,Detwiler Fire,81826,22,0,152
+393,Eclipse Complex,78698,47,0,0
+394,Nuns / Adobe / Norrbom/ Pressley / Partrick Fires / Oakmont (Central LNU Complex),56556,"28,49",0,1527
+395,Atlas Fire (Southern LNU Complex),51624,"28,48",0,903
+396,Garza Fire,48889,16,0,1
+397,Miller Complex,39715,47,0,0
+398,Tubbs Fire (Central LNU Complex),36807,"28,49",0,5953
+399,Pier Fire,36556,54,5,542
+400,Redwood Valley Fire (Mendocino Lake Complex),36523,23,1,590
+401,Alamo Fire,28687,40,0,1
+402,Helena - Fork Fire,21846,53,0,0
+403,Lion Fire,18900,54,0,0
+404,R-4 Fire,18618,18,0,0
+405,Whittier Fire,18430,42,0,0
+406,Pocket Fire (Central LNU Complex),17357,49,0,8
+407,Railroad Fire,12407,20,0,0
+408,Elm Fire,10343,10,0,0
+409,Cascade Fire (Wind Complex),9989,58,0,274
+410,Canyon 2 Fire,9217,30,4,80
+411,Slinkard Fire,8925,26,0,0
+412,Cherokee Fire,8417,4,0,7
+413,Parker 2 Fire,7697,25,0,0
+414,La Tuna Fire ,7194,19,0,0
+415,South Fork Fire,7000,22,0,0
+416,Manzanita Fire,6309,33,0,0
+417,LaPorte Fire (Wind Complex),6151,4,0,76
+418,Rye Fire,6049,19,0,9
+419,Mud Fire,6042,18,0,0
+420,Wall Fire,6033,4,0,101
+421,Jayne Fire,5738,10,0,0
+422,Summit Complex,5247,50,0,0
+423,Ruth Complex,4736,53,0,0
+424,Minerva Fire,4310,32,0,0
+425,Lilac Fire,4100,37,0,221
+426,Ponderosa Fire,4016,4,2,54
+427,Palmer Fire,3874,33,0,0
+428,Young Fire,3142,47,0,0
+429,Hawk Fire,2940,15,0,0
+430,Eureka Fire,2575,32,0,0
+431,I-5 Fire,2312,16,0,0
+432,Winters Fire,2269,57,4,0
+433,Sulphur Fire (Mendocino Lake Complex),2207,17,0,170
+434,Gate Fire,2056,37,0,0
+435,Parkfield Fire,1816,"27,40",0,0
+436,Wright Fire,1800,24,0,0
+437,37 Fire,1660,49,0,0
+438,Quail Fire,1626,15,0,0
+439,Hill Fire,1598,40,0,4
+440,Derrick Fire,1538,10,0,0
+441,Holcomb Fire,1503,36,0,0
+442,Oakwood Fire,1431,20,0,0
+443,Garden Fire,1350,15,0,0
+444,Opera Fire,1350,33,0,0
+445,Caldwell Fire,1319,15,0,0
+446,Latrobe Fire,1286,34,0,0
+447,Tarina Fire ,1200,15,0,0
+448,Buffalo Fire,1088,37,0,0
+449,Hudson Fire,1083,15,0,0
+450,Blaine Fire,1044,33,0,0
+451,Mission Fire,1035,20,0,4
+452,Chilcoot Fire,1020,32,0,0
+453,Berry Fire,995,45,3,0
+454,El Dorado Fire,976,10,0,0
+455,Wildomar Fire,866,33,0,0
+456,Poslin Fire,859,18,0,0
+457,Lobo Fire (Wind Complex),821,29,0,50
+458,Yankee Fire,775,40,0,0
+459,Placerita Fire,760,19,0,0
+460,Farad Fire,747,46,0,0
+461,Jacksonville Fire,690,55,0,0
+462,Peak Fire,680,22,0,2
+463,Mart Fire,670,36,0,0
+464,Ben Fire,630,22,0,0
+465,Battle Fire,562,25,0,0
+466,Mias Fire,545,33,0,0
+467,W-2 Fire,530,18,0,0
+468,Ming Fire,506,15,0,0
+469,Deluz Fire,486,37,0,0
+470,Fay Fire,469,47,0,0
+471,Monterey Fire,450,10,0,0
+472,Rucker Fire,444,42,0,0
+473,Eastman Fire,429,20,0,0
+474,Skirball Fire,422,19,0,0
+475,Elephant Fire,416,54,0,0
+476,Dode Fire,410,25,0,0
+477,Jennings Fire,400,37,0,0
+478,Sonoma Fire,400,10,0,0
+479,Pleasant Fire,392,29,1,1
+480,Bear Fire,391,44,1,6
+481,Chris Fire,370,26,0,0
+482,Stone Fire,340,40,0,0
+483,Dinely Fire,339,54,4,0
+484,Rose Fire,338,15,0,0
+485,Bryant Fire,325,36,0,0
+486,Marble Fire,319,8,0,0
+487,Liberty Fire,300,33,0,0
+488,Bravo Fire,288,15,0,0
+489,Little Mountain Fire,260,36,0,0
+490,Lost Fire,255,37,0,0
+491,Huasna Fire,245,40,0,0
+492,Largo Fire,236,9,0,0
+493,Deer Complex,231,7,0,0
+494,Camp Fire,225,40,0,0
+495,Arrow Fire,225,40,0,0
+496,Bodfish Fire,206,15,0,0
+497,Eagle Fire,205,33,0,0
+498,Skeleton Fire,200,17,0,0
+499,Eclipse Fire,200,37,0,0
+500,Wasioja Fire,190,42,0,0
+501,Toll Fire,186,32,0,0
+502,Wild Fire,186,10,0,0
+503,Quarry Fire,183,15,0,0
+504,Laverne Fire,180,45,0,5
+505,High Fire,170,36,0,0
+506,Evans Fire,168,46,0,0
+507,Peg Fire,157,18,0,0
+508,26 Fire,157,20,0,0
+509,Corral Fire,155,1,0,0
+510,Lucy Fire,150,40,0,0
+511,41 Fire,150,20,0,0
+512,Tower Fire,150,36,0,0
+513,Grape Fire,146,23,3,0
+514,Skyway Fire,134,4,0,0
+515,Tumey Fire,126,10,0,0
+516,Coronado Fire,125,22,0,0
+517,Twist Fire,124,55,0,0
+518,Stewart Fire,122,33,0,0
+519,Margarita Fire,120,40,0,0
+520,Lamb Fire,120,33,0,0
+521,Maria Fire,117,5,0,0
+522,Poly Fire,105,40,0,0
+523,Humboldt Fire,103,4,0,0
+524,Coalinga Fire,102,10,0,0
+525,Lariat Fire,101,43,0,0
+526,Church Fire,100,37,0,0
+527,Oakmont Fire (Central LNU Complex),100,49,0,0
+528,Long Fire,100,17,0,0
+529,Timm Fire,100,48,0,0
+530,Bally Fire,100,43,0,0
+531,Tilton Fire,100,43,0,0
+532,Mile Fire,100,36,0,0
+533,Auberry Fire,91,10,0,5
+534,Wilbur Fire,91,4,0,0
+535,Daulton Fire,90,20,0,0
+536,Ridge Fire,87,17,0,0
+537,Vista Fire,86,56,0,0
+538,Saw Fire,85,12,0,0
+539,Dollar Fire,85,36,0,0
+540,Country Fire,82,27,0,0
+541,Holiday Fire,80,9,0,0
+542,Mills File,79,32,0,0
+543,Fountain Fire ,79,54,0,0
+544,Castro Fire,78,43,0,0
+545,Spring Fire ,78,52,0,0
+546,McCourtney Fire (Wind Complex),76,29,0,15
+547,Tivy Fire,76,10,0,0
+548,Linne Fire,74,40,0,0
+549,Axel Fire,74,9,0,0
+550,Lynch Fire,73,40,0,0
+551,Ellis Fire,72,33,0,0
+552,Camatta Fire,70,40,0,0
+553,Felipe Fire,70,43,0,0
+554,Manning Fire,70,10,0,0
+555,Orange Fire,65,50,0,0
+556,Placentia Fire,63,33,0,0
+557,Westfall Fire,63,22,0,0
+558,Montezuma Fire,62,37,0,0
+559,Bottle Fire,62,17,0,0
+560,Bolla Fire,60,52,0,0
+561,Slides Fire,58,17,0,0
+562,Hogback Fire,58,54,0,0
+563,Live Fire,57,52,0,0
+564,Freedom Fire,57,10,0,0
+565,Bogus Fire,56,47,0,0
+566,Estate Fire,55,48,0,3
+567,Owens Fire,55,47,0,0
+568,Topanga Fire,55,19,0,0
+569,Quimby Fire,54,43,0,0
+570,Weller Fire,51,43,0,0
+571,Tank Fire,50,15,0,0
+572,Extension Fire,50,33,0,0
+573,Wilson Fire,50,19,0,0
+574,Skeggs Fire,50,41,0,0
+575,Calgary Fire,50,15,0,0
+576,Lago Fire,50,33,0,0
+577,Douglas Fire,50,37,0,0
+578,Serenas Fire,48,33,0,0
+579,Bitterwater Fire,47,35,0,0
+580,Zenon Fire,47,40,0,0
+581,Whitepine Fire,46,47,0,0
+582,Riverbottom Fire,45,33,0,0
+583,Pozo Fire,45,40,0,0
+584,Grace Fire,45,45,0,0
+585,Mines Fire,44,1,0,0
+586,Roser Fire,43,52,0,0
+587,Lockwood Fire,42,27,0,0
+588,Jones Fire,42,25,0,0
+589,Stokes Fire,41,19,0,0
+590,Feed Fire,41,15,0,0
+591,Riverdale Fire,40,33,0,0
+592,Palm Fire,40,33,0,0
+593,Freeway Fire,40,36,0,0
+594,Lakewood Fire,40,15,0,0
+595,Hole Fire,40,8,0,0
+596,Translator Fire,40,12,0,0
+597,Vestal Fire,40,52,0,0
+598,Reservation Fire,40,27,0,0
+599,Spenceville Fire,39,58,0,5
+600, Bridge Fire,37,45,0,0
+601,Banderilla Fire,36,22,0,0
+602,Melba Fire,35,33,0,0
+603,Spaletta Fire,35,21,0,0
+604,Breckenridge Fire,35,15,0,0
+605,Meyers Fire,34,36,0,0
+606,Ellie Fire,34,33,0,0
+607,Miller Fire,34,12,0,0
+608,Christmas Fire,33,33,0,0
+609,Creek Fire ,33,15,0,0
+610,Sandy Fire,32,53,0,0
+611,Shore Fire,32,27,0,0
+612,Pleyto Fire,32,27,0,0
+613,York Fire,31,27,0,0
+614,Juniper Fire,31,10,0,0
+615,Hub Fire,31,15,0,0
+616,Castaic Fire,30,19,0,0
+617,Blocksburg Fire,30,12,0,0
+618,Timber Fire,30,33,0,0
+619,Ice Fire,29,9,0,0
+620,Benson Fire,29,52,0,0
+621,32 Fire,28,4,0,0
+622,4-4 Fire,28,25,0,0
+623,Nuevo Fire,28,33,0,0
+624,4-10 Fire,27,25,0,0
+625,Vernon Fire,27,33,0,0
+626,Jasper Fire,26,58,0,0
+627,Trellis Fire,26,33,0,0
+628,Fairview Fire,26,33,0,0
+629,Cove Fire,25,40,0,0
+630,Border 9 Fire,25,37,0,0
+631,Hopper Fire,25,45,0,0
+632,Sloane Fire,25,37,0,0
+633,Road Fire,25,20,0,0
+634,5 Fire,25,19,0,0
+635,Ribbonwood Fire,25,37,0,0
+636,Portola Fire,23,33,0,0
+637,Edwards Fire,22,1,0,0
+638,Refuge Fire,22,28,0,0
+639,Mule Fire,21,17,0,0
+640,Globe Fire,21,54,0,0
+641,Blue Fire,20,12,0,0
+642,Seine Fire,20,36,0,0
+643,City Fire,20,16,0,0
+644,Nacimiento Fire,20,27,0,0
+645,Longhorn Fire,19,33,0,0
+646,Sway Fire,19,12,0,0
+647,Willms Fire,19,50,0,0
+648,Bodega Fire,18,49,0,0
+649,Lakeland Fire,18,4,0,0
+650,Panoche Fire,18,10,0,0
+651,Ramblin Fire,17,22,0,0
+652,Corner Fire,17,45,0,0
+653,Lonoak Fire,17,27,0,0
+654,Matz Fire,16,36,0,0
+655,Rusty Fire,16,10,0,0
+656,Paskenta Fire ,15,52,0,0
+657,Greenhorn Fire,15,29,0,0
+658,Alvarado Fire,15,27,0,0
+659,Lombardi Fire,15,5,0,0
+660,66 Fire,15,33,0,0
+661,Drum Fire,14,42,0,0
+662,Coast Fire,14,42,0,0
+663,Desabla Fire,14,4,0,0
+664,Moraga Fire,14,33,0,0
+665,Milton Fire,13,50,0,0
+666,Woodland Fire,13,9,0,0
+667,Rosado Fire,13,9,0,0
+668,Pacific Fire,12,4,0,0
+669,Shandon Fire,12,40,0,0
+670,Jameson Fire,12,33,0,0
+671,Independence Fire,11,49,0,0
+672,Lisa Fire,11,33,0,0
+673,Dexter Fire,10,22,0,0
+674,Shaver Fire,10,10,0,0
+675,Sandra Fire,10,3,0,0
+676,Rincon Fire,10,19,0,0
+677,Grizzly Fire,10,29,0,0
+678,Navajo Fire,10,33,0,0
+679,Rebie Fire,10,4,0,0
+680,Lambs Fire,10,33,0,0
+681,Shirleon Fire ,10,33,0,0
+682,Twenty Fire,10,58,0,0
+683,Champagne Fire,10,15,0,0
+684,Moreno Fire,10,33,0,0
+685,Soledad Fire,10,27,0,0
+686,Pressley Fire (Central LNU Complex),0,49,0,0
+687,Partrick Fire (Central LNU Complex),0,28,0,0
+688,Rattlesnake Fire,0,22,0,0
+689,Clear Complex (merged into Eclipse Complex),0,47,0,0
+690,Warner Mountain Lightning,0,25,0,0
+691,Klamath Fire,0,47,0,0
+692, Cristianitos Fire,0,37,0,0
+693,Salmon-August Complex ,0,47,0,0
+694,King Incident,0,54,0,0
+695,Oroville Spillway ,0,4,0,0
+696,Ranch Fire (Mendocino Complex),410203,"6,11,17,23",3,1296
+697,Carr Fire,229651,"45,53",0,1675
+698,Woolsey Fire,96949,"19,56",0,1984
+699,Ferguson Fire,96901,22,0,0
+700,County Fire,90288,"28,57",1,29
+701,Delta Fire,63311,"45,53",0,42
+702,River Fire (Mendocino Complex),48920,"6,17,23",0,1060
+703,Hirz Fire,46150,45,0,0
+704,Klamathon Fire,38008,47,3,95
+705,Donnell Fire,36450,55,0,0
+706,Whaleback Fire,18703,18,0,0
+707,Pawnee Fire,15185,17,1,22
+708,Waverly Fire,12300,39,0,1
+709,Boot Fire,6974,26,0,0
+710,Planada Fire,4564,24,0,0
+711,Lions Fire,4064,20,0,0
+712,Sun Fire,3889,52,0,0
+713,Lane Fire,3716,52,1,0
+714,Mill Creek 1 Fire,3674,12,0,0
+715,Charlie Fire,3380,19,0,0
+716,Five Fire,2995,16,0,0
+717,Tarina Fire,2950,15,0,0
+718,Georges Fire,2883,14,0,0
+719,Snell Fire,2490,28,0,0
+720,Chrome Fire,2290,11,0,1
+721,Turkey Fire,2225,27,0,0
+722,Hat Fire,1900,45,0,0
+723,Nees Fire,1756,24,0,0
+724,Kerlin Fire,1751,53,0,0
+725,Nurse Fire,1500,48,0,0
+726,Airline Fire,1314,35,0,0
+727,Moffat Fire,1265,14,0,0
+728,Patterson Fire,1261,33,0,0
+729,Front Fire,1014,42,0,0
+730,Eel Fire,972,23,0,0
+731,Dale Fire,856,52,0,0
+732,Irish Fire,825,3,0,1
+733,Eighty Eight Fire,822,57,0,0
+734,Sunset Fire,700,31,0,0
+735,Tumbleweed Fire,646,18,0,0
+736,Eastern Fire,513,35,0,0
+737,Hyatt Fire,441,18,0,4
+738,San Ardo,375,27,0,0
+739,Call Fire,367,15,0,0
+740,Pasqual Fire,365,37,0,0
+741,Shippee Fire,347,4,0,0
+742,Bascom Fire,328,45,0,0
+743,Shingle Fire,316,9,0,0
+744,ONeals Fire,300,20,0,0
+745,Alpha Fire,300,37,0,0
+746,South Fire,290,5,0,0
+747,Skyline Fire,282,33,0,0
+748,Stoll Fire,268,52,0,24
+749,Recycle Fire,265,37,1,0
+750,Santa Cruz Fire,258,42,0,0
+751,Rangeland Fire,250,37,0,0
+752,Steamboat Fire,224,47,0,0
+753,Petersburg Fire,215,47,0,0
+754,Ribbon Fire,205,33,0,0
+755,Par Fire,191,4,0,0
+756,Aliso Fire,175,30,0,0
+757,Ogilvy Fire,172,42,0,0
+758,Priest Fire,167,27,0,0
+759,Roxie Fire (Formerly 1-1 Fire),167,18,1,0
+760,Gorge Fire,155,45,0,0
+761,Santiago Fire,155,30,0,0
+762,Euclid Fire,154,33,0,0
+763,Irving Fire,152,21,0,0
+764,Sliger Fire,150,9,0,0
+765,Parrots Fire,136,5,0,0
+766,Steele Fire,135,28,0,12
+767,Pico Fire,128,19,0,0
+768,Open Fire,127,11,0,0
+769,Shastina Fire,127,47,0,0
+770,Sterling,125,36,0,0
+771,Market Fire,120,54,0,0
+772,Idria Fire,116,35,0,0
+773,Bridle Fire,116,43,0,0
+774,Windmill Fire,110,42,0,0
+775,Cobble Fire,108,10,0,0
+776,Western Fire,106,23,0,0
+777,Cache Fire,103,17,0,0
+778,Jelly Fire,103,52,0,0
+779,Balch Fire,100,54,0,0
+780,Box Fire,100,36,0,0
+781,Sam Fire,96,27,0,0
+782,Sheep Fire,95,15,0,0
+783,Peach Fire ,90,23,0,0
+784,3-16 Fire,89,18,0,0
+785,Horn Fire,88,18,0,0
+786,Redinger Fire,88,20,0,0
+787,Plaza Fire,88,24,0,0
+788,Spring 2 Fire,80,17,0,1
+789,Cruces Fire,77,42,0,0
+790,Anchor Fire,76,10,0,0
+791,Stony Fire,75,6,0,0
+792,Main Fire,73,33,0,0
+793,Tornado Fire,70,33,0,0
+794,Romero Fire,68,24,0,0
+795,Bumper Fire,67,9,0,0
+796,Heart Fire,67,23,0,0
+797,Omega Fire,66,9,0,4
+798,Benton Fire,63,33,0,0
+799,Stuhr Fire,63,50,0,0
+800,Lebec Fire,62,15,0,0
+801,Adams Fire,60,52,0,0
+802,Raymond Fire,60,20,0,0
+803,Creston FIre,60,40,0,0
+804,Happy Fire,60,42,0,0
+805,Agua Fire,59,37,0,0
+806,Camino Fire,58,40,0,0
+807,3-10 Fire,56,18,0,0
+808,Bruce Fire,56,7,0,0
+809,Experimental Fire,56,20,0,0
+810,Keenbrook Fire,53,36,0,0
+811,Copper Fire,53,18,0,0
+812,Boyer Fire,53,22,0,1
+813,Kelley Fire,52,25,0,0
+814,Crestline Fire,51,45,0,0
+815,Hale Fire,51,43,0,0
+816,Carder Fire,50,17,0,1
+817,Tuscan Fire,50,52,0,0
+818,Haycamp Fire,50,27,0,0
+819,Buckingham Fire,45,7,0,0
+820,Simmons Fire,43,4,2,0
+821,Martinez Fire,40,33,0,0
+822,Iron Fire,40,7,0,0
+823,Masonic Fire,38,45,0,0
+824,Adobe Fire,38,37,0,0
+825,Mustang Fire,37,40,0,0
+826,Martin Fire,37,47,0,0
+827,Winchester Fire,36,33,0,0
+828,Brushy Fire,35,23,0,0
+829,Terra Fire,35,33,0,0
+830,Marcel Fire,34,15,0,0
+831,Horse Creek Fire,34,54,0,0
+832,Nimshew Fire,33,4,0,0
+833,3-18 Fire,32,18,0,0
+834,Alhambra Fire,30,7,0,0
+835,Sobrante Fire,30,33,0,0
+836,Aqueduct Fire,30,10,0,0
+837,Ager Fire,27,47,0,0
+838,Soboba Fire,25,33,0,0
+839,Vineyard Fire,25,40,0,0
+840,Kelsey Fire,24,17,0,0
+841,Land Fire,23,33,0,0
+842,Glen Fire,23,7,0,0
+843,Plymire Fire,23,52,0,0
+844,Wagner Fire,22,22,0,7
+845,Niles Fire,20,1,0,0
+846,Vallecitos Fire,20,1,0,0
+847,Portola Fire ,20,19,0,0
+848,Jacques Fire,18,37,0,0
+849,Ethanac Fire,17,33,0,0
+850,Johnson Fire,16,12,0,0
+851,Keeler Fire,16,43,0,0
+852,Iron Gate Fire,15,47,0,0
+853,Essex Fire,15,25,0,0
+854,Woodchuck Fire,15,33,0,0
+855,Casner Fire,14,37,0,0
+856,3-2 Fire,14,18,0,0
+857,Madison FIre,14,57,0,0
+858,Ranchera Fire,13,45,0,0
+859,Cinnamon Fire,13,37,0,1
+860,Coldwell Fire,13,10,0,0
+861,Gray Fire,12,36,0,0
+862,School Fire,12,20,0,0
+863,Meamber Fire,12,47,0,0
+864,Resort Fire,12,40,0,0
+865,Bellagio Fire,12,28,0,0
+866,Volcan Fire,12,37,0,0
+867,Dark Fire,11,4,0,0
+868,Cornerstone Fire,11,20,0,0
+869,Grande Fire,11,33,0,0
+870,Bear Fire ,10,44,0,0
+871,Green Hill Fire,10,12,0,0
+872,Powellton Fire,10,4,0,0
+873,Keller Fire,10,33,0,0
+874,Syar Fire,10,28,0,0
+875,Lott Fire,10,47,0,0
+876,Building Fire,10,37,0,0
+877,Llano Fire,10,4,0,0
+878,Ranchita Fire,10,27,0,0
+879,Pallet Fire,10,49,0,0
+880,Jardin Fire,10,33,0,0
+881,70th Fire,10,33,0,0
+882,Honey Flooding,0,4,0,0
+883,Easy Fire,1806,56,0,0
+884,Rawson Fire,605,52,0,0
+885,Hill Fire ,494,33,0,0
+886,Cross Fire,289,"27,40",0,0
+887,Mud Fire ,137,10,0,0
+888,Wolf Fire,75,33,0,0
+889,Merrill Fire,40,7,0,0
+890,Rains Fire,35,50,0,0
+891,Whiskey Fire,27,5,0,0
+892,La Barisa Fire,26,36,0,0
+893,Chaparral Fire,22,9,0,0
+894,Mid Fire,22,1,0,0
+895,Kincade Fire,77758,49,4,434
+896,Tucker Fire,14217,25,0,0
+897,Taboose Fire,10296,14,0,0
+898,Maria Fire ,9999,56,0,4
+899,Red Bank Fire,8838,52,0,2
+900,Saddle Ridge Fire,8799,19,8,107
+901,R-1 Fire,3380,18,0,0
+902,Cave Fire (No Longer a CAL FIRE Incident),3126,42,0,0
+903,Long Valley Fire ,2438,18,0,0
+904,Tenaja,1926,33,3,2
+905,McMillan Fire,1764,40,0,0
+906,Border 8 Fire,1507,62,0,0
+907,West Butte Fire,1350,51,0,0
+908,Boulder Fire,1127,40,0,0
+909,W1 McDonald Fire,1020,18,0,0
+910,Gillis Fire,974,40,0,0
+911,Belmont Fire,835,40,0,0
+912,Marsh Complex,757,7,0,0
+913,Getty Fire ,745,19,0,0
+914,Burris Fire,703,23,0,0
+915,Jerry Fire,525,33,0,0
+916,Caliente Fire,448,37,0,0
+917,Real Fire,420,42,0,0
+918,Reche Fire,350,33,0,2
+919,46 Fire,328,33,0,0
+920,Hwy Fire,300,4,0,0
+921,Hollow Fire,283,39,0,0
+922,Rams Horn Fire,280,53,0,0
+923,Snail Fire,279,56,0,0
+924,Snowstorm Fire,263,18,0,0
+925,R-6 Fire,260,18,0,0
+926,Citrus Fire,257,54,0,0
+927,Sycamore Fire,250,33,0,0
+928,Henthorne Fire,244,53,0,0
+929,Kidder 2 Fire,227,47,0,0
+930,Moose Fire,225,23,3,0
+931,Lopez Fire,220,40,4,24
+932,Wolf Fire ,214,33,0,0
+933,Madera Fire ,213,20,0,0
+934,Merced Fire ,210,24,0,0
+935,Malech Fire,210,43,0,0
+936,Lumgrey Fire,207,47,0,0
+937,Milton Fire ,202,50,0,0
+938,Hillside Fire,200,36,0,0
+939,Cypress Complex,200,7,0,0
+940,Olivas Fire,200,56,0,0
+941,McMurray Fire,200,42,0,0
+942,Doyle Fire,193,18,0,0
+943,Sargent Fire,190,27,0,0
+944,Vulcan Fire,172,15,0,0
+945,Bautista Fire,167,33,0,0
+946,Cottage Fire,156,45,0,0
+947,Spruce Fire,155,54,0,0
+948,Sky Fire ,150,7,0,0
+949,Dyer Fire,148,31,0,0
+950,Glencove Fire ,140,48,0,0
+951,South Fire ,131,56,0,0
+952,Shady Fire,130,33,0,0
+953,Goose 2 Fire,128,25,0,0
+954,Weisgarber Fire,120,37,0,0
+955,Bitter Fire ,120,40,0,0
+956,Woody Fire,115,15,0,0
+957,Meadow Fire (Not a CAL FIRE incident),103,25,0,0
+958,Kennedy Fire,98,33,0,0
+959,Sawday Fire ,97,37,0,0
+960,Orange fire,96,33,0,0
+961,Toro Fire ,94,33,0,0
+962,Trinity Fire,90,45,0,0
+963,Timm Fire ,81,48,0,0
+964,Nelson Fire ,80,4,0,0
+965,Ivy Fire,80,33,0,0
+966,Levee Fire,70,58,0,0
+967,Corning Fire ,68,52,0,0
+968,Jolon Fire,66,27,0,0
+969,Sugar Fire,65,31,0,0
+970,Cabrillo Fire,62,41,0,0
+971,Forbestown Fire,58,4,0,0
+972,Forest Fire,50,7,0,0
+973,Prairie Fire ,50,34,0,0
+974,Ink Fire,50,28,0,0
+975,Aborn Fire,47,43,0,0
+976,Lower Fire,46,45,0,0
+977,Diversion Fire,45,33,0,0
+978,Flood Fire ,44,39,0,0
+979,Ardo Fire,43,27,0,0
+980,Palisades Fire,42,19,0,0
+981,Plains Fire,42,45,0,0
+982,Calaveras Fire ,35,43,0,0
+983,Yucca Fire,34,33,0,0
+984,Heavy Range Fire,33,57,0,0
+985,Yokohl Fire,33,54,0,0
+986,Bitter Fire,30,40,0,0
+987,Point Fire ,29,43,0,0
+988,Glass Fire,28,17,0,0
+989,Watt Fire,27,31,0,0
+990,Border 10 Fire,25,"62,37",0,0
+991,Bikeway Fire,25,1,0,0
+992,Fellow Fire,24,7,0,0
+993,Preston Fire,21,55,0,0
+994,Radio Fire,20,33,0,0
+995,Golf Fire,20,17,0,0
+996,Gibbel Fire ,20,33,0,0
+997,Sobrante Fire ,19,33,0,0
+998,Warren Fire,19,33,0,0
+999,Carroll Fire,19,1,0,0
+1000,Del Fire,18,50,0,0
+1001,Foster Fire ,17,35,0,0
+1002,Greenstone Fire ,16,9,0,0
+1003,Duzel Fire,15,47,0,0
+1004,Telephone Fire,15,36,0,0
+1005,Pauma Fire,15,37,0,0
+1006,Carson Fire,13,9,0,0
+1007,Mayberry Fire ,12,4,0,0
+1008,Beaumont Fire,11,36,0,0
+1009,Dales Fire,11,52,0,0
+1010,Fairmont Fire,10,37,0,0
+1011,Inghram Fire,10,52,0,1
+1012,Electra Fire,10,3,1,0
+1013,IronGate Fire,10,47,0,0
+1014,Cana Fire,10,4,0,0
+1015,Springs Fire,24251,56,10,16
+1016,Pfeiffer Fire,917,27,0,0
+1017,Jurupa Fire,311,33,0,0
+1018,Becks Fire,296,17,0,0
+1019,Daves Fire,226,11,0,0
+1020,Tassajara Fire,213,27,0,0
+1021,Highland Fire,150,1,0,0
+1022,Neal Fire,150,4,0,0
+1023,Bee Fire,100,19,0,0
+1024,Butte Fire,80,10,0,0
+1025,Tehama Fire,75,52,0,0
+1026,Cedar Fire,72,4,0,0
+1027,Happy Camp Fire,44,56,0,0
+1028,Valley Fire,40,37,0,0
+1029,Trout Fire,40,47,0,0
+1030,Honey Fire,34,45,0,0
+1031,Refuse Fire,15,23,0,0
+1032,Ranger Fire,15,20,0,0
+1033,July Complex,50042,47,0,0
+1034,Beaver Fire,32496,47,0,0
+1035,Pulgas Fire,14416,37,0,0
+1036,French Fire,13838,20,0,0
+1037,Lodge Lightning Complex,12536,23,15,0
+1038,Stoney Fire,4840,27,0,0
+1039,Meadow Fire,4772,22,0,0
+1040,El Portal Fire,4689,22,0,0
+1041,Dark Hole Fire,1080,22,0,0
+1042,Hunters Fire,677,22,9,3
+1043,Applegate Fire,459,31,2,10
+1044,Black Fire,403,23,3,11
+1045,Web Fire,389,4,4,0
+1046,Bridge Fire,300,22,3,0
+1047,Gun Club Fire,300,24,0,0
+1048,Curie Fire,125,43,0,0
+1049,Brewer Fire,120,31,0,0
+1050,Saratoga Fire,100,17,0,0
+1051,Interstate Fire,100,33,0,0
+1052,Casa Fire,80,43,0,0
+1053,Montgomery Fire,79,22,0,0
+1054,Sabina Fire,78,33,0,0
+1055,Ranch Fire,70,15,0,0
+1056,June Fire,65,14,0,0
+1057,Nelson Fire,62,23,0,0
+1058,Honcut Fire,60,4,0,0
+1059,Freeway Fire ,56,37,0,0
+1060,McClellan Fire,37,12,0,0
+1061,Bogart Fire,31,33,0,0
+1062,Siskiyou County Lightning Fires,30,47,0,0
+1063,Foothill Fire ,25,56,0,0
+1064,Iowa Fire,14,31,0,0
+1065,Santa Fire,14,33,0,0
+1066,South Napa Earthquake,6,28,0,0
+1067,River Complex,77081,53,0,0
+1068,Fork Complex,36503,53,0,0
+1069,Gasquet Complex,30361,8,0,0
+1070,South Complex,29416,53,0,0
+1071,Nickowitz Fire,7509,8,0,0
+1072,Round Fire,7000,"14,26",4,45
+1073,Humboldt Lightning Fires,4883,12,14,7
+1074,Walker Fire,3676,26,0,0
+1075,Horno Fire,1850,37,0,0
+1076,Park Hill Fire,1791,40,4,23
+1077,Meridian Fire,860,4,0,0
+1078,Van Dyke Fire,509,26,0,0
+1079,Sky Fire,500,20,0,0
+1080,Tenaya Fire,415,22,0,0
+1081,Lincoln Fire,374,19,0,0
+1082,Ione Fire,355,3,0,0
+1083,Warm Fire,300,19,0,0
+1084,Site Fire,300,1,0,0
+1085,Chorro Fire,282,56,0,0
+1086,Christensen Fire,242,1,0,0
+1087,Mendocino National Forest Lightning Complex,227,23,0,0
+1088,Pacheco Fire,215,43,0,0
+1089,Mesa Fire,211,42,0,0
+1090,Rustic Fire,186,56,0,0
+1091,Flat Fire ,167,15,0,0
+1092,Merwin Fire,150,33,0,0
+1093,Collier Fire,122,39,0,0
+1094,Shinn Fire,111,18,0,0
+1095,Apple Fire,110,34,0,0
+1096,Riosa Fire,110,31,0,0
+1097,Harrison Fire,80,33,0,0
+1098,Webb Fire,75,4,0,0
+1099,Prairie Fire,69,47,0,0
+1100,Scales Fire,65,36,0,0
+1101,Kerkhoff Fire,60,10,0,0
+1102,Grapefruit Fire,60,33,0,0
+1103,Triangle Fire,60,22,0,0
+1104,Military Fire,58,47,0,0
+1105,Antelope Fire,45,15,0,0
+1106,Geary Fire,45,1,0,0
+1107,FKU Lightning Fires,45,10,0,0
+1108,Mason Fire ,43,25,0,0
+1109,Garage Fire,36,28,0,0
+1110,Banister Fire,29,56,0,0
+1111,Buckaroo Fire,25,9,0,0
+1112,Fox Fire,25,22,0,0
+1113,Oasis Fire,25,17,0,0
+1114,Snow Fire,25,33,0,0
+1115,Mad River Complex,0,53,0,0
+1116,Rey Fire ,32606,42,0,0
+1117,San Gabriel Complex (Formerly Fish & Reservoir Fires),5399,19,0,0
+1118,Roberts Fire,3712,40,0,0
+1119,Clark Fire,2819,26,0,0
+1120,Flat Fire,306,15,0,0
+1121,King Fire ,237,35,0,2
+1122,Briggs Fire,173,33,0,0
+1123,Hills Fire,151,10,0,0
+1124,Maze Fire,140,50,0,0
+1125,Rock Creek Fire,122,26,0,0
+1126,Bailey Fire,100,43,0,0
+1127,Cheyenne Fire,83,5,1,3
+1128,Serpa Fire,80,20,0,0
+1129,Mill Fire,56,47,0,0
+1130,Casitas Fire,50,56,0,0
+1131,Dockery Fire,42,18,0,0
+1132,Evergreen Fire,40,33,0,0
+1133,Alder Fire,25,9,0,0
+1134,North Branch Extension Fire,25,17,0,0
+1135,Edison Fire,20,56,0,0
+1136,Modoc July Complex,83120,25,0,0
+1137,Schaeffer Fire,16031,54,0,0
+1138,Adobe Fire (Central LNU Complex),1868,49,0,0
+1139,Platina Fire,21,45,0,0
+1140,Dehesa Fire,12,37,0,0
+1141,Cranston Fire,13139,33,0,12
+1142,Branscombe Fire,4500,48,0,0
+1143,Twisselman Fire,293,15,0,0
+1144,Wilcox Fire,33,54,0,0
+1145,Montecito Flooding / Mudflows,0,"42,56",0,0
+1146,Girasol Fire,30,33,0,0
