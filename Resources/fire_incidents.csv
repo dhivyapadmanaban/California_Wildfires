@@ -1,0 +1,1147 @@
+id,fire_name,fire_started_date,fire_extinguished_date,archive_year,county_id,state,cause_id,cause_description,percent_contained,total_acres_burned,major_incident
+1,Rim Fire,2013-08-17,2013-09-06,2013,55,CA,14,Unidentified,100,257314,f
+2,Powerhouse Fire,2013-05-30,2013-06-08,2013,19,CA,14,Unidentified,100,30274,f
+3,Mountain Fire,2013-07-15,2013-07-30,2013,33,CA,9,Miscellaneous,100,27531,f
+4,American Fire,2013-08-10,2013-08-30,2013,31,CA,14,Unidentified,100,27440,f
+5,Aspen Fire,2013-07-22,2013-09-24,2013,10,CA,14,Unidentified,100,22992,f
+6,Silver Fire,2013-08-07,2013-08-12,2013,33,CA,14,Unidentified,100,20292,t
+7,Salmon River Complex,2013-07-31,2013-08-31,2013,47,CA,14,Unidentified,100,14754,f
+8,Corral Complex,2013-08-10,2013-08-12,2013,12,CA,14,Unidentified,100,12503,f
+9,Deer Fire,2013-08-23,2013-08-29,2013,52,CA,9,Miscellaneous,100,11429,t
+10,Clover Fire,2013-09-09,2013-09-15,2013,45,CA,7,Arson,100,8073,t
+11,Chariot Fire,2013-07-06,2013-07-15,2013,37,CA,14,Unidentified,100,7055,t
+12,Panther Fire,2013-05-01,2013-05-09,2013,52,CA,14,Unidentified,100,6965,t
+13,Grand Fire,2013-05-15,2013-05-21,2013,"15,56",CA,14,Unidentified,100,4346,t
+14,McCabe Fire,2013-11-22,2013-11-27,2013,49,CA,14,Unidentified,100,3505,t
+15,Summit Fire,2013-05-01,2013-05-04,2013,33,CA,18,Escaped Prescribed Burn,100,3166,t
+16,Morgan Fire,2013-09-08,2013-09-14,2013,7,CA,14,Unidentified,100,3111,t
+17,San Felipe Fire,2013-05-23,2013-05-26,2013,37,CA,14,Unidentified,100,2781,t
+18,Swedes Fire,2013-08-16,2013-08-22,2013,4,CA,14,Unidentified,100,2462,t
+19,DeLuz Fire,2013-10-05,2013-10-09,2013,37,CA,14,Unidentified,100,2236,f
+20,Fish Fire,2013-08-24,2013-09-24,2013,54,CA,14,Unidentified,100,2060,f
+21,White Fire,2013-05-27,2013-05-30,2013,42,CA,14,Unidentified,100,1984,f
+22,Carstens Fire,2013-06-16,2013-06-26,2013,22,CA,14,Unidentified,100,1708,t
+23,Falls Fire,2013-08-05,2013-08-09,2013,"33,",CA,14,Unidentified,100,1383,f
+24,General Fire,2013-05-26,2013-05-31,2013,37,CA,9,Miscellaneous,100,1271,t
+25,Power Fire,2013-08-05,2013-08-14,2013,55,CA,9,Miscellaneous,100,1070,f
+26,Shirley Fire,2013-08-18,2013-08-24,2013,15,CA,14,Unidentified,100,794,f
+27,Rancho Fire,2013-07-19,2013-07-22,2013,15,CA,14,Unidentified,100,712,t
+28,Lake Fire,2013-05-17,2013-05-18,2013,19,CA,3,Smoking,100,712,f
+29,Water Fire,2013-07-23,2013-07-25,2013,15,CA,14,Unidentified,100,612,f
+30,Kyburz Fire,2013-07-08,2013-07-11,2013,9,CA,9,Miscellaneous,100,572,f
+31,Mills Fire,2013-06-28,2013-07-01,2013,36,CA,14,Unidentified,100,534,t
+32,Plumas Lightning Complex (Hough),2013-08-18,2013-08-25,2013,32,CA,14,Unidentified,100,513,f
+33,Gorgonio Fire,2013-05-04,2013-05-05,2013,33,CA,14,Unidentified,100,510,f
+34,Fox Fire (formally 3-7 Fire),2013-07-03,2013-07-05,2013,25,CA,14,Unidentified,100,502,f
+35,Branch Fire,2013-06-01,2013-06-03,2013,40,CA,14,Unidentified,100,500,f
+36,Kirker Fire,2013-07-01,2013-07-01,2013,7,CA,14,Unidentified,100,492,f
+37,Rolling Fire,2013-06-16,2013-06-18,2013,20,CA,10,Vehicle,100,482,t
+38,Gobblers Fire,2013-08-20,2013-08-20,2013,36,CA,14,Unidentified,100,413,f
+39,River Fire,2013-02-24,2013-02-28,2013,14,CA,14,Unidentified,100,406,t
+40,Putah Fire,2013-10-03,2013-10-04,2013,28,CA,14,Unidentified,100,376,t
+41,Tres Pinos Fire,2013-05-03,2013-05-03,2013,35,CA,2,Equipment Use,100,354,f
+42,Shelton Fire,2013-05-30,2013-05-30,2013,39,CA,2,Equipment Use,100,303,f
+43,Lone Fire,2013-06-03,2013-06-03,2013,4,CA,2,Equipment Use,100,298,t
+44,Concord Fire,2013-07-01,2013-07-01,2013,7,CA,14,Unidentified,100,274,f
+45,Gold Fire,2013-04-30,2013-05-01,2013,20,CA,5,Debris,100,274,f
+46,Madre Fire,2013-09-23,2013-09-28,2013,19,CA,14,Unidentified,100,268,f
+47,Lyon Fire,2013-09-09,2013-09-12,2013,37,CA,9,Miscellaneous,100,263,t
+48,Sharp Fire,2013-08-08,2013-08-13,2013,36,CA,7,Arson,100,243,f
+49,Vasco Fire,2013-06-08,2013-06-08,2013,1,CA,14,Unidentified,100,240,f
+50,PFE Fire,2013-06-13,2013-06-13,2013,31,CA,14,Unidentified,100,237,f
+51,306 Fire,2013-05-01,2013-05-05,2013,11,CA,14,Unidentified,100,217,t
+52,Sierra Fire,2013-09-24,2013-09-30,2013,36,CA,14,Unidentified,100,200,f
+53,Vina Fire,2013-07-04,2013-07-04,2013,52,CA,8,Playing with fire,100,200,f
+54,Burney Lightning Series (Warner Fire),2013-08-19,2013-08-23,2013,45,CA,14,Unidentified,100,196,t
+55,Paskenta Fire,2013-07-19,2013-07-19,2013,52,CA,14,Unidentified,100,195,f
+56,Silverado Fire,2013-11-21,2013-11-23,2013,28,CA,14,Unidentified,100,190,t
+57,Olive Fire,2013-05-28,2013-05-29,2013,42,CA,14,Unidentified,100,170,f
+58,Capay Fire,2013-11-04,2013-11-04,2013,57,CA,14,Unidentified,100,163,f
+59,50 Fire,2013-07-19,2013-07-19,2013,"9,34",CA,14,Unidentified,100,163,f
+60,Crane Fire,2013-10-04,2013-10-05,2013,49,CA,9,Miscellaneous,100,159,f
+61,Lakeville Fire,2013-07-26,2013-07-26,2013,49,CA,14,Unidentified,100,158,f
+62,Redlands Fire,2013-07-16,2013-07-17,2013,33,CA,14,Unidentified,100,150,f
+63,Diablo Fire,2013-07-12,2013-07-13,2013,50,CA,14,Unidentified,100,150,f
+64,George Fire,2013-06-25,2013-06-25,2013,10,CA,14,Unidentified,100,150,f
+65,Magic Fire,2013-05-28,2013-05-29,2013,19,CA,14,Unidentified,100,149,f
+66,Angora Fire,2013-09-08,2013-09-24,2013,54,CA,14,Unidentified,100,134,f
+67,Yellow Fire,2013-05-01,2013-05-03,2013,49,CA,14,Unidentified,100,125,t
+68,California Fire,2013-06-18,2013-06-18,2013,48,CA,14,Unidentified,100,124,f
+69,152 Fire,2013-06-04,2013-06-05,2013,24,CA,14,Unidentified,100,124,f
+70,Smiley Fire,2013-05-25,2013-05-25,2013,33,CA,9,Miscellaneous,100,124,f
+71,Cantwell Fire,2013-11-08,2013-11-10,2013,17,CA,2,Equipment Use,100,120,t
+72,Union Fire,2013-08-16,2013-08-16,2013,9,CA,14,Unidentified,100,116,t
+73,Cleghorn Fire,2013-08-17,2013-08-18,2013,36,CA,14,Unidentified,100,110,f
+74,Clinton Fire,2013-06-13,2013-06-13,2013,10,CA,14,Unidentified,100,108,f
+75,Freeman Fire,2013-06-29,2013-06-29,2013,27,CA,10,Vehicle,100,105,f
+76,Murphy Fire,2013-06-02,2013-06-02,2013,55,CA,9,Miscellaneous,100,100,f
+77,Border Fire,2013-05-22,2013-05-23,2013,37,CA,10,Vehicle,100,100,f
+78,Davis Creek Complex,2013-09-05,2013-09-24,2013,25,CA,14,Unidentified,100,97,f
+79,Little Fire,2013-08-24,2013-08-30,2013,36,CA,14,Unidentified,100,97,f
+80,Coyote Fire,2013-08-09,2013-08-12,2013,18,CA,14,Unidentified,100,97,f
+81,Roadrunner Fire,2013-06-12,2013-06-13,2013,3,CA,14,Unidentified,100,96,f
+82,Creek Fire,2013-09-24,2013-09-24,2013,40,CA,9,Miscellaneous,100,94,f
+83,Lilly 2 Fire,2013-05-19,2013-05-20,2013,20,CA,14,Unidentified,100,91,t
+84,Adelaida Fire,2013-07-07,2013-07-07,2013,40,CA,14,Unidentified,100,85,f
+85,Retek Fire,2013-11-22,2013-11-22,2013,23,CA,14,Unidentified,100,82,f
+86,Centerville Fire,2013-08-31,2013-09-01,2013,4,CA,9,Miscellaneous,100,80,t
+87,Silverwood Fire,2013-07-25,2013-07-26,2013,36,CA,14,Unidentified,100,75,f
+88,Revis Fire,2013-06-12,2013-06-14,2013,20,CA,14,Unidentified,100,75,t
+89,Lytle Fire,2013-05-13,2013-05-15,2013,36,CA,14,Unidentified,100,75,t
+90,Liveoak Fire,2013-09-11,2013-09-12,2013,36,CA,1,Lightning,100,73,f
+91,McGanney Fire,2013-07-08,2013-07-08,2013,58,CA,2,Equipment Use,100,73,f
+92,Double Fire,2013-08-16,2013-08-18,2013,17,CA,14,Unidentified,100,70,t
+93,Rail Fire,2013-09-07,2013-09-05,2013,25,CA,14,Unidentified,100,68,f
+94,Wheeler Fire,2013-11-14,2013-11-15,2013,56,CA,14,Unidentified,100,64,f
+95,Tram Fire,2013-08-06,2013-08-08,2013,33,CA,14,Unidentified,100,60,f
+96,Relay Fire,2013-08-04,2013-08-04,2013,33,CA,9,Miscellaneous,100,60,f
+97,Tyler Fire,2013-08-31,2013-08-31,2013,29,CA,14,Unidentified,100,52,f
+98,Toro Fire,2013-11-08,2013-11-09,2013,40,CA,10,Vehicle,100,51,t
+99,Bruner Fire,2013-11-23,2013-11-24,2013,17,CA,14,Unidentified,100,50,f
+100,Cottonwood Fire,2013-08-15,2013-08-15,2013,47,CA,2,Equipment Use,100,50,f
+101,Uvas Fire,2013-07-12,2013-07-12,2013,43,CA,4,Campfire,100,50,f
+102,Grant Fire,2013-07-04,2013-07-04,2013,1,CA,8,Playing with fire,100,50,f
+103,Homestead Fire,2013-05-25,2013-05-25,2013,40,CA,9,Miscellaneous,100,50,f
+104,Bridges Fire,2013-08-17,2013-08-19,2013,5,CA,14,Unidentified,100,46,t
+105,Pratt Fire,2013-07-23,2013-07-23,2013,23,CA,14,Unidentified,100,45,f
+106,Fiddler Fire,2013-07-09,2013-07-09,2013,45,CA,2,Equipment Use,100,43,f
+107,Viper Fire,2013-06-08,2013-06-08,2013,33,CA,14,Unidentified,100,42,f
+108,Chestnut Fire,2013-09-07,2013-09-07,2013,41,CA,14,Unidentified,100,41,f
+109,Baker Fire,2013-10-06,2013-10-09,2013,30,CA,14,Unidentified,100,40,f
+110,Pierce Fire,2013-08-16,2013-08-16,2013,33,CA,14,Unidentified,100,40,f
+111,Heacock Fire,2013-07-19,2013-07-20,2013,33,CA,14,Unidentified,100,40,f
+112,Palmyrita Fire,2013-06-14,2013-06-15,2013,33,CA,14,Unidentified,100,40,f
+113,54 Fire,2013-05-16,2013-05-17,2013,33,CA,14,Unidentified,100,40,t
+114,Empire Fire,2013-08-24,2013-08-24,2013,9,CA,14,Unidentified,100,38,f
+115,Indian Fire,2013-08-07,2013-08-07,2013,17,CA,14,Unidentified,100,38,f
+116,Fallon Fire,2013-07-06,2013-07-06,2013,1,CA,14,Unidentified,100,38,f
+117,Michelle Fire,2013-06-13,2013-06-13,2013,10,CA,14,Unidentified,100,35,f
+118,Cottontail Fire,2013-05-20,2013-05-20,2013,40,CA,14,Unidentified,100,35,f
+119,Dersch Fire,2013-11-07,2013-11-07,2013,45,CA,14,Unidentified,100,33,f
+120,Chuckwagon Fire,2013-07-22,2013-07-23,2013,5,CA,14,Unidentified,100,31,f
+121,Lakeshore Fire,2013-09-15,2013-09-15,2013,17,CA,14,Unidentified,100,30,t
+122,Fawnskin Fire,2013-04-20,2013-04-22,2013,36,CA,14,Unidentified,100,30,f
+123,Sonoma-Lake-Napa Unit Lightning Fires,2013-06-10,2013-06-14,2013,"49,48,17,6",CA,14,Unidentified,100,28,t
+124,Cloverdale Fire,2013-08-14,2013-08-14,2013,45,CA,14,Unidentified,100,27,f
+125,Flume Fire,2013-07-28,2013-07-28,2013,37,CA,14,Unidentified,100,25,f
+126,Mount Fire,2013-06-20,2013-06-20,2013,17,CA,14,Unidentified,100,25,f
+127,Cherry Fire,2013-05-20,2013-05-20,2013,33,CA,14,Unidentified,100,25,f
+128,Dam Fire,2013-11-23,2013-11-24,2013,17,CA,14,Unidentified,100,23,f
+129,Gilman Fire,2013-07-19,2013-07-19,2013,33,CA,14,Unidentified,100,15,f
+130,Orleans Complex,2013-08-03,2013-08-03,2013,12,CA,14,Unidentified,100,0,f
+131,Hathaway Fire,2013-06-09,2013-06-09,2013,33,CA,2,Equipment Use,100,0,f
+132,King Fire,2014-09-13,2014-10-09,2014,9,CA,14,Unidentified,100,97717,t
+133,Bald Fire,2014-07-30,2014-08-15,2014,45,CA,1,Lightning,100,39736,f
+134,Oregon Gulch Fire (part of the Beaver Complex),2014-07-30,2014-08-18,2014,47,CA,14,Unidentified,100,35302,f
+135,Eiler Fire,2014-07-31,2014-08-25,2014,45,CA,14,Unidentified,100,32416,t
+136,Day Fire,2014-07-30,2014-08-13,2014,25,CA,1,Lightning,100,13153,t
+137,Bully Fire,2014-07-11,2014-07-26,2014,45,CA,14,Unidentified,100,12661,t
+138,Monticello Fire,2014-07-04,2014-07-12,2014,57,CA,14,Unidentified,100,6488,t
+139,Coffee Fire,2014-07-30,2014-11-14,2014,45,CA,14,Unidentified,100,6258,f
+140,Little Deer Fire,2014-07-31,2014-08-18,2014,47,CA,14,Unidentified,100,5503,f
+141,Tomahawk Fire,2014-05-14,2014-05-19,2014,37,CA,14,Unidentified,100,5367,t
+142,Butts Fire,2014-07-01,2014-07-09,2014,"28,17",CA,9,Miscellaneous,100,4300,t
+143,Sand Fire,2014-07-25,2014-08-02,2014,"3,9",CA,14,Unidentified,100,4240,t
+144,Way Fire,2014-08-18,2014-08-27,2014,15,CA,14,Unidentified,100,4045,f
+145,Etiwanda Fire,2014-04-30,2014-05-05,2014,36,CA,14,Unidentified,100,2143,t
+146,Cocos Fire,2014-05-14,2014-05-22,2014,37,CA,14,Unidentified,100,1995,t
+147,Colby Fire,2014-01-16,2014-01-27,2014,19,CA,14,Unidentified,100,1952,f
+148,Nicolls Fire ,2014-07-11,2014-07-21,2014,15,CA,14,Unidentified,100,1680,f
+149,Modoc Lightning Complex,2014-07-01,2014-07-03,2014,25,CA,14,Unidentified,100,1651,f
+150,Bernardo Fire,2014-05-13,2014-05-17,2014,37,CA,14,Unidentified,100,1548,t
+151,Gulch Fire,2014-07-03,2014-07-07,2014,25,CA,14,Unidentified,100,1469,t
+152,San Mateo Fire,2014-05-16,2014-05-20,2014,37,CA,14,Unidentified,100,1457,f
+153,Campbell Fire,2014-01-02,2014-01-10,2014,52,CA,4,Campfire,100,865,f
+154,Miguelito Fire,2014-05-13,2014-05-19,2014,42,CA,11,Powerline,100,632,t
+155,Junction Fire,2014-08-18,2014-08-25,2014,20,CA,14,Unidentified,100,612,t
+156,Poinsettia Fire,2014-05-14,2014-05-17,2014,37,CA,14,Unidentified,100,600,f
+157,Oregon Fire,2014-08-24,2014-08-28,2014,53,CA,14,Unidentified,100,580,t
+158,Boles Fire,2014-09-15,2014-10-11,2014,47,CA,14,Unidentified,100,516,t
+159,59 Fire,2014-06-04,2014-06-05,2014,55,CA,10,Vehicle,100,487,f
+160,Encinal Fire,2014-03-19,2014-03-21,2014,27,CA,14,Unidentified,100,400,t
+161,Highway Fire,2014-05-14,2014-05-15,2014,37,CA,14,Unidentified,100,380,t
+162,Red Fire,2014-01-04,2014-01-08,2014,12,CA,5,Debris,100,333,f
+163,Courtney Fire,2014-09-14,2014-09-22,2014,20,CA,5,Debris,100,320,t
+164,Dog Rock Fire,2014-10-07,2014-10-12,2014,22,CA,14,Unidentified,100,311,f
+165,Tecolote Fire,2014-08-17,2014-12-12,2014,19,CA,14,Unidentified,100,274,f
+166,Hetch Hetchy Fire,2014-06-05,2014-06-06,2014,55,CA,14,Unidentified,100,269,f
+167,Dog Bar Fire,2014-09-13,2014-09-18,2014,29,CA,14,Unidentified,100,247,t
+168,Banner Fire,2014-07-03,2014-07-06,2014,37,CA,14,Unidentified,100,217,t
+169,Bald Hill 3 Fire,2014-09-12,2014-09-15,2014,12,CA,14,Unidentified,100,210,f
+170,Shoemaker Fire,2014-08-14,2014-12-12,2014,19,CA,14,Unidentified,100,190,f
+171,Dry Fire,2014-07-09,2014-07-10,2014,45,CA,14,Unidentified,100,143,f
+172,Haigh Fire,2014-06-10,2014-06-13,2014,22,CA,14,Unidentified,100,130,t
+173,Gun Fire,2014-03-08,2014-03-11,2014,37,CA,14,Unidentified,100,125,f
+174,Irene Fire,2014-09-14,2014-09-17,2014,9,CA,14,Unidentified,100,94,f
+175,Oak Fire,2014-06-22,2014-06-24,2014,5,CA,14,Unidentified,100,85,t
+176,Boca Fire,2014-08-18,2014-08-19,2014,29,CA,14,Unidentified,100,84,f
+177,Marsh Fire,2014-07-11,2014-07-12,2014,7,CA,14,Unidentified,100,80,t
+178,Cassel Fire,2014-07-05,2014-07-08,2014,45,CA,9,Miscellaneous,100,75,t
+179,San Lucas Fire,2014-04-30,2014-05-01,2014,27,CA,14,Unidentified,100,75,f
+180,Wildlife Fire,2014-07-14,2014-07-16,2014,4,CA,1,Lightning,100,72,f
+181,Jackson Fire,2014-09-04,2014-09-05,2014,55,CA,14,Unidentified,100,70,f
+182,Van Buren Fire,2014-03-28,2014-03-29,2014,33,CA,14,Unidentified,100,57,f
+183,Bane Fire,2014-10-16,2014-10-17,2014,36,CA,14,Unidentified,100,48,f
+184,Interlake Fire,2014-07-07,2014-07-08,2014,",40",CA,14,Unidentified,100,47,f
+185,Hutto Fire,2014-07-07,2014-07-08,2014,29,CA,14,Unidentified,100,38,f
+186,Bible Fire,2014-07-09,2014-07-09,2014,9,CA,14,Unidentified,100,30,f
+187,Jacumba Fire,2014-05-05,2014-05-06,2014,37,CA,10,Vehicle,100,29,f
+188,Stage Coach Fire,2014-09-11,2014-09-15,2014,28,CA,14,Unidentified,100,27,f
+189,Leopard Fire,2014-08-29,2014-08-29,2014,45,CA,14,Unidentified,100,25,f
+190,Hall Fire,2014-06-11,2014-06-09,2014,10,CA,14,Unidentified,100,25,f
+191,Cascade Fire,2014-09-25,2014-09-25,2014,9,CA,14,Unidentified,100,20,f
+192,West Fire,2014-07-01,2014-07-03,2014,53,CA,14,Unidentified,100,15,f
+193,Pines Fire,2014-08-26,2014-12-12,2014,20,CA,14,Unidentified,100,10,f
+194,Happy Camp Complex,2014-08-11,2014-08-14,2014,47,CA,1,Lightning,100,0,f
+195,Rough Fire ,2015-07-31,2015-11-09,2015,10,CA,14,Unidentified,100,151623,f
+196,Rocky Fire,2015-07-29,2015-08-14,2015,17,CA,9,Miscellaneous,100,69438,t
+197,Jerusalem Fire,2015-08-09,2015-08-25,2015,"17,28",CA,14,Unidentified,100,25118,t
+198,Dodge Fire,2015-08-03,2015-08-04,2015,18,CA,14,Unidentified,100,10570,f
+199,Cabin Fire,2015-07-19,2015-09-05,2015,54,CA,14,Unidentified,100,6980,f
+200,Willow Fire,2015-07-25,2015-08-13,2015,20,CA,14,Unidentified,100,5702,f
+201,Frog Fire,2015-07-30,2015-07-31,2015,25,CA,1,Lightning,100,4863,f
+202,North Fire,2015-07-17,2015-07-21,2015,36,CA,14,Unidentified,100,4250,t
+203,Tesla Fire,2015-08-19,2015-08-22,2015,1,CA,14,Unidentified,100,2700,t
+204,Cuesta Fire,2015-08-16,2015-08-28,2015,40,CA,10,Vehicle,100,2446,t
+205,Lowell Fire,2015-07-25,2015-08-12,2015,29,CA,14,Unidentified,100,2304,t
+206,Saddle Fire ,2015-06-10,2015-06-29,2015,53,CA,14,Unidentified,100,1542,f
+207,Lumpkin Fire,2015-09-11,2015-09-17,2015,4,CA,14,Unidentified,100,1042,t
+208,Corrine Fire,2015-06-18,2015-06-25,2015,20,CA,14,Unidentified,100,920,t
+209,Elk Fire,2015-09-02,2015-09-08,2015,17,CA,2,Equipment Use,100,673,t
+210,Cienega Fire,2015-10-12,2015-10-16,2015,35,CA,11,Powerline,100,670,t
+211,Anza Fire,2015-08-10,2015-08-15,2015,33,CA,10,Vehicle,100,543,f
+212,Triple Fire,2015-07-21,2015-07-26,2015,54,CA,14,Unidentified,100,430,t
+213,Calgrove Fire ,2015-06-24,2015-06-26,2015,19,CA,14,Unidentified,100,415,f
+214,Forebay Fire,2015-05-11,2015-05-11,2015,24,CA,14,Unidentified,100,275,f
+215,Peterson Fire,2015-08-22,2015-08-27,2015,17,CA,2,Equipment Use,100,215,t
+216,241 Fire,2015-07-13,2015-07-15,2015,30,CA,14,Unidentified,100,214,f
+217,China Fire,2015-07-29,2015-08-01,2015,45,CA,14,Unidentified,100,212,t
+218,Big Creek Fire,2015-07-29,2015-08-04,2015,55,CA,14,Unidentified,100,204,t
+219,Pines Fire ,2015-07-17,2015-08-04,2015,19,CA,14,Unidentified,100,200,f
+220,Stephens Fire,2015-02-24,2015-03-02,2015,47,CA,14,Unidentified,100,200,f
+221,Cooley Fire,2015-07-13,2015-07-14,2015,47,CA,2,Equipment Use,100,181,f
+222,Wildcat Fire,2015-06-17,2015-06-19,2015,37,CA,14,Unidentified,100,171,f
+223,Cutca Fire,2015-07-24,2015-07-26,2015,37,CA,14,Unidentified,100,167,f
+224,Queen Fire,2015-07-24,2015-08-01,2015,12,CA,14,Unidentified,100,158,t
+225,Cook Fire,2015-06-18,2015-06-22,2015,58,CA,14,Unidentified,100,158,t
+226,Horse Fire,2015-08-18,2015-08-29,2015,12,CA,14,Unidentified,100,146,t
+227,Ward Fire,2015-04-13,2015-04-18,2015,32,CA,14,Unidentified,100,137,f
+228,Democrat Fire,2015-08-25,2015-08-29,2015,53,CA,14,Unidentified,100,128,t
+229,3-11 Fire,2015-07-23,2015-07-26,2015,25,CA,14,Unidentified,100,116,f
+230,Mark Fire,2015-08-13,2015-08-18,2015,5,CA,14,Unidentified,100,114,t
+231,Tulloch Fire,2015-08-15,2015-08-16,2015,55,CA,14,Unidentified,100,112,f
+232,36 Fire,2015-08-08,2015-08-09,2015,52,CA,14,Unidentified,100,110,t
+233,Munjar Fire,2015-10-02,2015-10-02,2015,4,CA,14,Unidentified,100,104,f
+234,Sterling Fire,2015-06-25,2015-06-29,2015,36,CA,14,Unidentified,100,100,f
+235,Laureles Fire,2015-09-19,2015-09-21,2015,27,CA,10,Vehicle,100,95,f
+236,Sprig Fire,2015-07-30,2015-07-31,2015,45,CA,1,Lightning,100,90,f
+237,Advance Fire,2015-07-30,2015-08-05,2015,54,CA,1,Lightning,100,86,t
+238,Otay Fire,2015-06-26,2015-06-26,2015,37,CA,14,Unidentified,100,80,f
+239,3-12 Fire,2015-07-23,2015-07-25,2015,25,CA,14,Unidentified,100,77,f
+240,Fern Fire,2015-08-02,2015-08-04,2015,45,CA,14,Unidentified,100,75,t
+241,Mallard Fire,2015-07-29,2015-07-31,2015,45,CA,14,Unidentified,100,75,t
+242,Pass Fire,2015-06-15,2015-06-15,2015,15,CA,14,Unidentified,100,67,f
+243,Dixie Fire,2015-06-19,2015-06-20,2015,18,CA,14,Unidentified,100,60,f
+244,Point Fire,2015-08-03,2015-08-04,2015,45,CA,14,Unidentified,100,59,t
+245,De Luz Fire,2015-08-09,2015-08-10,2015,37,CA,14,Unidentified,100,55,f
+246,Fork Fire,2015-06-17,2015-06-17,2015,52,CA,9,Miscellaneous,100,55,f
+247,Mill 2 Fire,2015-07-12,2015-07-21,2015,36,CA,14,Unidentified,100,54,t
+248,Potrero Fire,2015-11-07,2015-11-07,2015,56,CA,5,Debris,100,50,f
+249,Mendocino Lightning Fires,2015-07-30,2015-08-03,2015,23,CA,14,Unidentified,100,50,f
+250,Center Fire,2015-09-09,2015-09-10,2015,18,CA,1,Lightning,100,40,f
+251,Sullivan Fire,2015-07-28,2015-07-28,2015,50,CA,14,Unidentified,100,40,f
+252,Ascot Fire,2015-07-10,2015-07-10,2015,48,CA,14,Unidentified,100,40,t
+253,Chiles Fire,2015-06-16,2015-06-17,2015,28,CA,14,Unidentified,100,38,t
+254,Browns Fire,2015-09-08,2015-09-10,2015,53,CA,14,Unidentified,100,35,f
+255,Covelo Fire,2015-06-28,2015-06-29,2015,23,CA,14,Unidentified,100,35,f
+256,McCourtney Fire,2015-09-22,2015-09-21,2015,29,CA,14,Unidentified,100,30,f
+257,Kramer Fire ,2015-08-29,2015-08-30,2015,18,CA,14,Unidentified,100,30,f
+258,Francis Fire,2015-08-03,2015-08-05,2015,58,CA,14,Unidentified,100,30,f
+259,Baxter Fire,2015-07-22,2015-07-22,2015,31,CA,14,Unidentified,100,26,f
+260,Park Fire,2015-07-24,2015-07-25,2015,37,CA,14,Unidentified,100,25,f
+261,Betabel Fire,2015-07-20,2015-07-20,2015,35,CA,2,Equipment Use,100,25,f
+262,Dorris Fire,2015-07-21,2015-07-22,2015,47,CA,14,Unidentified,100,24,t
+263,Soda Fire,2015-07-04,2015-07-05,2015,23,CA,1,Lightning,100,23,f
+264,Grade Fire,2015-08-24,2015-08-25,2015,17,CA,2,Equipment Use,100,22,f
+265,Gibraltar Fire,2015-10-29,2015-11-09,2015,42,CA,14,Unidentified,100,21,f
+266,Spider Fire,2015-07-12,2015-07-12,2015,33,CA,2,Equipment Use,100,21,t
+267,Pleasure Fire,2015-06-27,2015-06-28,2015,28,CA,14,Unidentified,100,19,f
+268,Keswick Fire,2015-07-07,2015-07-08,2015,45,CA,14,Unidentified,100,18,t
+269,Buck Fire,2015-07-28,2015-07-31,2015,12,CA,14,Unidentified,100,16,f
+270,Washington Fire,2015-06-19,2015-06-22,2015,2,CA,14,Unidentified,100,0,f
+271,Soberanes Fire,2016-07-22,2016-10-13,2016,27,CA,4,Campfire,100,132127,t
+272,Erskine Fire,2016-06-23,2016-07-11,2016,15,CA,14,Unidentified,100,48019,f
+273,Chimney Fire,2016-08-13,2016-09-06,2016,40,CA,14,Unidentified,100,46344,t
+274,Blue Cut Fire,2016-08-16,2016-08-23,2016,36,CA,14,Unidentified,100,36274,t
+275,Gap Fire,2016-08-27,2016-08-28,2016,47,CA,14,Unidentified,100,33867,f
+276,Canyon Fire,2016-09-17,2016-09-27,2016,42,CA,14,Unidentified,100,12518,f
+277,Pilot Fire,2016-08-07,2016-08-16,2016,36,CA,14,Unidentified,100,8110,t
+278,Sherpa Fire,2016-06-15,2016-07-12,2016,42,CA,14,Unidentified,100,7474,t
+279,Mineral Fire,2016-08-09,2016-08-18,2016,10,CA,14,Unidentified,100,7050,t
+280,Cold Fire,2016-08-02,2016-08-12,2016,57,CA,14,Unidentified,100,5731,t
+281,Trailhead Fire,2016-06-28,2016-07-18,2016,"9,31",CA,14,Unidentified,100,5646,t
+282,Owens River Fire,2016-09-17,2016-09-18,2016,14,CA,14,Unidentified,100,5443,f
+283,Marek Fire,2016-11-14,2016-11-14,2016,19,CA,2,Equipment Use,100,4824,f
+284,Loma Fire,2016-09-26,2017-09-19,2016,43,CA,14,Unidentified,100,4474,t
+285,Clayton Fire,2016-08-13,2016-08-26,2016,17,CA,14,Unidentified,100,3929,t
+286,Metz Fire,2016-05-22,2016-05-25,2016,27,CA,5,Debris,100,3876,t
+287,Curry Fire,2016-07-01,2016-07-05,2016,10,CA,14,Unidentified,100,2944,t
+288,Pony Fire,2016-06-07,2016-11-08,2016,47,CA,14,Unidentified,100,2860,f
+289,Soup Complex,2016-09-17,2016-10-13,2016,25,CA,14,Unidentified,100,2652,f
+290,Willard Fire,2016-09-11,2016-09-22,2016,18,CA,14,Unidentified,100,2575,t
+291,Coleman Fire,2016-06-04,2016-06-20,2016,27,CA,14,Unidentified,100,2520,f
+292,Pine Fire,2016-06-30,2016-06-30,2016,56,CA,14,Unidentified,100,2304,f
+293,Goose Fire,2016-07-30,2016-08-09,2016,10,CA,7,Arson,100,2241,t
+294,Sacata Fire,2016-10-11,2016-10-20,2016,10,CA,14,Unidentified,100,2100,f
+295,Sawmill Fire,2016-09-25,2016-09-29,2016,49,CA,10,Vehicle,100,1547,t
+296,Dinosaur Fire,2016-06-25,2016-06-26,2016,24,CA,10,Vehicle,100,1246,f
+297,Roblar Fire,2016-07-21,2016-07-30,2016,37,CA,14,Unidentified,100,1245,f
+298,Sage Fire,2016-07-09,2016-07-16,2016,19,CA,4,Campfire,100,1109,f
+299,Marshes Fire,2016-09-26,2016-10-04,2016,55,CA,14,Unidentified,100,1080,t
+300,Saddle Fire,2016-09-05,2016-09-12,2016,4,CA,14,Unidentified,100,850,t
+301,Marina Fire,2016-06-25,2016-07-09,2016,26,CA,14,Unidentified,100,650,f
+302,Tully Fire,2016-08-22,2016-09-04,2016,12,CA,7,Arson,100,599,t
+303,Fort Fire,2016-07-08,2016-07-10,2016,15,CA,14,Unidentified,100,554,f
+304,99 Fire,2016-08-02,2016-08-03,2016,4,CA,14,Unidentified,100,550,f
+305,Range Fire,2016-08-26,2016-08-29,2016,15,CA,14,Unidentified,100,518,f
+306,Colyear Fire,2016-06-30,2016-07-04,2016,52,CA,14,Unidentified,100,464,t
+307,Beale Fire,2016-08-18,2016-08-18,2016,58,CA,14,Unidentified,100,400,f
+308,Tule Fire,2016-08-22,2016-11-08,2016,54,CA,14,Unidentified,100,395,f
+309,Howard Fire,2016-09-11,2016-09-14,2016,25,CA,14,Unidentified,100,380,f
+310,Hog Fire,2016-09-13,2016-09-13,2016,52,CA,15,Structure,100,360,t
+311,Appaloosa Fire,2016-07-02,2016-07-08,2016,5,CA,14,Unidentified,100,310,f
+312,Havilah Fire,2016-08-28,2016-08-28,2016,15,CA,7,Arson,100,304,f
+313,DeWolf Fire,2016-05-25,2016-05-25,2016,10,CA,14,Unidentified,100,278,f
+314,Tobin Fire,2016-09-26,2016-10-06,2016,32,CA,14,Unidentified,100,248,f
+315,Onyx Fire,2016-07-13,2016-07-14,2016,15,CA,14,Unidentified,100,221,f
+316,Reservoir Fire,2016-06-26,2016-06-28,2016,17,CA,14,Unidentified,100,215,t
+317,Camanche Fire,2016-06-17,2016-06-21,2016,3,CA,14,Unidentified,100,210,t
+318,Big Fire,2016-07-11,2016-07-13,2016,10,CA,14,Unidentified,100,188,f
+319,Emerald Fire,2016-10-14,2016-10-17,2016,9,CA,14,Unidentified,100,176,t
+320,Athens Fire,2016-05-17,2016-05-19,2016,31,CA,14,Unidentified,100,169,f
+321,Sunny Fire,2016-09-03,2016-09-06,2016,10,CA,10,Vehicle,100,158,t
+322,Wheatland Fire,2016-05-23,2016-05-25,2016,19,CA,2,Equipment Use,100,156,f
+323,Old Fire,2016-09-13,2016-09-17,2016,8,CA,14,Unidentified,100,150,f
+324,Holy Fire,2016-08-31,2016-09-05,2016,30,CA,14,Unidentified,100,150,f
+325,Shedd Fire,2016-05-10,2016-05-10,2016,40,CA,14,Unidentified,100,150,f
+326,Bird Fire,2016-08-20,2016-08-20,2016,39,CA,14,Unidentified,100,147,f
+327,Frame Fire,2016-07-04,2016-07-07,2016,10,CA,7,Arson,100,145,f
+328,Temecula Fire,2016-06-04,2016-06-07,2016,33,CA,14,Unidentified,100,139,t
+329,Famoso Fire,2016-07-15,2016-07-16,2016,15,CA,14,Unidentified,100,138,f
+330,Avocado Fire,2016-05-15,2016-05-17,2016,10,CA,14,Unidentified,100,132,f
+331,Bangor Fire,2016-09-22,2016-09-23,2016,4,CA,14,Unidentified,100,130,f
+332,Green Fire,2016-07-15,2016-07-16,2016,10,CA,14,Unidentified,100,123,t
+333,Coe Fire,2016-06-07,2016-06-09,2016,50,CA,14,Unidentified,100,120,f
+334,Coal Fire,2016-06-20,2016-06-20,2016,4,CA,14,Unidentified,100,112,f
+335,Broken Fire,2016-07-04,2016-07-06,2016,20,CA,14,Unidentified,100,103,f
+336,Cow Fire,2016-09-25,2016-09-25,2016,45,CA,14,Unidentified,100,100,f
+337,Hart Fire,2016-08-04,2016-08-07,2016,15,CA,14,Unidentified,100,100,f
+338,Bradley Fire,2016-07-22,2016-07-23,2016,27,CA,14,Unidentified,100,100,f
+339,Feather Fire,2016-07-18,2016-07-20,2016,37,CA,2,Equipment Use,100,100,f
+340,Dunstone Fire,2016-05-27,2016-05-27,2016,4,CA,5,Debris,100,91,f
+341,Santos Fire,2016-08-26,2016-08-30,2016,4,CA,14,Unidentified,100,88,t
+342,Flores Fire,2016-07-01,2016-07-01,2016,52,CA,10,Vehicle,100,88,f
+343,Moore Fire,2016-06-21,2016-06-21,2016,31,CA,2,Equipment Use,100,88,f
+344,Scott Fire,2016-07-10,2016-07-11,2016,34,CA,14,Unidentified,100,87,f
+345,Frazier Fire,2016-06-27,2016-06-29,2016,40,CA,14,Unidentified,100,86,f
+346,Grub Fire,2016-08-04,2016-08-06,2016,20,CA,14,Unidentified,100,85,f
+347,Dunnigan Fire,2016-07-15,2016-07-15,2016,57,CA,9,Miscellaneous,100,84,f
+348,Hoag Fire,2016-06-11,2016-06-11,2016,52,CA,14,Unidentified,100,80,f
+349,Sherwood Fire,2016-07-13,2016-07-15,2016,56,CA,15,Structure,100,78,f
+350,Newmark Fire,2016-09-23,2016-09-24,2016,10,CA,14,Unidentified,100,70,f
+351,Arroyo Fire,2016-06-18,2016-06-20,2016,27,CA,10,Vehicle,100,70,f
+352,Pala Fire,2016-05-31,2016-06-07,2016,37,CA,14,Unidentified,100,70,t
+353,Foothill Fire,2016-07-19,2016-07-22,2016,17,CA,14,Unidentified,100,69,t
+354,Cotton Fire,2016-06-11,2016-06-12,2016,15,CA,14,Unidentified,100,61,f
+355,Lowe Fire,2016-06-23,2016-06-24,2016,27,CA,9,Miscellaneous,100,52,f
+356,Ruff Fire ,2016-09-10,2016-09-15,2016,23,CA,14,Unidentified,100,50,f
+357,Spring Fire,2016-09-07,2016-09-09,2016,36,CA,14,Unidentified,100,50,f
+358,Storksbill Fire,2016-07-22,2016-07-23,2016,9,CA,14,Unidentified,100,50,t
+359,70 Fire,2016-06-21,2016-06-21,2016,4,CA,2,Equipment Use,100,49,f
+360,Auburn Fire,2016-09-17,2016-09-20,2016,29,CA,14,Unidentified,100,47,f
+361,Laguna Fire,2016-06-26,2016-06-29,2016,30,CA,14,Unidentified,100,47,f
+362,Bell Fire,2016-09-23,2016-09-25,2016,3,CA,14,Unidentified,100,45,t
+363,Kugelman Fire,2016-08-09,2016-08-10,2016,17,CA,14,Unidentified,100,45,f
+364,Kuehner Fire,2016-07-01,2016-07-01,2016,56,CA,10,Vehicle,100,45,f
+365,Boys Fire,2016-09-11,2016-09-12,2016,34,CA,14,Unidentified,100,40,f
+366,Franklin Fire,2016-07-24,2016-07-24,2016,7,CA,14,Unidentified,100,40,f
+367,Phoenix Fire,2016-09-07,1969-12-31,2016,29,CA,14,Unidentified,100,38,f
+368,Mina Fire,2016-08-30,2016-08-31,2016,23,CA,14,Unidentified,100,36,f
+369,Knoxville Fire,2016-08-09,2016-08-10,2016,17,CA,14,Unidentified,100,36,f
+370,Gopher Fire,2016-08-10,2016-08-11,2016,37,CA,9,Miscellaneous,100,35,f
+371,Stagecoach Fire,2016-07-12,2016-07-13,2016,5,CA,14,Unidentified,100,35,f
+372,Campo Fire,2016-06-27,2016-06-30,2016,5,CA,14,Unidentified,100,33,f
+373,Moffett Fire,2016-09-12,2016-09-13,2016,47,CA,8,Playing with fire,100,32,f
+374,Frymire Fire,2016-07-30,2016-08-01,2016,55,CA,2,Equipment Use,100,32,f
+375,Clay Fire,2016-06-03,2016-06-03,2016,34,CA,2,Equipment Use,100,32,f
+376,Lone Pine Fire,2016-07-01,2016-07-02,2016,14,CA,14,Unidentified,100,30,f
+377,Hidden Fire,2016-06-03,2016-06-03,2016,35,CA,2,Equipment Use,100,30,f
+378,Taglio Fire,2016-04-24,2016-04-24,2016,24,CA,14,Unidentified,100,30,f
+379,Rock Fire,2016-07-22,2016-07-24,2016,37,CA,10,Vehicle,100,28,t
+380,Aukum Fire,2016-06-03,2016-06-04,2016,9,CA,10,Vehicle,100,25,t
+381,Bryson Fire,2016-05-12,2016-05-12,2016,27,CA,14,Unidentified,100,25,f
+382,Stafford Fire,2016-08-11,2016-08-16,2016,12,CA,14,Unidentified,100,23,f
+383,Table Fire,2016-07-21,2016-07-22,2016,47,CA,14,Unidentified,100,23,f
+384,Ken Fire,2016-09-03,2016-09-04,2016,36,CA,9,Miscellaneous,100,20,f
+385,Mockingbird Fire,2016-08-30,2016-08-31,2016,17,CA,14,Unidentified,100,20,f
+386,Shelter Fire,2016-07-11,2016-07-12,2016,56,CA,14,Unidentified,100,15,f
+387,Jacobson Fire,2016-10-20,2016-12-19,2016,54,CA,14,Unidentified,100,10,f
+388,Mokelumne Fire,2016-08-18,2016-08-30,2016,2,CA,14,Unidentified,100,0,f
+389,Gorman Fire,2016-04-19,2016-04-19,2016,19,CA,14,Unidentified,100,0,f
+390,Thomas Fire,2017-12-04,2019-03-14,2017,"42,56",CA,14,Unidentified,100,281893,t
+391,Long Valley Fire,2017-07-11,2018-01-09,2017,18,CA,14,Unidentified,100,83733,f
+392,Detwiler Fire,2017-07-16,2018-01-09,2017,22,CA,14,Unidentified,100,81826,t
+393,Eclipse Complex,2017-08-15,2018-01-09,2017,47,CA,14,Unidentified,100,78698,f
+394,Nuns / Adobe / Norrbom/ Pressley / Partrick Fires / Oakmont (Central LNU Complex),2017-10-08,2018-02-09,2017,"28,49",CA,14,Unidentified,100,56556,t
+395,Atlas Fire (Southern LNU Complex),2017-10-08,2018-02-09,2017,"28,48",CA,14,Unidentified,100,51624,t
+396,Garza Fire,2017-07-09,2018-01-09,2017,16,CA,14,Unidentified,100,48889,t
+397,Miller Complex,2017-08-14,2018-01-09,2017,47,CA,14,Unidentified,100,39715,f
+398,Tubbs Fire (Central LNU Complex),2017-10-08,2018-02-09,2017,"28,49",CA,14,Unidentified,100,36807,t
+399,Pier Fire,2017-08-29,2018-01-09,2017,54,CA,14,Unidentified,100,36556,t
+400,Redwood Valley Fire (Mendocino Lake Complex),2017-10-08,2018-02-09,2017,23,CA,14,Unidentified,100,36523,t
+401,Alamo Fire,2017-07-06,2018-01-09,2017,40,CA,14,Unidentified,100,28687,t
+402,Helena - Fork Fire,2017-08-30,2018-01-09,2017,53,CA,14,Unidentified,100,21846,f
+403,Lion Fire,2017-09-27,2018-01-09,2017,54,CA,14,Unidentified,100,18900,f
+404,R-4 Fire,2017-08-30,2018-01-09,2017,18,CA,14,Unidentified,100,18618,f
+405,Whittier Fire,2017-07-08,2018-01-09,2017,42,CA,14,Unidentified,100,18430,f
+406,Pocket Fire (Central LNU Complex),2017-10-09,2018-02-09,2017,49,CA,14,Unidentified,100,17357,t
+407,Railroad Fire,2017-08-29,2018-01-09,2017,20,CA,14,Unidentified,100,12407,f
+408,Elm Fire,2017-05-18,2018-01-09,2017,10,CA,14,Unidentified,100,10343,t
+409,Cascade Fire (Wind Complex),2017-10-08,2018-02-09,2017,58,CA,14,Unidentified,100,9989,t
+410,Canyon 2 Fire,2017-10-09,2018-04-05,2017,30,CA,14,Unidentified,100,9217,t
+411,Slinkard Fire,2017-08-29,2018-01-09,2017,26,CA,14,Unidentified,100,8925,f
+412,Cherokee Fire,2017-10-08,2018-02-09,2017,4,CA,14,Unidentified,100,8417,t
+413,Parker 2 Fire,2017-08-03,2018-01-09,2017,25,CA,14,Unidentified,100,7697,f
+414,La Tuna Fire ,2017-09-01,2018-01-09,2017,19,CA,14,Unidentified,100,7194,f
+415,South Fork Fire,2017-08-14,2018-01-09,2017,22,CA,14,Unidentified,100,7000,f
+416,Manzanita Fire,2017-06-26,2018-01-09,2017,33,CA,14,Unidentified,100,6309,f
+417,LaPorte Fire (Wind Complex),2017-10-09,2018-02-09,2017,4,CA,14,Unidentified,100,6151,t
+418,Rye Fire,2017-12-05,2018-01-18,2017,19,CA,14,Unidentified,100,6049,t
+419,Mud Fire,2017-08-29,2018-01-09,2017,18,CA,14,Unidentified,100,6042,f
+420,Wall Fire,2017-07-07,2018-01-09,2017,4,CA,14,Unidentified,100,6033,t
+421,Jayne Fire,2017-04-20,2018-01-09,2017,10,CA,14,Unidentified,100,5738,t
+422,Summit Complex,2017-07-31,2018-01-09,2017,50,CA,14,Unidentified,100,5247,f
+423,Ruth Complex,2017-08-07,2018-01-09,2017,53,CA,14,Unidentified,100,4736,f
+424,Minerva Fire,2017-07-29,2018-01-09,2017,32,CA,14,Unidentified,100,4310,f
+425,Lilac Fire,2017-12-07,2018-01-09,2017,37,CA,14,Unidentified,100,4100,t
+426,Ponderosa Fire,2017-08-29,2018-08-30,2017,4,CA,14,Unidentified,100,4016,f
+427,Palmer Fire,2017-09-02,2018-01-09,2017,33,CA,14,Unidentified,100,3874,t
+428,Young Fire,2017-08-07,2018-01-09,2017,47,CA,14,Unidentified,100,3142,f
+429,Hawk Fire,2017-07-07,2018-01-09,2017,15,CA,14,Unidentified,100,2940,f
+430,Eureka Fire,2017-09-05,2018-01-09,2017,32,CA,14,Unidentified,100,2575,f
+431,I-5 Fire,2017-08-24,2018-01-09,2017,16,CA,14,Unidentified,100,2312,f
+432,Winters Fire,2017-07-06,2018-01-09,2017,57,CA,14,Unidentified,100,2269,t
+433,Sulphur Fire (Mendocino Lake Complex),2017-10-08,2018-02-09,2017,17,CA,14,Unidentified,100,2207,t
+434,Gate Fire,2017-05-20,2018-01-09,2017,37,CA,14,Unidentified,100,2056,t
+435,Parkfield Fire,2017-07-08,2018-01-09,2017,"27,40",CA,14,Unidentified,100,1816,f
+436,Wright Fire,2017-05-12,2018-01-09,2017,24,CA,14,Unidentified,100,1800,f
+437,37 Fire,2017-10-09,2018-01-09,2017,49,CA,14,Unidentified,100,1660,f
+438,Quail Fire,2017-07-06,2018-01-09,2017,15,CA,14,Unidentified,100,1626,f
+439,Hill Fire,2017-06-26,2018-01-09,2017,40,CA,14,Unidentified,100,1598,t
+440,Derrick Fire,2017-07-02,2018-01-09,2017,10,CA,14,Unidentified,100,1538,t
+441,Holcomb Fire,2017-06-19,2018-01-09,2017,36,CA,14,Unidentified,100,1503,f
+442,Oakwood Fire,2017-06-10,2018-01-09,2017,20,CA,14,Unidentified,100,1431,t
+443,Garden Fire,2017-07-30,2018-01-09,2017,15,CA,14,Unidentified,100,1350,f
+444,Opera Fire,2017-04-30,2018-01-09,2017,33,CA,14,Unidentified,100,1350,f
+445,Caldwell Fire,2017-09-01,2018-01-09,2017,15,CA,14,Unidentified,100,1319,f
+446,Latrobe Fire,2017-07-26,2018-01-09,2017,34,CA,14,Unidentified,100,1286,f
+447,Tarina Fire ,2017-06-30,2018-01-09,2017,15,CA,14,Unidentified,100,1200,f
+448,Buffalo Fire,2017-10-17,2018-01-09,2017,37,CA,14,Unidentified,100,1088,f
+449,Hudson Fire,2017-07-18,2018-01-09,2017,15,CA,14,Unidentified,100,1083,f
+450,Blaine Fire,2017-08-13,2018-01-09,2017,33,CA,14,Unidentified,100,1044,t
+451,Mission Fire,2017-09-03,2018-01-09,2017,20,CA,14,Unidentified,100,1035,t
+452,Chilcoot Fire,2017-08-06,2018-01-09,2017,32,CA,14,Unidentified,100,1020,f
+453,Berry Fire,2017-09-12,2018-01-09,2017,45,CA,14,Unidentified,100,995,t
+454,El Dorado Fire,2017-04-28,2018-01-09,2017,10,CA,14,Unidentified,100,976,f
+455,Wildomar Fire,2017-10-26,2018-01-09,2017,33,CA,14,Unidentified,100,866,f
+456,Poslin Fire,2017-08-06,2018-01-09,2017,18,CA,14,Unidentified,100,859,f
+457,Lobo Fire (Wind Complex),2017-10-09,2018-02-09,2017,29,CA,14,Unidentified,100,821,t
+458,Yankee Fire,2017-08-11,2018-01-09,2017,40,CA,14,Unidentified,100,775,f
+459,Placerita Fire,2017-06-25,2018-01-09,2017,19,CA,14,Unidentified,100,760,f
+460,Farad Fire,2017-07-10,2018-01-09,2017,46,CA,14,Unidentified,100,747,f
+461,Jacksonville Fire,2017-07-29,2018-01-09,2017,55,CA,14,Unidentified,100,690,t
+462,Peak Fire,2017-09-03,2018-01-09,2017,22,CA,14,Unidentified,100,680,t
+463,Mart Fire,2017-06-27,2018-01-09,2017,36,CA,14,Unidentified,100,670,f
+464,Ben Fire,2017-06-28,2018-01-09,2017,22,CA,14,Unidentified,100,630,t
+465,Battle Fire,2017-06-28,2018-01-09,2017,25,CA,14,Unidentified,100,562,f
+466,Mias Fire,2017-08-14,2018-01-09,2017,33,CA,14,Unidentified,100,545,t
+467,W-2 Fire,2017-08-06,2018-01-09,2017,18,CA,14,Unidentified,100,530,f
+468,Ming Fire,2017-05-20,2018-01-09,2017,15,CA,14,Unidentified,100,506,f
+469,Deluz Fire,2017-05-19,2018-01-09,2017,37,CA,14,Unidentified,100,486,f
+470,Fay Fire,2017-07-05,2018-01-09,2017,47,CA,14,Unidentified,100,469,t
+471,Monterey Fire,2017-06-11,2018-01-09,2017,10,CA,14,Unidentified,100,450,f
+472,Rucker Fire,2017-09-29,2018-01-09,2017,42,CA,14,Unidentified,100,444,f
+473,Eastman Fire,2017-09-18,2018-01-09,2017,20,CA,14,Unidentified,100,429,f
+474,Skirball Fire,2017-12-06,2018-01-23,2017,19,CA,14,Unidentified,100,422,t
+475,Elephant Fire,2017-07-20,2018-01-09,2017,54,CA,14,Unidentified,100,416,f
+476,Dode Fire,2017-07-13,2018-01-09,2017,25,CA,14,Unidentified,100,410,f
+477,Jennings Fire,2017-07-11,2018-01-09,2017,37,CA,14,Unidentified,100,400,t
+478,Sonoma Fire,2017-05-10,2018-01-09,2017,10,CA,14,Unidentified,100,400,f
+479,Pleasant Fire,2017-08-30,2018-01-09,2017,29,CA,14,Unidentified,100,392,t
+480,Bear Fire,2017-10-16,2018-01-09,2017,44,CA,14,Unidentified,100,391,t
+481,Chris Fire,2017-11-13,2018-01-09,2017,26,CA,14,Unidentified,100,370,f
+482,Stone Fire,2017-07-09,2018-01-09,2017,40,CA,14,Unidentified,100,340,t
+483,Dinely Fire,2017-06-07,2018-01-09,2017,54,CA,14,Unidentified,100,339,t
+484,Rose Fire,2017-08-10,2018-01-09,2017,15,CA,14,Unidentified,100,338,t
+485,Bryant Fire,2017-08-03,2018-01-09,2017,36,CA,14,Unidentified,100,325,t
+486,Marble Fire,2017-07-19,2018-01-09,2017,8,CA,14,Unidentified,100,319,f
+487,Liberty Fire,2017-12-07,2018-01-09,2017,33,CA,14,Unidentified,100,300,f
+488,Bravo Fire,2017-05-15,2018-01-09,2017,15,CA,14,Unidentified,100,288,f
+489,Little Mountain Fire,2017-12-05,2018-01-09,2017,36,CA,14,Unidentified,100,260,f
+490,Lost Fire,2017-07-22,2018-04-12,2017,37,CA,14,Unidentified,100,255,f
+491,Huasna Fire,2017-09-20,2018-01-09,2017,40,CA,14,Unidentified,100,245,t
+492,Largo Fire,2017-07-30,2018-01-09,2017,9,CA,14,Unidentified,100,236,f
+493,Deer Complex,2017-07-08,2018-01-09,2017,7,CA,14,Unidentified,100,231,f
+494,Camp Fire,2017-05-18,2018-01-09,2017,40,CA,14,Unidentified,100,225,f
+495,Arrow Fire,2017-05-15,2018-01-09,2017,40,CA,14,Unidentified,100,225,f
+496,Bodfish Fire,2017-06-10,2018-01-09,2017,15,CA,14,Unidentified,100,206,f
+497,Eagle Fire,2017-07-04,2018-01-09,2017,33,CA,14,Unidentified,100,205,f
+498,Skeleton Fire,2017-09-12,2018-01-09,2017,17,CA,14,Unidentified,100,200,f
+499,Eclipse Fire,2017-08-21,2018-01-09,2017,37,CA,14,Unidentified,100,200,t
+500,Wasioja Fire,2017-05-20,2018-01-09,2017,42,CA,14,Unidentified,100,190,f
+501,Toll Fire,2017-08-20,2018-01-09,2017,32,CA,14,Unidentified,100,186,f
+502,Wild Fire,2017-06-11,2018-01-09,2017,10,CA,14,Unidentified,100,186,f
+503,Quarry Fire,2017-10-12,2018-01-09,2017,15,CA,14,Unidentified,100,183,f
+504,Laverne Fire,2017-07-18,2018-01-09,2017,45,CA,14,Unidentified,100,180,t
+505,High Fire,2017-07-23,2018-01-09,2017,36,CA,14,Unidentified,100,170,t
+506,Evans Fire,2017-06-19,2018-01-09,2017,46,CA,14,Unidentified,100,168,f
+507,Peg Fire,2017-08-26,2018-01-09,2017,18,CA,14,Unidentified,100,157,f
+508,26 Fire,2017-06-07,2018-01-09,2017,20,CA,14,Unidentified,100,157,f
+509,Corral Fire,2017-09-19,2018-04-05,2017,1,CA,14,Unidentified,100,155,f
+510,Lucy Fire,2017-06-14,2018-01-09,2017,40,CA,14,Unidentified,100,150,f
+511,41 Fire,2017-05-17,2018-01-09,2017,20,CA,14,Unidentified,100,150,f
+512,Tower Fire,2017-04-30,2018-01-09,2017,36,CA,14,Unidentified,100,150,f
+513,Grape Fire,2017-09-19,2018-01-09,2017,23,CA,14,Unidentified,100,146,t
+514,Skyway Fire,2017-06-16,2018-01-09,2017,4,CA,14,Unidentified,100,134,f
+515,Tumey Fire,2017-04-29,2018-01-09,2017,10,CA,14,Unidentified,100,126,f
+516,Coronado Fire,2017-08-13,2018-01-09,2017,22,CA,14,Unidentified,100,125,f
+517,Twist Fire,2017-07-30,2018-01-09,2017,55,CA,14,Unidentified,100,124,f
+518,Stewart Fire,2017-08-04,2018-01-09,2017,33,CA,14,Unidentified,100,122,f
+519,Margarita Fire,2017-09-03,2018-01-09,2017,40,CA,14,Unidentified,100,120,f
+520,Lamb Fire,2017-05-25,2018-01-09,2017,33,CA,14,Unidentified,100,120,f
+521,Maria Fire,2017-07-17,2018-01-09,2017,5,CA,14,Unidentified,100,117,t
+522,Poly Fire,2017-09-26,2018-01-09,2017,40,CA,14,Unidentified,100,105,f
+523,Humboldt Fire,2017-07-19,2018-04-12,2017,4,CA,14,Unidentified,100,103,f
+524,Coalinga Fire,2017-08-30,2018-01-09,2017,10,CA,14,Unidentified,100,102,f
+525,Lariat Fire,2017-07-11,2018-01-09,2017,43,CA,14,Unidentified,100,101,f
+526,Church Fire,2017-10-21,2018-01-09,2017,37,CA,14,Unidentified,100,100,f
+527,Oakmont Fire (Central LNU Complex),2017-10-14,2018-04-05,2017,49,CA,14,Unidentified,100,100,t
+528,Long Fire,2017-10-14,2018-01-09,2017,17,CA,14,Unidentified,100,100,f
+529,Timm Fire,2017-10-02,2018-01-09,2017,48,CA,14,Unidentified,100,100,f
+530,Bally Fire,2017-09-03,2018-01-09,2017,43,CA,14,Unidentified,100,100,f
+531,Tilton Fire,2017-08-11,2018-01-09,2017,43,CA,14,Unidentified,100,100,f
+532,Mile Fire,2017-07-31,2018-01-09,2017,36,CA,14,Unidentified,100,100,f
+533,Auberry Fire,2017-07-05,2018-01-09,2017,10,CA,14,Unidentified,100,91,t
+534,Wilbur Fire,2017-06-06,2018-01-09,2017,4,CA,14,Unidentified,100,91,f
+535,Daulton Fire,2017-07-07,2018-01-09,2017,20,CA,14,Unidentified,100,90,f
+536,Ridge Fire,2017-10-06,2018-01-09,2017,17,CA,14,Unidentified,100,87,t
+537,Vista Fire,2017-10-24,2018-01-09,2017,56,CA,14,Unidentified,100,86,f
+538,Saw Fire,2017-08-03,2018-01-09,2017,12,CA,14,Unidentified,100,85,f
+539,Dollar Fire,2017-07-22,2018-01-09,2017,36,CA,14,Unidentified,100,85,f
+540,Country Fire,2017-08-07,2018-01-09,2017,27,CA,14,Unidentified,100,82,f
+541,Holiday Fire,2017-12-28,2018-01-09,2017,9,CA,14,Unidentified,100,80,f
+542,Mills File,2017-09-03,2018-01-09,2017,32,CA,14,Unidentified,100,79,f
+543,Fountain Fire ,2017-05-31,2018-01-09,2017,54,CA,14,Unidentified,100,79,f
+544,Castro Fire,2017-07-23,2018-01-09,2017,43,CA,14,Unidentified,100,78,f
+545,Spring Fire ,2017-06-04,2018-01-09,2017,52,CA,14,Unidentified,100,78,f
+546,McCourtney Fire (Wind Complex),2017-10-09,2018-02-09,2017,29,CA,14,Unidentified,100,76,t
+547,Tivy Fire,2017-06-11,2018-01-09,2017,10,CA,14,Unidentified,100,76,f
+548,Linne Fire,2017-09-26,2018-01-09,2017,40,CA,14,Unidentified,100,74,f
+549,Axel Fire,2017-07-08,2018-01-09,2017,9,CA,14,Unidentified,100,74,t
+550,Lynch Fire,2017-10-13,2018-01-09,2017,40,CA,14,Unidentified,100,73,f
+551,Ellis Fire,2017-07-18,2018-01-09,2017,33,CA,14,Unidentified,100,72,f
+552,Camatta Fire,2017-08-02,2018-01-09,2017,40,CA,14,Unidentified,100,70,f
+553,Felipe Fire,2017-07-10,2018-01-09,2017,43,CA,14,Unidentified,100,70,f
+554,Manning Fire,2017-05-19,2018-01-09,2017,10,CA,14,Unidentified,100,70,f
+555,Orange Fire,2017-06-21,2018-01-09,2017,50,CA,14,Unidentified,100,65,f
+556,Placentia Fire,2017-07-28,2018-01-09,2017,33,CA,14,Unidentified,100,63,f
+557,Westfall Fire,2017-06-15,2018-01-09,2017,22,CA,14,Unidentified,100,63,f
+558,Montezuma Fire,2017-08-26,2018-01-09,2017,37,CA,14,Unidentified,100,62,f
+559,Bottle Fire,2017-08-08,2018-01-09,2017,17,CA,14,Unidentified,100,62,t
+560,Bolla Fire,2017-06-18,2018-01-09,2017,52,CA,14,Unidentified,100,60,f
+561,Slides Fire,2017-09-12,2018-01-09,2017,17,CA,14,Unidentified,100,58,f
+562,Hogback Fire,2017-07-18,2018-01-09,2017,54,CA,14,Unidentified,100,58,f
+563,Live Fire,2017-07-28,2018-01-09,2017,52,CA,14,Unidentified,100,57,f
+564,Freedom Fire,2017-07-04,2018-01-09,2017,10,CA,14,Unidentified,100,57,f
+565,Bogus Fire,2017-06-18,2018-01-09,2017,47,CA,14,Unidentified,100,56,f
+566,Estate Fire,2017-09-23,2018-01-09,2017,48,CA,14,Unidentified,100,55,t
+567,Owens Fire,2017-08-29,2018-01-09,2017,47,CA,14,Unidentified,100,55,f
+568,Topanga Fire,2017-06-29,2018-01-09,2017,19,CA,14,Unidentified,100,55,f
+569,Quimby Fire,2017-06-21,2018-01-09,2017,43,CA,14,Unidentified,100,54,f
+570,Weller Fire,2017-07-26,2018-01-09,2017,43,CA,14,Unidentified,100,51,f
+571,Tank Fire,2017-10-26,2018-01-09,2017,15,CA,14,Unidentified,100,50,f
+572,Extension Fire,2017-10-23,2018-01-09,2017,33,CA,14,Unidentified,100,50,f
+573,Wilson Fire,2017-10-17,2018-01-09,2017,19,CA,14,Unidentified,100,50,f
+574,Skeggs Fire,2017-09-11,2018-01-09,2017,41,CA,14,Unidentified,100,50,t
+575,Calgary Fire,2017-08-05,2018-01-09,2017,15,CA,14,Unidentified,100,50,f
+576,Lago Fire,2017-07-03,2018-01-09,2017,33,CA,14,Unidentified,100,50,f
+577,Douglas Fire,2017-06-13,2018-01-09,2017,37,CA,14,Unidentified,100,50,f
+578,Serenas Fire,2017-05-28,2018-01-09,2017,33,CA,14,Unidentified,100,48,f
+579,Bitterwater Fire,2017-11-25,2018-01-09,2017,35,CA,14,Unidentified,100,47,f
+580,Zenon Fire,2017-07-20,2018-01-09,2017,40,CA,14,Unidentified,100,47,f
+581,Whitepine Fire,2017-06-06,2018-01-09,2017,47,CA,14,Unidentified,100,46,t
+582,Riverbottom Fire,2017-12-21,2018-01-09,2017,33,CA,14,Unidentified,100,45,f
+583,Pozo Fire,2017-10-09,2018-01-09,2017,40,CA,14,Unidentified,100,45,f
+584,Grace Fire,2017-04-03,2018-01-09,2017,45,CA,14,Unidentified,100,45,f
+585,Mines Fire,2017-08-27,2018-01-09,2017,1,CA,14,Unidentified,100,44,f
+586,Roser Fire,2017-11-02,2018-01-09,2017,52,CA,14,Unidentified,100,43,f
+587,Lockwood Fire,2017-06-29,2018-01-09,2017,27,CA,14,Unidentified,100,42,f
+588,Jones Fire,2017-06-03,2018-01-09,2017,25,CA,14,Unidentified,100,42,f
+589,Stokes Fire,2017-06-29,2018-01-09,2017,19,CA,14,Unidentified,100,41,f
+590,Feed Fire,2017-05-14,2018-01-09,2017,15,CA,14,Unidentified,100,41,f
+591,Riverdale Fire,2017-12-04,2018-01-09,2017,33,CA,14,Unidentified,100,40,f
+592,Palm Fire,2017-11-14,2018-01-09,2017,33,CA,14,Unidentified,100,40,f
+593,Freeway Fire,2017-10-24,2018-01-09,2017,36,CA,14,Unidentified,100,40,f
+594,Lakewood Fire,2017-09-29,2018-01-09,2017,15,CA,14,Unidentified,100,40,f
+595,Hole Fire,2017-09-12,2018-01-09,2017,8,CA,14,Unidentified,100,40,f
+596,Translator Fire,2017-08-28,2018-01-09,2017,12,CA,14,Unidentified,100,40,f
+597,Vestal Fire,2017-08-26,2018-01-09,2017,52,CA,14,Unidentified,100,40,f
+598,Reservation Fire,2017-07-16,2018-01-09,2017,27,CA,14,Unidentified,100,40,f
+599,Spenceville Fire,2017-07-24,2018-01-09,2017,58,CA,14,Unidentified,100,39,t
+600, Bridge Fire,2017-10-31,2018-01-09,2017,45,CA,14,Unidentified,100,37,f
+601,Banderilla Fire,2017-07-07,2018-01-09,2017,22,CA,14,Unidentified,100,36,f
+602,Melba Fire,2017-09-29,2018-01-09,2017,33,CA,14,Unidentified,100,35,f
+603,Spaletta Fire,2017-07-12,2018-01-09,2017,21,CA,14,Unidentified,100,35,f
+604,Breckenridge Fire,2017-06-09,2018-01-09,2017,15,CA,14,Unidentified,100,35,f
+605,Meyers Fire,2017-12-05,2018-01-09,2017,36,CA,14,Unidentified,100,34,f
+606,Ellie Fire,2017-09-10,2018-01-09,2017,33,CA,14,Unidentified,100,34,f
+607,Miller Fire,2017-08-31,2018-01-09,2017,12,CA,14,Unidentified,100,34,f
+608,Christmas Fire,2017-07-07,2018-01-09,2017,33,CA,14,Unidentified,100,33,f
+609,Creek Fire ,2017-06-04,2018-01-09,2017,15,CA,14,Unidentified,100,33,f
+610,Sandy Fire,2017-08-02,2018-01-09,2017,53,CA,14,Unidentified,100,32,f
+611,Shore Fire,2017-06-16,2018-01-09,2017,27,CA,14,Unidentified,100,32,t
+612,Pleyto Fire,2017-06-11,2018-01-09,2017,27,CA,14,Unidentified,100,32,f
+613,York Fire,2017-10-15,2018-01-09,2017,27,CA,14,Unidentified,100,31,f
+614,Juniper Fire,2017-08-23,2018-01-09,2017,10,CA,14,Unidentified,100,31,f
+615,Hub Fire,2017-05-12,2018-01-09,2017,15,CA,14,Unidentified,100,31,f
+616,Castaic Fire,2017-08-31,2018-03-22,2017,19,CA,14,Unidentified,100,30,f
+617,Blocksburg Fire,2017-08-03,2018-01-09,2017,12,CA,14,Unidentified,100,30,f
+618,Timber Fire,2017-07-03,2018-01-09,2017,33,CA,14,Unidentified,100,30,f
+619,Ice Fire,2017-10-10,2018-01-09,2017,9,CA,14,Unidentified,100,29,f
+620,Benson Fire,2017-07-08,2018-01-09,2017,52,CA,14,Unidentified,100,29,f
+621,32 Fire,2017-09-25,2018-01-09,2017,4,CA,14,Unidentified,100,28,f
+622,4-4 Fire,2017-08-30,2018-01-09,2017,25,CA,14,Unidentified,100,28,f
+623,Nuevo Fire,2017-06-15,2018-01-09,2017,33,CA,14,Unidentified,100,28,f
+624,4-10 Fire,2017-08-30,2018-01-09,2017,25,CA,14,Unidentified,100,27,t
+625,Vernon Fire,2017-06-03,2018-01-09,2017,33,CA,14,Unidentified,100,27,f
+626,Jasper Fire,2017-09-26,2018-01-09,2017,58,CA,14,Unidentified,100,26,f
+627,Trellis Fire,2017-06-18,2018-01-09,2017,33,CA,14,Unidentified,100,26,f
+628,Fairview Fire,2017-06-01,2018-01-09,2017,33,CA,14,Unidentified,100,26,f
+629,Cove Fire,2017-09-23,2018-01-09,2017,40,CA,14,Unidentified,100,25,f
+630,Border 9 Fire,2017-09-07,2018-01-09,2017,37,CA,14,Unidentified,100,25,f
+631,Hopper Fire,2017-09-01,2018-01-09,2017,45,CA,14,Unidentified,100,25,f
+632,Sloane Fire,2017-06-27,2018-01-09,2017,37,CA,14,Unidentified,100,25,f
+633,Road Fire,2017-06-18,2018-01-09,2017,20,CA,14,Unidentified,100,25,f
+634,5 Fire,2017-06-03,2018-01-09,2017,19,CA,14,Unidentified,100,25,f
+635,Ribbonwood Fire,2017-05-24,2018-01-09,2017,37,CA,14,Unidentified,100,25,f
+636,Portola Fire,2017-10-10,2018-01-09,2017,33,CA,14,Unidentified,100,23,f
+637,Edwards Fire,2017-09-26,2018-01-09,2017,1,CA,14,Unidentified,100,22,f
+638,Refuge Fire,2017-06-13,2018-01-09,2017,28,CA,14,Unidentified,100,22,t
+639,Mule Fire,2017-09-05,2018-01-09,2017,17,CA,14,Unidentified,100,21,f
+640,Globe Fire,2017-07-05,2018-01-09,2017,54,CA,14,Unidentified,100,21,f
+641,Blue Fire,2017-10-08,2018-01-09,2017,12,CA,14,Unidentified,100,20,t
+642,Seine Fire,2017-07-22,2018-01-09,2017,36,CA,14,Unidentified,100,20,f
+643,City Fire,2017-05-18,2018-01-09,2017,16,CA,14,Unidentified,100,20,f
+644,Nacimiento Fire,2017-05-14,2018-01-09,2017,27,CA,14,Unidentified,100,20,f
+645,Longhorn Fire,2017-12-13,2018-01-09,2017,33,CA,14,Unidentified,100,19,f
+646,Sway Fire,2017-08-01,2018-01-09,2017,12,CA,14,Unidentified,100,19,f
+647,Willms Fire,2017-07-18,2018-01-09,2017,50,CA,14,Unidentified,100,19,f
+648,Bodega Fire,2017-08-27,2018-01-09,2017,49,CA,14,Unidentified,100,18,f
+649,Lakeland Fire,2017-07-04,2018-01-09,2017,4,CA,14,Unidentified,100,18,f
+650,Panoche Fire,2017-05-28,2018-01-09,2017,10,CA,14,Unidentified,100,18,f
+651,Ramblin Fire,2017-10-03,2018-01-09,2017,22,CA,14,Unidentified,100,17,f
+652,Corner Fire,2017-08-17,2018-01-09,2017,45,CA,14,Unidentified,100,17,t
+653,Lonoak Fire,2017-05-17,2018-01-09,2017,27,CA,14,Unidentified,100,17,t
+654,Matz Fire,2017-05-29,2018-01-09,2017,36,CA,14,Unidentified,100,16,f
+655,Rusty Fire,2017-05-28,2018-01-09,2017,10,CA,14,Unidentified,100,16,f
+656,Paskenta Fire ,2017-08-10,2018-01-09,2017,52,CA,14,Unidentified,100,15,f
+657,Greenhorn Fire,2017-07-27,2018-01-09,2017,29,CA,14,Unidentified,100,15,f
+658,Alvarado Fire,2017-06-28,2018-01-09,2017,27,CA,14,Unidentified,100,15,f
+659,Lombardi Fire,2017-05-28,2018-01-09,2017,5,CA,14,Unidentified,100,15,f
+660,66 Fire,2017-04-13,2018-01-09,2017,33,CA,14,Unidentified,100,15,f
+661,Drum Fire,2017-12-16,2018-01-09,2017,42,CA,14,Unidentified,100,14,f
+662,Coast Fire,2017-12-14,2018-01-09,2017,42,CA,14,Unidentified,100,14,f
+663,Desabla Fire,2017-07-02,2018-01-09,2017,4,CA,14,Unidentified,100,14,f
+664,Moraga Fire,2017-05-18,2018-01-09,2017,33,CA,14,Unidentified,100,14,f
+665,Milton Fire,2017-10-18,2018-01-09,2017,50,CA,14,Unidentified,100,13,f
+666,Woodland Fire,2017-07-25,2018-01-09,2017,9,CA,14,Unidentified,100,13,f
+667,Rosado Fire,2017-07-12,2018-01-09,2017,9,CA,14,Unidentified,100,13,f
+668,Pacific Fire,2017-09-12,2018-01-09,2017,4,CA,14,Unidentified,100,12,f
+669,Shandon Fire,2017-05-07,2018-01-09,2017,40,CA,14,Unidentified,100,12,f
+670,Jameson Fire,2017-04-30,2018-01-09,2017,33,CA,14,Unidentified,100,12,f
+671,Independence Fire,2017-07-31,2018-01-09,2017,49,CA,14,Unidentified,100,11,f
+672,Lisa Fire,2017-07-02,2018-01-09,2017,33,CA,14,Unidentified,100,11,f
+673,Dexter Fire,2017-09-20,2018-01-09,2017,22,CA,14,Unidentified,100,10,f
+674,Shaver Fire,2017-09-11,2018-01-09,2017,10,CA,14,Unidentified,100,10,f
+675,Sandra Fire,2017-08-28,2018-01-09,2017,3,CA,14,Unidentified,100,10,f
+676,Rincon Fire,2017-08-03,2018-01-09,2017,19,CA,14,Unidentified,100,10,f
+677,Grizzly Fire,2017-07-21,2018-01-09,2017,29,CA,14,Unidentified,100,10,f
+678,Navajo Fire,2017-07-13,2018-01-09,2017,33,CA,14,Unidentified,100,10,f
+679,Rebie Fire,2017-07-12,2018-01-09,2017,4,CA,14,Unidentified,100,10,t
+680,Lambs Fire,2017-06-18,2018-01-09,2017,33,CA,14,Unidentified,100,10,f
+681,Shirleon Fire ,2017-06-04,2018-01-09,2017,33,CA,14,Unidentified,100,10,f
+682,Twenty Fire,2017-05-29,2018-01-09,2017,58,CA,14,Unidentified,100,10,f
+683,Champagne Fire,2017-05-28,2018-01-09,2017,15,CA,14,Unidentified,100,10,f
+684,Moreno Fire,2017-05-23,2018-01-09,2017,33,CA,14,Unidentified,100,10,f
+685,Soledad Fire,2017-04-24,2018-01-09,2017,27,CA,14,Unidentified,100,10,f
+686,Pressley Fire (Central LNU Complex),2017-10-09,2018-01-09,2017,49,CA,14,Unidentified,100,0,t
+687,Partrick Fire (Central LNU Complex),2017-10-08,2018-01-09,2017,28,CA,14,Unidentified,100,0,t
+688,Rattlesnake Fire,2017-09-07,2018-01-09,2017,22,CA,14,Unidentified,100,0,f
+689,Clear Complex (merged into Eclipse Complex),2017-07-25,2018-01-09,2017,47,CA,14,Unidentified,100,0,f
+690,Warner Mountain Lightning,2017-07-23,2018-01-09,2017,25,CA,14,Unidentified,100,0,f
+691,Klamath Fire,2017-07-04,2018-01-09,2017,47,CA,14,Unidentified,100,0,f
+692, Cristianitos Fire,2017-06-28,2018-01-09,2017,37,CA,14,Unidentified,100,0,f
+693,Salmon-August Complex ,2017-06-25,2018-01-09,2017,47,CA,14,Unidentified,100,0,f
+694,King Incident,2017-06-23,2018-01-09,2017,54,CA,14,Unidentified,100,0,f
+695,Oroville Spillway ,2017-02-07,2018-01-09,2017,4,CA,14,Unidentified,100,0,t
+696,Ranch Fire (Mendocino Complex),2018-07-27,2019-01-04,2018,"6,11,17,23",CA,14,Unidentified,100,410203,t
+697,Carr Fire,2018-07-23,2019-01-04,2018,"45,53",CA,14,Unidentified,100,229651,t
+698,Woolsey Fire,2018-11-08,2019-01-04,2018,"19,56",CA,14,Unidentified,100,96949,t
+699,Ferguson Fire,2018-07-13,2019-01-04,2018,22,CA,14,Unidentified,100,96901,f
+700,County Fire,2018-06-30,2019-01-04,2018,"28,57",CA,14,Unidentified,100,90288,t
+701,Delta Fire,2018-09-05,2019-01-04,2018,"45,53",CA,14,Unidentified,100,63311,f
+702,River Fire (Mendocino Complex),2018-07-27,2019-01-04,2018,"6,17,23",CA,14,Unidentified,100,48920,t
+703,Hirz Fire,2018-08-09,2019-01-04,2018,45,CA,14,Unidentified,100,46150,t
+704,Klamathon Fire,2018-07-05,2019-01-04,2018,47,CA,14,Unidentified,100,38008,t
+705,Donnell Fire,2018-08-01,2019-01-04,2018,55,CA,14,Unidentified,100,36450,f
+706,Whaleback Fire,2018-07-27,2019-01-04,2018,18,CA,14,Unidentified,100,18703,f
+707,Pawnee Fire,2018-06-23,2019-01-04,2018,17,CA,14,Unidentified,100,15185,t
+708,Waverly Fire,2018-06-29,2019-01-04,2018,39,CA,14,Unidentified,100,12300,f
+709,Boot Fire,2018-09-04,2019-01-04,2018,26,CA,14,Unidentified,100,6974,f
+710,Planada Fire,2018-06-15,2019-01-04,2018,24,CA,14,Unidentified,100,4564,f
+711,Lions Fire,2018-06-11,2019-01-04,2018,20,CA,14,Unidentified,100,4064,f
+712,Sun Fire,2018-10-07,2019-01-04,2018,52,CA,14,Unidentified,100,3889,t
+713,Lane Fire,2018-06-23,2019-01-04,2018,52,CA,14,Unidentified,100,3716,t
+714,Mill Creek 1 Fire,2018-08-16,2019-01-04,2018,12,CA,14,Unidentified,100,3674,f
+715,Charlie Fire,2018-09-22,2019-01-04,2018,19,CA,14,Unidentified,100,3380,f
+716,Five Fire,2018-08-06,2019-01-04,2018,16,CA,14,Unidentified,100,2995,f
+717,Tarina Fire,2018-08-03,2019-01-04,2018,15,CA,14,Unidentified,100,2950,f
+718,Georges Fire,2018-07-08,2019-01-04,2018,14,CA,14,Unidentified,100,2883,t
+719,Snell Fire,2018-09-08,2019-01-04,2018,28,CA,14,Unidentified,100,2490,t
+720,Chrome Fire,2018-06-09,2019-01-04,2018,11,CA,14,Unidentified,100,2290,t
+721,Turkey Fire,2018-08-06,2019-01-04,2018,27,CA,14,Unidentified,100,2225,f
+722,Hat Fire,2018-08-09,2019-01-04,2018,45,CA,14,Unidentified,100,1900,t
+723,Nees Fire,2018-05-02,2019-01-04,2018,24,CA,14,Unidentified,100,1756,f
+724,Kerlin Fire,2018-09-04,2019-01-04,2018,53,CA,14,Unidentified,100,1751,f
+725,Nurse Fire,2018-11-08,2019-01-04,2018,48,CA,14,Unidentified,100,1500,f
+726,Airline Fire,2018-06-04,2019-01-04,2018,35,CA,14,Unidentified,100,1314,t
+727,Moffat Fire,2018-04-19,2019-01-03,2018,14,CA,14,Unidentified,100,1265,t
+728,Patterson Fire,2018-05-17,2019-01-04,2018,33,CA,14,Unidentified,100,1261,f
+729,Front Fire,2018-08-19,2019-01-04,2018,42,CA,14,Unidentified,100,1014,f
+730,Eel Fire,2018-07-31,2019-01-04,2018,23,CA,14,Unidentified,100,972,f
+731,Dale Fire,2018-07-09,2019-01-04,2018,52,CA,14,Unidentified,100,856,f
+732,Irish Fire,2018-07-06,2019-01-04,2018,3,CA,14,Unidentified,100,825,t
+733,Eighty Eight Fire,2018-07-18,2019-01-04,2018,57,CA,14,Unidentified,100,822,f
+734,Sunset Fire,2018-08-01,2019-01-04,2018,31,CA,14,Unidentified,100,700,f
+735,Tumbleweed Fire,2018-06-14,2019-01-04,2018,18,CA,14,Unidentified,100,646,f
+736,Eastern Fire,2018-06-04,2019-01-04,2018,35,CA,14,Unidentified,100,513,t
+737,Hyatt Fire,2018-06-27,2019-01-04,2018,18,CA,14,Unidentified,100,441,f
+738,San Ardo,2018-06-26,2019-06-21,2018,27,CA,14,Unidentified,100,375,f
+739,Call Fire,2018-08-18,2019-01-04,2018,15,CA,14,Unidentified,100,367,f
+740,Pasqual Fire,2018-07-27,2019-01-04,2018,37,CA,14,Unidentified,100,365,t
+741,Shippee Fire,2018-06-26,2019-01-04,2018,4,CA,14,Unidentified,100,347,f
+742,Bascom Fire,2018-06-23,2019-01-04,2018,45,CA,14,Unidentified,100,328,f
+743,Shingle Fire,2018-07-04,2019-01-04,2018,9,CA,14,Unidentified,100,316,f
+744,ONeals Fire,2018-06-04,2019-01-04,2018,20,CA,14,Unidentified,100,300,f
+745,Alpha Fire,2018-05-04,2019-01-04,2018,37,CA,14,Unidentified,100,300,f
+746,South Fire,2018-08-06,2019-01-04,2018,5,CA,14,Unidentified,100,290,f
+747,Skyline Fire,2018-07-19,2019-01-04,2018,33,CA,14,Unidentified,100,282,f
+748,Stoll Fire,2018-06-23,2019-01-04,2018,52,CA,14,Unidentified,100,268,t
+749,Recycle Fire,2018-06-06,2019-01-04,2018,37,CA,14,Unidentified,100,265,t
+750,Santa Cruz Fire,2018-03-27,2019-01-03,2018,42,CA,14,Unidentified,100,258,f
+751,Rangeland Fire,2018-08-09,2019-01-04,2018,37,CA,14,Unidentified,100,250,f
+752,Steamboat Fire,2018-07-15,2019-01-04,2018,47,CA,14,Unidentified,100,224,t
+753,Petersburg Fire,2018-07-01,2019-01-04,2018,47,CA,14,Unidentified,100,215,f
+754,Ribbon Fire,2018-07-26,2019-01-04,2018,33,CA,14,Unidentified,100,205,f
+755,Par Fire,2018-07-04,2019-01-04,2018,4,CA,14,Unidentified,100,191,f
+756,Aliso Fire,2018-06-02,2019-01-04,2018,30,CA,14,Unidentified,100,175,f
+757,Ogilvy Fire,2018-09-01,2019-01-04,2018,42,CA,14,Unidentified,100,172,f
+758,Priest Fire,2018-10-13,2019-01-04,2018,27,CA,14,Unidentified,100,167,f
+759,Roxie Fire (Formerly 1-1 Fire),2018-07-24,2019-01-04,2018,18,CA,14,Unidentified,100,167,t
+760,Gorge Fire,2018-08-19,2019-01-04,2018,45,CA,14,Unidentified,100,155,f
+761,Santiago Fire,2018-06-11,2019-01-04,2018,30,CA,14,Unidentified,100,155,f
+762,Euclid Fire,2018-06-12,2019-01-04,2018,33,CA,14,Unidentified,100,154,f
+763,Irving Fire,2018-09-10,2019-01-04,2018,21,CA,14,Unidentified,100,152,t
+764,Sliger Fire,2018-09-04,2019-01-04,2018,9,CA,14,Unidentified,100,150,t
+765,Parrots Fire,2018-08-05,2019-01-04,2018,5,CA,14,Unidentified,100,136,f
+766,Steele Fire,2018-07-28,2019-01-04,2018,28,CA,14,Unidentified,100,135,t
+767,Pico Fire,2018-07-23,2019-01-04,2018,19,CA,14,Unidentified,100,128,f
+768,Open Fire,2018-06-01,2019-01-04,2018,11,CA,14,Unidentified,100,127,f
+769,Shastina Fire,2018-05-09,2019-01-04,2018,47,CA,14,Unidentified,100,127,f
+770,Sterling,2018-08-31,2019-01-04,2018,36,CA,14,Unidentified,100,125,f
+771,Market Fire,2018-10-24,2019-01-04,2018,54,CA,14,Unidentified,100,120,f
+772,Idria Fire,2018-07-12,2019-01-04,2018,35,CA,14,Unidentified,100,116,f
+773,Bridle Fire,2018-07-06,2019-01-04,2018,43,CA,14,Unidentified,100,116,f
+774,Windmill Fire,2018-07-20,2019-01-04,2018,42,CA,14,Unidentified,100,110,f
+775,Cobble Fire,2018-05-26,2019-01-04,2018,10,CA,14,Unidentified,100,108,f
+776,Western Fire,2018-08-01,2019-01-04,2018,23,CA,14,Unidentified,100,106,f
+777,Cache Fire,2018-08-26,2019-01-04,2018,17,CA,14,Unidentified,100,103,f
+778,Jelly Fire,2018-05-18,2019-01-04,2018,52,CA,14,Unidentified,100,103,f
+779,Balch Fire,2018-07-27,2019-01-04,2018,54,CA,14,Unidentified,100,100,f
+780,Box Fire,2018-07-06,2019-01-04,2018,36,CA,14,Unidentified,100,100,f
+781,Sam Fire,2018-06-09,2019-01-04,2018,27,CA,14,Unidentified,100,96,f
+782,Sheep Fire,2018-06-29,2019-01-04,2018,15,CA,14,Unidentified,100,95,f
+783,Peach Fire ,2018-07-05,2019-01-04,2018,23,CA,14,Unidentified,100,90,f
+784,3-16 Fire,2018-07-15,2019-01-04,2018,18,CA,14,Unidentified,100,89,f
+785,Horn Fire,2018-11-08,2019-01-04,2018,18,CA,14,Unidentified,100,88,f
+786,Redinger Fire,2018-08-27,2019-01-04,2018,20,CA,14,Unidentified,100,88,f
+787,Plaza Fire,2018-05-20,2019-01-04,2018,24,CA,14,Unidentified,100,88,f
+788,Spring 2 Fire,2018-07-09,2019-01-04,2018,17,CA,14,Unidentified,100,80,f
+789,Cruces Fire,2018-07-18,2019-01-04,2018,42,CA,14,Unidentified,100,77,f
+790,Anchor Fire,2018-06-27,2019-01-04,2018,10,CA,14,Unidentified,100,76,f
+791,Stony Fire,2018-07-04,2019-01-04,2018,6,CA,14,Unidentified,100,75,t
+792,Main Fire,2018-04-28,2019-01-04,2018,33,CA,14,Unidentified,100,73,f
+793,Tornado Fire,2018-05-04,2019-01-04,2018,33,CA,14,Unidentified,100,70,f
+794,Romero Fire,2018-06-24,2019-01-04,2018,24,CA,14,Unidentified,100,68,f
+795,Bumper Fire,2018-08-01,2019-01-04,2018,9,CA,14,Unidentified,100,67,t
+796,Heart Fire,2018-07-21,2019-01-04,2018,23,CA,14,Unidentified,100,67,f
+797,Omega Fire,2018-08-01,2019-01-04,2018,9,CA,14,Unidentified,100,66,t
+798,Benton Fire,2018-07-04,2019-01-04,2018,33,CA,14,Unidentified,100,63,f
+799,Stuhr Fire,2018-05-29,2019-01-04,2018,50,CA,14,Unidentified,100,63,f
+800,Lebec Fire,2018-07-08,2019-01-04,2018,15,CA,14,Unidentified,100,62,f
+801,Adams Fire,2018-11-05,2019-01-04,2018,52,CA,14,Unidentified,100,60,f
+802,Raymond Fire,2018-06-15,2019-01-04,2018,20,CA,14,Unidentified,100,60,f
+803,Creston FIre,2018-06-14,2019-01-04,2018,40,CA,14,Unidentified,100,60,f
+804,Happy Fire,2018-05-17,2019-01-04,2018,42,CA,14,Unidentified,100,60,f
+805,Agua Fire,2018-05-22,2019-01-04,2018,37,CA,14,Unidentified,100,59,f
+806,Camino Fire,2018-10-19,2019-01-04,2018,40,CA,14,Unidentified,100,58,f
+807,3-10 Fire,2018-07-15,2019-01-04,2018,18,CA,14,Unidentified,100,56,f
+808,Bruce Fire,2018-07-08,2019-01-04,2018,7,CA,14,Unidentified,100,56,f
+809,Experimental Fire,2018-05-23,2019-01-04,2018,20,CA,14,Unidentified,100,56,t
+810,Keenbrook Fire,2018-09-26,2019-01-04,2018,36,CA,14,Unidentified,100,53,t
+811,Copper Fire,2018-09-22,2019-01-04,2018,18,CA,14,Unidentified,100,53,f
+812,Boyer Fire,2018-06-15,2019-01-04,2018,22,CA,14,Unidentified,100,53,t
+813,Kelley Fire,2018-07-14,2019-01-04,2018,25,CA,14,Unidentified,100,52,f
+814,Crestline Fire,2018-07-24,2019-01-04,2018,45,CA,14,Unidentified,100,51,t
+815,Hale Fire,2018-07-10,2019-01-04,2018,43,CA,14,Unidentified,100,51,f
+816,Carder Fire,2018-07-21,2019-01-04,2018,17,CA,14,Unidentified,100,50,t
+817,Tuscan Fire,2018-07-15,2019-01-04,2018,52,CA,14,Unidentified,100,50,f
+818,Haycamp Fire,2018-02-07,2019-01-03,2018,27,CA,14,Unidentified,100,50,f
+819,Buckingham Fire,2018-07-02,2019-01-04,2018,7,CA,14,Unidentified,100,45,f
+820,Simmons Fire,2018-07-19,2019-01-04,2018,4,CA,14,Unidentified,100,43,t
+821,Martinez Fire,2018-07-23,2019-01-04,2018,33,CA,14,Unidentified,100,40,f
+822,Iron Fire,2018-06-19,2019-01-04,2018,7,CA,14,Unidentified,100,40,f
+823,Masonic Fire,2018-10-14,2019-01-04,2018,45,CA,14,Unidentified,100,38,f
+824,Adobe Fire,2018-06-03,2019-01-04,2018,37,CA,14,Unidentified,100,38,f
+825,Mustang Fire,2018-07-21,2019-01-04,2018,40,CA,14,Unidentified,100,37,f
+826,Martin Fire,2018-06-03,2019-01-04,2018,47,CA,14,Unidentified,100,37,f
+827,Winchester Fire,2018-08-27,2019-01-04,2018,33,CA,14,Unidentified,100,36,f
+828,Brushy Fire,2018-11-08,2019-01-04,2018,23,CA,14,Unidentified,100,35,f
+829,Terra Fire,2018-08-06,2019-01-04,2018,33,CA,14,Unidentified,100,35,f
+830,Marcel Fire,2018-08-17,2019-01-04,2018,15,CA,14,Unidentified,100,34,f
+831,Horse Creek Fire,2018-07-19,2019-01-04,2018,54,CA,14,Unidentified,100,34,f
+832,Nimshew Fire,2018-09-24,2019-01-04,2018,4,CA,14,Unidentified,100,33,t
+833,3-18 Fire,2018-07-15,2019-01-04,2018,18,CA,14,Unidentified,100,32,f
+834,Alhambra Fire,2018-08-17,2019-01-04,2018,7,CA,14,Unidentified,100,30,f
+835,Sobrante Fire,2018-07-28,2019-01-04,2018,33,CA,14,Unidentified,100,30,f
+836,Aqueduct Fire,2018-04-12,2019-01-03,2018,10,CA,14,Unidentified,100,30,f
+837,Ager Fire,2018-05-19,2019-01-04,2018,47,CA,14,Unidentified,100,27,f
+838,Soboba Fire,2018-09-14,2019-01-04,2018,33,CA,14,Unidentified,100,25,f
+839,Vineyard Fire,2018-05-29,2019-01-04,2018,40,CA,14,Unidentified,100,25,f
+840,Kelsey Fire,2018-09-03,2019-01-04,2018,17,CA,14,Unidentified,100,24,t
+841,Land Fire,2018-08-22,2019-01-04,2018,33,CA,14,Unidentified,100,23,f
+842,Glen Fire,2018-06-02,2019-01-04,2018,7,CA,14,Unidentified,100,23,f
+843,Plymire Fire,2018-06-01,2019-01-04,2018,52,CA,14,Unidentified,100,23,f
+844,Wagner Fire,2018-08-04,2019-01-04,2018,22,CA,14,Unidentified,100,22,f
+845,Niles Fire,2018-11-14,2019-01-04,2018,1,CA,14,Unidentified,100,20,f
+846,Vallecitos Fire,2018-06-17,2019-01-04,2018,1,CA,14,Unidentified,100,20,f
+847,Portola Fire ,2018-06-12,2019-01-04,2018,19,CA,14,Unidentified,100,20,f
+848,Jacques Fire,2018-05-09,2019-01-04,2018,37,CA,14,Unidentified,100,18,f
+849,Ethanac Fire,2018-06-03,2019-01-04,2018,33,CA,14,Unidentified,100,17,f
+850,Johnson Fire,2018-07-15,2019-01-04,2018,12,CA,14,Unidentified,100,16,f
+851,Keeler Fire,2018-05-27,2019-01-04,2018,43,CA,14,Unidentified,100,16,f
+852,Iron Gate Fire,2018-10-10,2019-01-04,2018,47,CA,14,Unidentified,100,15,f
+853,Essex Fire,2018-09-02,2019-01-04,2018,25,CA,14,Unidentified,100,15,f
+854,Woodchuck Fire,2018-05-04,2019-01-04,2018,33,CA,14,Unidentified,100,15,f
+855,Casner Fire,2018-08-06,2019-01-04,2018,37,CA,14,Unidentified,100,14,f
+856,3-2 Fire,2018-07-14,2019-01-04,2018,18,CA,14,Unidentified,100,14,f
+857,Madison FIre,2018-06-01,2019-01-04,2018,57,CA,14,Unidentified,100,14,f
+858,Ranchera Fire,2018-09-04,2019-01-04,2018,45,CA,14,Unidentified,100,13,f
+859,Cinnamon Fire,2018-07-20,2019-01-04,2018,37,CA,14,Unidentified,100,13,t
+860,Coldwell Fire,2018-06-02,2019-01-04,2018,10,CA,14,Unidentified,100,13,f
+861,Gray Fire,2018-07-13,2019-01-04,2018,36,CA,14,Unidentified,100,12,f
+862,School Fire,2018-07-10,2019-01-04,2018,20,CA,14,Unidentified,100,12,f
+863,Meamber Fire,2018-06-04,2019-01-04,2018,47,CA,14,Unidentified,100,12,f
+864,Resort Fire,2018-06-03,2019-01-04,2018,40,CA,14,Unidentified,100,12,f
+865,Bellagio Fire,2018-05-21,2019-01-04,2018,28,CA,14,Unidentified,100,12,f
+866,Volcan Fire,2018-05-10,2019-01-04,2018,37,CA,14,Unidentified,100,12,f
+867,Dark Fire,2018-07-10,2019-01-04,2018,4,CA,14,Unidentified,100,11,f
+868,Cornerstone Fire,2018-07-09,2019-01-04,2018,20,CA,14,Unidentified,100,11,f
+869,Grande Fire,2018-06-03,2019-01-04,2018,33,CA,14,Unidentified,100,11,f
+870,Bear Fire ,2018-11-16,2019-01-04,2018,44,CA,14,Unidentified,100,10,f
+871,Green Hill Fire,2018-11-12,2019-01-04,2018,12,CA,14,Unidentified,100,10,f
+872,Powellton Fire,2018-10-15,2019-01-04,2018,4,CA,14,Unidentified,100,10,f
+873,Keller Fire,2018-08-19,2019-01-04,2018,33,CA,14,Unidentified,100,10,f
+874,Syar Fire,2018-08-09,2019-01-04,2018,28,CA,14,Unidentified,100,10,f
+875,Lott Fire,2018-07-17,2019-01-04,2018,47,CA,14,Unidentified,100,10,f
+876,Building Fire,2018-07-06,2019-01-04,2018,37,CA,14,Unidentified,100,10,f
+877,Llano Fire,2018-06-29,2019-01-04,2018,4,CA,14,Unidentified,100,10,f
+878,Ranchita Fire,2018-06-19,2019-01-04,2018,27,CA,14,Unidentified,100,10,f
+879,Pallet Fire,2018-06-05,2019-01-04,2018,49,CA,14,Unidentified,100,10,f
+880,Jardin Fire,2018-06-02,2019-01-04,2018,33,CA,14,Unidentified,100,10,f
+881,70th Fire,2018-05-28,2019-01-04,2018,33,CA,14,Unidentified,100,10,f
+882,Honey Flooding,2018-11-29,2019-01-04,2018,4,CA,14,Unidentified,100,0,t
+883,Easy Fire,2019-10-30,2019-11-02,2019,56,CA,14,Unidentified,100,1806,f
+884,Rawson Fire,2019-10-27,2019-10-28,2019,52,CA,14,Unidentified,100,605,f
+885,Hill Fire ,2019-10-30,2019-11-02,2019,33,CA,14,Unidentified,100,494,t
+886,Cross Fire,2019-10-09,2019-10-11,2019,"27,40",CA,14,Unidentified,100,289,f
+887,Mud Fire ,2019-10-18,2019-10-19,2019,10,CA,2,Equipment Use,100,137,f
+888,Wolf Fire,2019-10-10,2019-10-12,2019,33,CA,14,Unidentified,100,75,f
+889,Merrill Fire,2019-10-10,2019-10-10,2019,7,CA,11,Powerline,100,40,f
+890,Rains Fire,2019-07-18,2019-07-18,2019,50,CA,14,Unidentified,100,35,f
+891,Whiskey Fire,2019-07-18,2019-07-20,2019,5,CA,14,Unidentified,100,27,f
+892,La Barisa Fire,2019-08-03,2019-08-04,2019,36,CA,14,Unidentified,100,26,f
+893,Chaparral Fire,2019-09-29,2019-09-29,2019,9,CA,14,Unidentified,100,22,f
+894,Mid Fire,2019-07-12,2019-07-12,2019,1,CA,14,Unidentified,100,22,f
+895,Kincade Fire,2019-10-23,2019-11-06,2019,49,CA,14,Unidentified,100,77758,t
+896,Tucker Fire,2019-07-28,2019-08-11,2019,25,CA,14,Unidentified,100,14217,f
+897,Taboose Fire,2019-09-06,2019-11-21,2019,14,CA,14,Unidentified,100,10296,t
+898,Maria Fire ,2019-10-31,2019-11-06,2019,56,CA,14,Unidentified,100,9999,t
+899,Red Bank Fire,2019-09-05,2019-09-13,2019,52,CA,14,Unidentified,100,8838,t
+900,Saddle Ridge Fire,2019-10-10,2019-10-31,2019,19,CA,14,Unidentified,100,8799,t
+901,R-1 Fire,2019-08-28,2019-09-04,2019,18,CA,1,Lightning,100,3380,f
+902,Cave Fire (No Longer a CAL FIRE Incident),2019-11-25,2019-12-14,2019,42,CA,7,Arson,100,3126,f
+903,Long Valley Fire ,2019-08-24,2019-08-27,2019,18,CA,14,Unidentified,100,2438,f
+904,Tenaja,2019-09-04,2019-09-14,2019,33,CA,1,Lightning,100,1926,t
+905,McMillan Fire,2019-06-12,2019-06-24,2019,40,CA,14,Unidentified,100,1764,f
+906,Border 8 Fire,2019-08-16,2019-08-17,2019,62,CA,14,Unidentified,100,1507,f
+907,West Butte Fire,2019-06-08,2019-06-17,2019,51,CA,14,Unidentified,100,1350,f
+908,Boulder Fire,2019-06-05,2019-06-11,2019,40,CA,14,Unidentified,100,1127,f
+909,W1 McDonald Fire,2019-08-08,2019-08-11,2019,18,CA,14,Unidentified,100,1020,f
+910,Gillis Fire,2019-07-08,2019-07-09,2019,40,CA,14,Unidentified,100,974,f
+911,Belmont Fire,2019-05-29,2019-06-03,2019,40,CA,14,Unidentified,100,835,f
+912,Marsh Complex,2019-08-03,2019-08-06,2019,7,CA,14,Unidentified,100,757,f
+913,Getty Fire ,2019-10-28,2019-11-05,2019,19,CA,11,Powerline,100,745,f
+914,Burris Fire,2019-10-27,2019-11-03,2019,23,CA,14,Unidentified,100,703,f
+915,Jerry Fire,2019-06-21,2019-06-24,2019,33,CA,14,Unidentified,100,525,f
+916,Caliente Fire,2019-08-01,2019-08-03,2019,37,CA,14,Unidentified,100,448,f
+917,Real Fire,2019-10-17,2019-10-21,2019,42,CA,14,Unidentified,100,420,f
+918,Reche Fire,2019-10-10,2019-10-13,2019,33,CA,14,Unidentified,100,350,t
+919,46 Fire,2019-10-31,2019-11-03,2019,33,CA,14,Unidentified,100,328,f
+920,Hwy Fire,2019-09-28,2019-09-28,2019,4,CA,11,Powerline,100,300,f
+921,Hollow Fire,2019-07-03,2019-07-05,2019,39,CA,10,Vehicle,100,283,f
+922,Rams Horn Fire,2019-09-07,2019-09-12,2019,53,CA,14,Unidentified,100,280,f
+923,Snail Fire,2019-09-01,2019-09-05,2019,56,CA,14,Unidentified,100,279,f
+924,Snowstorm Fire,2019-07-05,2019-07-06,2019,18,CA,2,Equipment Use,100,263,f
+925,R-6 Fire,2019-09-06,2019-09-11,2019,18,CA,14,Unidentified,100,260,f
+926,Citrus Fire,2019-06-02,2019-06-11,2019,54,CA,14,Unidentified,100,257,f
+927,Sycamore Fire,2019-09-07,2019-09-08,2019,33,CA,1,Lightning,100,250,f
+928,Henthorne Fire,2019-09-05,2019-09-18,2019,53,CA,14,Unidentified,100,244,f
+929,Kidder 2 Fire,2019-09-07,2019-09-26,2019,47,CA,14,Unidentified,100,227,f
+930,Moose Fire,2019-08-12,2019-08-17,2019,23,CA,14,Unidentified,100,225,t
+931,Lopez Fire,2019-09-21,2019-09-27,2019,40,CA,14,Unidentified,100,220,t
+932,Wolf Fire ,2019-06-29,2019-06-30,2019,33,CA,14,Unidentified,100,214,f
+933,Madera Fire ,2019-07-15,2019-07-16,2019,20,CA,14,Unidentified,100,213,f
+934,Merced Fire ,2019-06-29,2019-07-02,2019,24,CA,14,Unidentified,100,210,f
+935,Malech Fire,2019-06-09,2019-06-11,2019,43,CA,14,Unidentified,100,210,f
+936,Lumgrey Fire,2019-06-17,2019-06-24,2019,47,CA,14,Unidentified,100,207,f
+937,Milton Fire ,2019-07-15,2019-07-16,2019,50,CA,14,Unidentified,100,202,f
+938,Hillside Fire,2019-10-31,2019-11-05,2019,36,CA,14,Unidentified,100,200,f
+939,Cypress Complex,2019-10-27,2019-10-28,2019,7,CA,14,Unidentified,100,200,f
+940,Olivas Fire,2019-10-11,2019-10-12,2019,56,CA,14,Unidentified,100,200,f
+941,McMurray Fire,2019-09-09,2019-09-14,2019,42,CA,14,Unidentified,100,200,f
+942,Doyle Fire,2019-07-14,2019-07-16,2019,18,CA,14,Unidentified,100,193,f
+943,Sargent Fire,2019-07-09,2019-07-10,2019,27,CA,14,Unidentified,100,190,f
+944,Vulcan Fire,2019-05-03,2019-05-08,2019,15,CA,14,Unidentified,100,172,f
+945,Bautista Fire,2019-09-15,2019-09-22,2019,33,CA,14,Unidentified,100,167,f
+946,Cottage Fire,2019-08-15,2019-08-17,2019,45,CA,2,Equipment Use,100,156,t
+947,Spruce Fire,2019-06-01,2019-06-11,2019,54,CA,14,Unidentified,100,155,f
+948,Sky Fire ,2019-10-27,2019-10-28,2019,7,CA,14,Unidentified,100,150,f
+949,Dyer Fire,2019-06-26,2019-06-27,2019,31,CA,14,Unidentified,100,148,f
+950,Glencove Fire ,2019-10-27,2019-10-28,2019,48,CA,14,Unidentified,100,140,f
+951,South Fire ,2019-07-14,2019-07-15,2019,56,CA,14,Unidentified,100,131,f
+952,Shady Fire,2019-05-18,2019-05-24,2019,33,CA,14,Unidentified,100,130,f
+953,Goose 2 Fire,2019-07-17,2019-07-20,2019,25,CA,14,Unidentified,100,128,f
+954,Weisgarber Fire,2019-06-20,2019-06-21,2019,37,CA,14,Unidentified,100,120,t
+955,Bitter Fire ,2019-06-10,2019-06-11,2019,40,CA,14,Unidentified,100,120,f
+956,Woody Fire,2019-04-30,2019-05-08,2019,15,CA,14,Unidentified,100,115,f
+957,Meadow Fire (Not a CAL FIRE incident),2019-08-02,2019-08-02,2019,25,CA,9,Miscellaneous,100,103,f
+958,Kennedy Fire,2019-09-21,2019-09-22,2019,33,CA,14,Unidentified,100,98,f
+959,Sawday Fire ,2019-10-25,2019-10-28,2019,37,CA,15,Structure,100,97,t
+960,Orange fire,2019-07-13,2019-07-13,2019,33,CA,14,Unidentified,100,96,f
+961,Toro Fire ,2019-08-05,2019-08-06,2019,33,CA,14,Unidentified,100,94,f
+962,Trinity Fire,2019-06-26,2019-06-26,2019,45,CA,14,Unidentified,100,90,f
+963,Timm Fire ,2019-08-13,2019-08-13,2019,48,CA,14,Unidentified,100,81,f
+964,Nelson Fire ,2019-10-24,2019-10-24,2019,4,CA,2,Equipment Use,100,80,f
+965,Ivy Fire,2019-08-25,2019-08-25,2019,33,CA,14,Unidentified,100,80,f
+966,Levee Fire,2019-06-08,2019-06-17,2019,58,CA,14,Unidentified,100,70,f
+967,Corning Fire ,2019-10-09,2019-10-09,2019,52,CA,14,Unidentified,100,68,f
+968,Jolon Fire,2019-09-01,2019-09-02,2019,27,CA,14,Unidentified,100,66,f
+969,Sugar Fire,2019-05-10,2019-05-24,2019,31,CA,14,Unidentified,100,65,f
+970,Cabrillo Fire,2019-10-24,2019-10-27,2019,41,CA,14,Unidentified,100,62,f
+971,Forbestown Fire,2019-09-06,2019-09-12,2019,4,CA,14,Unidentified,100,58,f
+972,Forest Fire,2019-10-27,2019-10-28,2019,7,CA,14,Unidentified,100,50,f
+973,Prairie Fire ,2019-08-02,2019-08-02,2019,34,CA,9,Miscellaneous,100,50,f
+974,Ink Fire,2019-06-08,2019-06-17,2019,28,CA,14,Unidentified,100,50,f
+975,Aborn Fire,2019-07-15,2019-07-15,2019,43,CA,14,Unidentified,100,47,f
+976,Lower Fire,2019-08-12,2019-08-13,2019,45,CA,14,Unidentified,100,46,f
+977,Diversion Fire,2019-05-30,2019-06-03,2019,33,CA,14,Unidentified,100,45,f
+978,Flood Fire ,2019-09-05,2019-09-05,2019,39,CA,11,Powerline,100,44,f
+979,Ardo Fire,2019-06-12,2019-06-17,2019,27,CA,14,Unidentified,100,43,f
+980,Palisades Fire,2019-10-21,2019-10-31,2019,19,CA,10,Vehicle,100,42,f
+981,Plains Fire,2019-10-10,2019-10-10,2019,45,CA,11,Powerline,100,42,f
+982,Calaveras Fire ,2019-06-10,2019-06-17,2019,43,CA,14,Unidentified,100,35,f
+983,Yucca Fire,2019-08-22,2019-08-23,2019,33,CA,14,Unidentified,100,34,f
+984,Heavy Range Fire,2019-08-10,2019-08-10,2019,57,CA,14,Unidentified,100,33,f
+985,Yokohl Fire,2019-06-03,2019-06-04,2019,54,CA,14,Unidentified,100,33,f
+986,Bitter Fire,2019-10-11,2019-10-11,2019,40,CA,14,Unidentified,100,30,f
+987,Point Fire ,2019-10-07,2019-10-07,2019,43,CA,14,Unidentified,100,29,f
+988,Glass Fire,2019-09-04,2019-09-05,2019,17,CA,14,Unidentified,100,28,t
+989,Watt Fire,2019-06-07,2019-06-11,2019,31,CA,14,Unidentified,100,27,f
+990,Border 10 Fire,2019-08-25,2019-08-28,2019,"62,37",CA,14,Unidentified,100,25,f
+991,Bikeway Fire,2019-07-05,2019-07-05,2019,1,CA,14,Unidentified,100,25,f
+992,Fellow Fire,2019-07-05,2019-07-05,2019,7,CA,14,Unidentified,100,24,f
+993,Preston Fire,2019-08-08,2019-08-08,2019,55,CA,8,Playing with fire,100,21,f
+994,Radio Fire,2019-08-12,2019-08-12,2019,33,CA,1,Lightning,100,20,f
+995,Golf Fire,2019-08-08,2019-08-11,2019,17,CA,14,Unidentified,100,20,f
+996,Gibbel Fire ,2019-07-11,2019-07-11,2019,33,CA,5,Debris,100,20,f
+997,Sobrante Fire ,2019-11-01,2019-11-01,2019,33,CA,14,Unidentified,100,19,f
+998,Warren Fire,2019-09-30,2019-09-30,2019,33,CA,14,Unidentified,100,19,f
+999,Carroll Fire,2019-08-31,2019-08-31,2019,1,CA,14,Unidentified,100,19,f
+1000,Del Fire,2019-10-03,2019-10-04,2019,50,CA,14,Unidentified,100,18,f
+1001,Foster Fire ,2019-09-04,2019-09-04,2019,35,CA,14,Unidentified,100,17,f
+1002,Greenstone Fire ,2019-08-14,2019-08-14,2019,9,CA,14,Unidentified,100,16,f
+1003,Duzel Fire,2019-09-07,2019-09-10,2019,47,CA,2,Equipment Use,100,15,f
+1004,Telephone Fire,2019-09-02,2019-09-06,2019,36,CA,14,Unidentified,100,15,f
+1005,Pauma Fire,2019-06-10,2019-06-24,2019,37,CA,9,Miscellaneous,100,15,f
+1006,Carson Fire,2019-07-30,2019-07-31,2019,9,CA,14,Unidentified,100,13,f
+1007,Mayberry Fire ,2019-06-29,2019-06-29,2019,4,CA,14,Unidentified,100,12,f
+1008,Beaumont Fire,2019-10-21,2019-10-22,2019,36,CA,14,Unidentified,100,11,f
+1009,Dales Fire,2019-10-07,2019-10-07,2019,52,CA,14,Unidentified,100,11,f
+1010,Fairmont Fire,2019-10-15,2019-10-16,2019,37,CA,14,Unidentified,100,10,f
+1011,Inghram Fire,2019-10-09,2019-10-08,2019,52,CA,14,Unidentified,100,10,f
+1012,Electra Fire,2019-09-25,2019-09-25,2019,3,CA,14,Unidentified,100,10,t
+1013,IronGate Fire,2019-06-16,2019-06-21,2019,47,CA,14,Unidentified,100,10,f
+1014,Cana Fire,2019-04-30,2019-05-08,2019,4,CA,14,Unidentified,100,10,f
+1015,Springs Fire,2013-05-02,2013-05-11,2013,56,CA,14,Unidentified,100,24251,t
+1016,Pfeiffer Fire,2013-12-16,2013-12-20,2013,27,CA,9,Miscellaneous,100,917,f
+1017,Jurupa Fire,2013-02-28,2013-03-02,2013,33,CA,14,Unidentified,100,311,f
+1018,Becks Fire,2013-01-22,2013-01-23,2013,17,CA,14,Unidentified,100,296,f
+1019,Daves Fire,2013-06-12,2013-06-17,2013,11,CA,14,Unidentified,100,226,f
+1020,Tassajara Fire,2013-07-17,2013-07-17,2013,27,CA,14,Unidentified,100,213,f
+1021,Highland Fire,2013-10-04,2013-10-04,2013,1,CA,2,Equipment Use,100,150,f
+1022,Neal Fire,2013-05-22,2013-05-22,2013,4,CA,14,Unidentified,100,150,t
+1023,Bee Fire,2013-08-09,2013-08-11,2013,19,CA,1,Lightning,100,100,f
+1024,Butte Fire,2013-04-09,2013-04-09,2013,10,CA,14,Unidentified,100,80,f
+1025,Tehama Fire,2013-09-15,2013-09-15,2013,52,CA,14,Unidentified,100,75,f
+1026,Cedar Fire,2013-05-01,2013-05-04,2013,4,CA,18,Escaped Prescribed Burn,100,72,t
+1027,Happy Camp Fire,2013-12-10,2013-12-11,2013,56,CA,14,Unidentified,100,44,f
+1028,Valley Fire,2013-09-26,2013-09-28,2013,37,CA,14,Unidentified,100,40,f
+1029,Trout Fire,2013-07-31,2013-07-31,2013,47,CA,1,Lightning,100,40,f
+1030,Honey Fire,2013-08-04,2013-08-05,2013,45,CA,14,Unidentified,100,34,f
+1031,Refuse Fire,2013-12-30,2013-12-30,2013,23,CA,14,Unidentified,100,15,f
+1032,Ranger Fire,2013-05-12,2013-05-13,2013,20,CA,14,Unidentified,100,15,f
+1033,July Complex,2014-08-02,2014-08-06,2014,47,CA,14,Unidentified,100,50042,f
+1034,Beaver Fire,2014-07-30,2014-09-02,2014,47,CA,14,Unidentified,100,32496,f
+1035,Pulgas Fire,2014-05-15,2014-05-21,2014,37,CA,14,Unidentified,100,14416,f
+1036,French Fire,2014-07-28,2014-07-28,2014,20,CA,14,Unidentified,100,13838,f
+1037,Lodge Lightning Complex,2014-07-30,2014-09-09,2014,23,CA,14,Unidentified,100,12536,t
+1038,Stoney Fire,2014-06-19,2014-06-21,2014,27,CA,14,Unidentified,100,4840,f
+1039,Meadow Fire,2014-08-16,2014-12-12,2014,22,CA,14,Unidentified,100,4772,f
+1040,El Portal Fire,2014-07-26,2014-08-10,2014,22,CA,14,Unidentified,100,4689,f
+1041,Dark Hole Fire,2014-07-17,2014-08-20,2014,22,CA,14,Unidentified,100,1080,f
+1042,Hunters Fire,2014-05-26,2014-06-02,2014,22,CA,14,Unidentified,100,677,t
+1043,Applegate Fire,2014-10-08,2014-10-15,2014,31,CA,14,Unidentified,100,459,t
+1044,Black Fire,2014-09-13,2014-09-17,2014,23,CA,14,Unidentified,100,403,t
+1045,Web Fire,2014-07-28,2014-08-01,2014,4,CA,14,Unidentified,100,389,t
+1046,Bridge Fire,2014-09-05,2014-09-12,2014,22,CA,14,Unidentified,100,300,t
+1047,Gun Club Fire,2014-07-24,2014-07-25,2014,24,CA,14,Unidentified,100,300,f
+1048,Curie Fire,2014-06-30,2014-07-01,2014,43,CA,14,Unidentified,100,125,f
+1049,Brewer Fire,2014-01-22,2014-01-22,2014,31,CA,10,Vehicle,100,120,f
+1050,Saratoga Fire,2014-09-03,2014-09-05,2014,17,CA,14,Unidentified,100,100,f
+1051,Interstate Fire,2014-09-01,2014-09-01,2014,33,CA,14,Unidentified,100,100,f
+1052,Casa Fire,2014-08-28,2014-08-31,2014,43,CA,14,Unidentified,100,80,f
+1053,Montgomery Fire,2014-09-07,2014-09-09,2014,22,CA,14,Unidentified,100,79,f
+1054,Sabina Fire,2014-07-23,2014-07-24,2014,33,CA,14,Unidentified,100,78,f
+1055,Ranch Fire,2014-07-01,2014-07-06,2014,15,CA,14,Unidentified,100,70,f
+1056,June Fire,2014-09-16,2014-09-21,2014,14,CA,14,Unidentified,100,65,f
+1057,Nelson Fire,2014-09-21,2014-09-22,2014,23,CA,4,Campfire,100,62,t
+1058,Honcut Fire,2014-01-01,2014-01-02,2014,4,CA,14,Unidentified,100,60,f
+1059,Freeway Fire ,2014-05-14,2014-05-20,2014,37,CA,14,Unidentified,100,56,f
+1060,McClellan Fire,2014-08-01,2014-08-02,2014,12,CA,1,Lightning,100,37,f
+1061,Bogart Fire,2014-06-06,2014-06-07,2014,33,CA,14,Unidentified,100,31,t
+1062,Siskiyou County Lightning Fires,2014-07-29,2014-08-02,2014,47,CA,14,Unidentified,100,30,t
+1063,Foothill Fire ,2014-09-29,2014-09-30,2014,56,CA,14,Unidentified,100,25,f
+1064,Iowa Fire,2014-07-21,2014-07-22,2014,31,CA,14,Unidentified,100,14,f
+1065,Santa Fire,2014-06-04,2014-06-04,2014,33,CA,14,Unidentified,100,14,f
+1066,South Napa Earthquake,2014-08-24,2014-08-31,2014,28,CA,14,Unidentified,100,6,f
+1067,River Complex,2015-07-30,2015-07-31,2015,53,CA,1,Lightning,100,77081,f
+1068,Fork Complex,2015-07-30,2015-08-24,2015,53,CA,14,Unidentified,100,36503,f
+1069,Gasquet Complex,2015-07-31,2015-08-04,2015,8,CA,1,Lightning,100,30361,f
+1070,South Complex,2015-07-30,2015-08-03,2015,53,CA,14,Unidentified,100,29416,f
+1071,Nickowitz Fire,2015-08-01,2015-11-09,2015,8,CA,14,Unidentified,100,7509,f
+1072,Round Fire,2015-02-06,2015-02-12,2015,"14,26",CA,14,Unidentified,100,7000,t
+1073,Humboldt Lightning Fires,2015-07-30,2015-08-19,2015,12,CA,14,Unidentified,100,4883,t
+1074,Walker Fire,2015-08-14,2015-08-23,2015,26,CA,14,Unidentified,100,3676,f
+1075,Horno Fire,2015-08-13,2015-08-18,2015,37,CA,14,Unidentified,100,1850,f
+1076,Park Hill Fire,2015-06-20,2015-06-24,2015,40,CA,10,Vehicle,100,1791,t
+1077,Meridian Fire,2015-10-03,2015-10-04,2015,4,CA,14,Unidentified,100,860,t
+1078,Van Dyke Fire,2015-02-06,2015-02-20,2015,26,CA,14,Unidentified,100,509,f
+1079,Sky Fire,2015-06-18,2015-06-19,2015,20,CA,10,Vehicle,100,500,f
+1080,Tenaya Fire,2015-09-07,2015-09-11,2015,22,CA,14,Unidentified,100,415,f
+1081,Lincoln Fire,2015-08-16,2015-08-20,2015,19,CA,14,Unidentified,100,374,f
+1082,Ione Fire,2015-07-02,2015-07-02,2015,3,CA,7,Arson,100,355,t
+1083,Warm Fire,2015-08-16,2015-08-16,2015,19,CA,14,Unidentified,100,300,f
+1084,Site Fire,2015-06-05,2015-06-06,2015,1,CA,14,Unidentified,100,300,f
+1085,Chorro Fire,2015-08-02,2015-08-12,2015,56,CA,14,Unidentified,100,282,f
+1086,Christensen Fire,2015-05-28,2015-05-28,2015,1,CA,14,Unidentified,100,242,f
+1087,Mendocino National Forest Lightning Complex,2015-07-30,2015-08-07,2015,23,CA,1,Lightning,100,227,f
+1088,Pacheco Fire,2015-09-09,2015-09-10,2015,43,CA,1,Lightning,100,215,f
+1089,Mesa Fire,2015-06-29,2015-06-29,2015,42,CA,14,Unidentified,100,211,f
+1090,Rustic Fire,2015-08-14,2015-08-16,2015,56,CA,14,Unidentified,100,186,f
+1091,Flat Fire ,2015-08-20,2015-08-21,2015,15,CA,14,Unidentified,100,167,f
+1092,Merwin Fire,2015-07-01,2015-07-04,2015,33,CA,14,Unidentified,100,150,f
+1093,Collier Fire,2015-06-18,2015-06-18,2015,39,CA,14,Unidentified,100,122,f
+1094,Shinn Fire,2015-06-30,2015-07-03,2015,18,CA,14,Unidentified,100,111,f
+1095,Apple Fire,2015-09-03,2015-09-03,2015,34,CA,14,Unidentified,100,110,t
+1096,Riosa Fire,2015-06-08,2015-06-08,2015,31,CA,14,Unidentified,100,110,t
+1097,Harrison Fire,2015-06-01,2015-06-05,2015,33,CA,14,Unidentified,100,80,f
+1098,Webb Fire,2015-07-01,2015-07-01,2015,4,CA,9,Miscellaneous,100,75,f
+1099,Prairie Fire,2015-08-20,2015-08-22,2015,47,CA,9,Miscellaneous,100,69,f
+1100,Scales Fire,2015-08-01,2015-08-05,2015,36,CA,2,Equipment Use,100,65,f
+1101,Kerkhoff Fire,2015-07-18,2015-07-22,2015,10,CA,1,Lightning,100,60,f
+1102,Grapefruit Fire,2015-06-18,2015-06-21,2015,33,CA,2,Equipment Use,100,60,f
+1103,Triangle Fire,2015-06-18,2015-06-19,2015,22,CA,10,Vehicle,100,60,t
+1104,Military Fire,2015-10-10,2015-10-10,2015,47,CA,14,Unidentified,100,58,f
+1105,Antelope Fire,2015-09-09,2015-09-15,2015,15,CA,14,Unidentified,100,45,f
+1106,Geary Fire,2015-07-02,2015-07-03,2015,1,CA,1,Lightning,100,45,f
+1107,FKU Lightning Fires,2015-06-05,2015-06-06,2015,10,CA,14,Unidentified,100,45,f
+1108,Mason Fire ,2015-07-09,2015-07-13,2015,25,CA,14,Unidentified,100,43,f
+1109,Garage Fire,2015-06-09,2015-06-10,2015,28,CA,11,Powerline,100,36,t
+1110,Banister Fire,2015-11-11,2015-11-12,2015,56,CA,14,Unidentified,100,29,f
+1111,Buckaroo Fire,2015-07-02,2015-07-05,2015,9,CA,1,Lightning,100,25,f
+1112,Fox Fire,2015-06-07,2015-06-09,2015,22,CA,14,Unidentified,100,25,t
+1113,Oasis Fire,2015-06-05,2015-06-06,2015,17,CA,14,Unidentified,100,25,f
+1114,Snow Fire,2015-06-05,2015-06-05,2015,33,CA,2,Equipment Use,100,25,f
+1115,Mad River Complex,2015-07-30,2015-08-01,2015,53,CA,14,Unidentified,100,0,f
+1116,Rey Fire ,2016-08-18,2016-09-15,2016,42,CA,9,Miscellaneous,100,32606,f
+1117,San Gabriel Complex (Formerly Fish & Reservoir Fires),2016-06-20,2018-04-23,2016,19,CA,14,Unidentified,100,5399,f
+1118,Roberts Fire,2016-05-18,2016-05-20,2016,40,CA,14,Unidentified,100,3712,f
+1119,Clark Fire,2016-08-04,2016-08-07,2016,26,CA,14,Unidentified,100,2819,f
+1120,Flat Fire,2016-09-19,2016-09-21,2016,15,CA,14,Unidentified,100,306,f
+1121,King Fire ,2016-06-17,2016-06-20,2016,35,CA,14,Unidentified,100,237,t
+1122,Briggs Fire,2016-07-12,2016-07-15,2016,33,CA,14,Unidentified,100,173,f
+1123,Hills Fire,2016-04-28,2016-04-29,2016,10,CA,1,Lightning,100,151,f
+1124,Maze Fire,2016-08-04,2016-08-04,2016,50,CA,14,Unidentified,100,140,f
+1125,Rock Creek Fire,2016-08-05,2016-08-07,2016,26,CA,14,Unidentified,100,122,f
+1126,Bailey Fire,2016-08-17,2016-08-18,2016,43,CA,14,Unidentified,100,100,f
+1127,Cheyenne Fire,2016-06-15,2016-06-16,2016,5,CA,14,Unidentified,100,83,t
+1128,Serpa Fire,2016-07-21,2016-07-25,2016,20,CA,14,Unidentified,100,80,t
+1129,Mill Fire,2016-05-19,2016-05-21,2016,47,CA,14,Unidentified,100,56,f
+1130,Casitas Fire,2016-04-28,2016-04-30,2016,56,CA,14,Unidentified,100,50,f
+1131,Dockery Fire,2016-07-30,2016-08-01,2016,18,CA,2,Equipment Use,100,42,t
+1132,Evergreen Fire,2016-08-28,2016-08-29,2016,33,CA,14,Unidentified,100,40,f
+1133,Alder Fire,2016-08-06,2016-08-07,2016,9,CA,14,Unidentified,100,25,f
+1134,North Branch Extension Fire,2016-07-29,2016-07-31,2016,17,CA,14,Unidentified,100,25,f
+1135,Edison Fire,2016-05-12,2016-05-13,2016,56,CA,14,Unidentified,100,20,f
+1136,Modoc July Complex,2017-07-24,2018-01-09,2017,25,CA,14,Unidentified,100,83120,f
+1137,Schaeffer Fire,2017-06-24,2018-01-09,2017,54,CA,14,Unidentified,100,16031,f
+1138,Adobe Fire (Central LNU Complex),2017-10-09,2018-01-09,2017,49,CA,14,Unidentified,100,1868,t
+1139,Platina Fire,2017-06-13,2018-01-09,2017,45,CA,14,Unidentified,100,21,f
+1140,Dehesa Fire,2017-06-04,2018-01-09,2017,37,CA,14,Unidentified,100,12,f
+1141,Cranston Fire,2018-07-25,2019-01-04,2018,33,CA,14,Unidentified,100,13139,f
+1142,Branscombe Fire,2018-10-07,2019-01-04,2018,48,CA,14,Unidentified,100,4500,f
+1143,Twisselman Fire,2018-05-16,2019-01-04,2018,15,CA,14,Unidentified,100,293,f
+1144,Wilcox Fire,2018-02-18,2019-01-03,2018,54,CA,14,Unidentified,100,33,f
+1145,Montecito Flooding / Mudflows,2018-01-09,2019-01-03,2018,"42,56",CA,14,Unidentified,100,0,t
+1146,Girasol Fire,2019-04-09,2019-04-10,2019,33,CA,14,Unidentified,100,30,f

@@ -1,0 +1,1147 @@
+id,fire_name,county_id,county_name,location,latitude,longitude,minimum_temp,maximum_temp,average_temp,wind_speed,air_pressure,precipitation
+1,Rim Fire,55,Tuolumne,3 miles east of Groveland along Hwy 120,37.857,-120.086,14.0,32.0,27.0,3.0,1015.0,0.0
+2,Powerhouse Fire,19,Los Angeles,Angeles National Forest,34.585595,-118.423176,9.0,34.0,27.0,18.0,1010.0,0.0
+3,Mountain Fire,33,Riverside,Hwy 243 & Hwy 74 near Mountain Center,33.7095,-116.72885,18.0,32.0,28.0,7.0,1010.0,0.0
+4,American Fire,31,Placer,"Deadwood Ridge, northeast of Foresthill",39.12,-120.65,6.0,26.0,20.0,4.0,1015.0,0.0
+5,Aspen Fire,10,Fresno,Seven miles north of Big Creek,37.279,-119.318,15.0,25.0,21.0,2.0,1012.0,0.0
+6,Silver Fire,33,Riverside,"Poppet Flats Rd near Hwy 243, south of Banning",33.86157,-116.90427,15.0,27.0,24.0,11.0,1014.0,0.0
+7,Salmon River Complex,47,Siskiyou,"North Fork of the Salmon River, West of Sawyers Bar, Klamath National Forest",41.32,-123.176,1.0,24.0,18.0,3.0,1020.0,0.0
+8,Corral Complex,12,Humboldt,Tish Tang Ridge east of Hoopa Valley Reservation,41.035,-123.488,4.0,21.0,17.0,3.0,1015.0,0.3
+9,Deer Fire,52,Tehama,"Near Deer Creek, 12 miles east of Los Molinos. ",40.042629999999996,-121.85396999999999,16.0,33.0,28.0,5.0,1013.0,0.0
+10,Clover Fire,45,Shasta,"Community of Igo, 10 miles southwest of Redding",40.498332,-122.535496,17.0,37.0,30.0,13.0,1012.0,0.0
+11,Chariot Fire,37,San Diego,"off Sunrise Hwy, 9 miles southeast of Julian",32.95435,-116.47381000000001,19.0,29.0,25.0,8.0,1007.0,2.1
+12,Panther Fire,52,Tehama,"140K3 Line, 8 miles northwest of Butte Meadows",40.190062,-121.595555,1.0,16.0,12.0,19.0,1022.0,0.0
+13,Grand Fire,"15,56",Kern,"South of Frazier Mountain Park Rd, South of Frazier Park",34.7861,-118.9411,13.0,25.0,21.0,6.0,1015.0,0.0
+14,McCabe Fire,49,Sonoma,"The Geysers area, 10 miles northeast of Geyserville",38.8167,-122.8498,7.0,21.0,15.0,26.0,1017.0,0.0
+15,Summit Fire,33,Riverside,Mias Canyon and Bluff Road in Banning,34.288877,-116.94131100000001,11.0,24.0,21.0,11.0,1009.0,0.0
+16,Morgan Fire,7,Contra Costa,"off Morgan Territory Road, Southeast of Clayton",37.90757,-121.88258200000001,19.0,34.0,29.0,8.0,1011.0,0.0
+17,San Felipe Fire,37,San Diego,"San Felipe Road, north of Highway 78, East of Julian",33.121109999999994,-116.52578999999999,6.0,27.0,20.0,24.0,1008.0,0.0
+18,Swedes Fire,4,Butte,southeast of Oroville,39.446267999999996,-121.38236,16.0,32.0,27.0,10.0,1015.0,0.0
+19,DeLuz Fire,37,San Diego,"On Camp Pendleton, west of Fallbrook",33.341,-117.3092,15.0,30.0,25.0,16.0,1019.0,0.0
+20,Fish Fire,54,Tulare,Golden Trout Wilderness on the Sequoia National Forest.,36.208,-118.444,12.0,30.0,24.0,5.0,1009.0,0.0
+21,White Fire,42,Santa Barbara,"Southeast of Lake Cachuma, approx. 12 miles southeast of Santa Ynez",34.55048,-119.82428999999999,13.0,25.0,21.0,17.0,1017.0,0.0
+22,Carstens Fire,22,Mariposa,"Off Carstens Road, east of 140 in the Midpines area.",37.58202,-119.91071000000001,4.0,20.0,17.0,3.0,1015.0,0.0
+23,Falls Fire,"33,",Riverside,"Ortega Highway, west of Lake Elsinoire",33.62236,-117.40288000000001,15.0,30.0,25.0,5.0,1014.0,0.0
+24,General Fire,37,San Diego,"Banner Grade area, south of Hwy 78 & east of Hwy 79, southeast of Julian",33.044579999999996,-116.5209,6.0,28.0,20.0,23.0,1013.0,0.0
+25,Power Fire,55,Tuolumne,"Near Beardsley Lake, northeast of Sonora",38.25108,-120.02778,5.0,27.0,21.0,3.0,1016.0,0.0
+26,Shirley Fire,15,Kern,Lower Kern River Canyon area off Highway 178,35.707,-118.588,18.0,33.0,28.0,3.0,1011.0,0.0
+27,Rancho Fire,15,Kern,West side of Interstate 5 in Lebec (Kern County),34.882,-118.9194,21.0,32.0,28.0,10.0,1012.0,0.0
+28,Lake Fire,19,Los Angeles,I-5 Southbound at Lake Hughes Road,34.49149,-118.61004399999999,13.0,21.0,17.0,4.0,1013.0,0.0
+29,Water Fire,15,Kern,West side of Interstate 5 at Tejon Ranch,34.90327,-118.93388,20.0,28.0,25.0,7.0,1015.0,0.0
+30,Kyburz Fire,9,El Dorado,"Off Hwy 50 at 30 Mile Tract, Kyburz",38.774,-120.29799999999999,8.0,29.0,24.0,3.0,1012.0,0.0
+31,Mills Fire,36,San Bernardino,"south of Highway 38 & Bryant Street, northwest of Yucaipa ",34.071556,-117.048397,17.0,38.0,31.0,7.0,1014.0,0.0
+32,Plumas Lightning Complex (Hough),32,Plumas,Keddie Ridge/North Arm areas of Indian Valley near Taylorsville,40.00842,-120.76466599999999,14.0,30.0,24.0,9.0,1013.0,0.0
+33,Gorgonio Fire,33,Riverside,"Highway 243, south of Banning and north of Pine Cove",33.894055,-116.855019,7.0,23.0,17.0,7.0,1007.0,0.0
+34,Fox Fire (formally 3-7 Fire),25,Modoc,5 miles northwest of Aiden,41.2415,-121.035,18.0,33.0,29.0,5.0,1018.0,0.0
+35,Branch Fire,40,San Luis Obispo,"west of the Carrizo Plain, Los Padres National Forest",35.15832,-120.05131000000002,19.0,31.0,28.0,10.0,1012.0,0.0
+36,Kirker Fire,7,Contra Costa,Kirker Pass Road south of Pittsburg,37.96866,-121.91453,16.0,37.0,31.0,12.0,1009.0,0.0
+37,Rolling Fire,20,Madera,"off Hwy 41 & Road 145, northwest of Friant ",37.015575,-119.78106000000001,14.0,34.0,29.0,9.0,1015.0,0.0
+38,Gobblers Fire,36,San Bernardino,upper end of Lytle Creek,34.302,-117.598,19.0,31.0,27.0,5.0,1012.0,0.0
+39,River Fire,14,Inyo,"south of Narrow Gauge Rd & north of Hwy 136, east of Lone Pine",36.602575,-118.01651000000001,-6.0,4.0,0.0,24.0,1025.0,0.0
+40,Putah Fire,28,Napa,off Berryessa Knoxville Rd near Lake Berryessa,38.628,-122.289,10.0,22.0,18.0,16.0,1017.0,0.0
+41,Tres Pinos Fire,35,San Benito,"Highway 25 and Horizon Rd, Community of Tres ",37.160346000000004,-120.937494,15.0,34.0,29.0,10.0,1019.0,0.0
+42,Shelton Fire,39,San Joaquin,off North Shelton Rd in the Linden Peters area,38.049929999999996,-120.90325,10.0,28.0,23.0,5.0,1013.0,0.0
+43,Lone Fire,4,Butte,Palermo Road and Lone Tree Road near Palermo,39.434183000000004,-121.57680400000001,19.0,36.0,30.0,13.0,1008.0,0.0
+44,Concord Fire,7,Contra Costa,off Concord Ave & Vineyard Parkway in Brentwood,39.90465,-121.74367,22.0,41.0,36.0,6.0,1010.0,0.0
+45,Gold Fire,20,Madera,Between Road 210 and Road 200 near Fine Gold Creek in the community of O,37.116295,-119.63500400000001,12.0,25.0,21.0,8.0,1008.0,0.0
+46,Madre Fire,19,Los Angeles,San Gabriel Canyon 1/4 mile west of the entrance station,34.149,-117.90799999999999,15.0,29.0,24.0,14.0,1011.0,0.0
+47,Lyon Fire,37,San Diego,"Four Corners, Lyons Valley Road, east of Lyons Peak",32.710918,-116.746023,21.0,27.0,24.0,7.0,1008.0,0.0
+48,Sharp Fire,36,San Bernardino,Sheep canyon just south of Wrightwood,34.35,-117.62,15.0,28.0,23.0,10.0,1014.0,0.0
+49,Vasco Fire,1,Alameda,"off Vasco Road & North Vasco Road, north of Livermore",37.775057000000004,-121.73721299999998,15.0,36.0,29.0,9.0,1007.0,0.0
+50,PFE Fire,31,Placer,"PFE Road and Watt Avenue, West Roseville",38.729296999999995,-121.38086200000001,14.0,33.0,27.0,6.0,1016.0,0.0
+51,306 Fire,11,Glenn,2 miles south of the community of Elk Creek,39.514139,-122.56086200000001,12.0,28.0,23.0,31.0,1017.0,0.0
+52,Sierra Fire,36,San Bernardino,in the Cajon Pass west of I-15 near Glen Helen Road,34.2,-117.417,13.0,31.0,25.0,5.0,1012.0,0.0
+53,Vina Fire,52,Tehama,"Tehama-Vina Rd and Sherman Rd, Los Molinos",40.012398,-122.079871,25.0,41.0,36.0,12.0,1011.0,0.0
+54,Burney Lightning Series (Warner Fire),45,Shasta,Fall River Mills and McAruther area,40.5445,-121.3754,16.0,30.0,26.0,12.0,1014.0,0.8
+55,Paskenta Fire,52,Tehama,West of Corning,39.961309,-122.33087900000001,18.0,40.0,34.0,5.0,1014.0,0.0
+56,Silverado Fire,28,Napa,Off Silverado Trail in the Soda Canyon area near Napa,38.382,-122.311,6.0,12.0,9.0,4.0,1013.0,1.8
+57,Olive Fire,42,Santa Barbara,"Hwy 246 and Meadowvale, East of Solvang ",34.611824,-120.074655,14.0,23.0,20.0,23.0,1015.0,0.0
+58,Capay Fire,57,Yolo,"Off County Road 23 & County Road 81, Southwest of Esparto",38.67479,-122.08725,8.0,19.0,15.0,20.0,1015.0,0.0
+59,50 Fire,"9,34",El Dorado,South of Hwy 50 at the El Dorado and Sacramento County line,38.63987,-121.08438000000001,15.0,39.0,31.0,2.0,1014.0,0.0
+60,Crane Fire,49,Sonoma,"near Crane Creek Regional Park off Pressley Rd, east of Rohnert Park ",38.34599,-122.6503,12.0,26.0,21.0,29.0,1017.0,0.0
+61,Lakeville Fire,49,Sonoma,"Off Lakeville Hwy, 6 miles SE of Petaluma",38.17693,-122.51253,12.0,23.0,19.0,8.0,1016.0,0.0
+62,Redlands Fire,33,Riverside,"Redlands Boulevard and San Timoteo Canyon Road, north of Moreno Valley",33.990128000000006,-117.164997,12.0,33.0,27.0,8.0,1010.0,0.0
+63,Diablo Fire,50,Stanislaus,"off Diablo Grande Parkway, west of I-5, southwest of Patterson",37.436,-121.1955,14.0,36.0,29.0,13.0,1013.0,0.0
+64,George Fire,10,Fresno,off Bronco Lane in Squaw Valley,36.7218,-119.2248,14.0,29.0,23.0,3.0,1013.0,0.0
+65,Magic Fire,19,Los Angeles,off Magic Mtn Parkway in Valencia,34.419284000000005,-118.58688000000001,14.0,26.0,21.0,16.0,1012.0,0.0
+66,Angora Fire,54,Tulare,Golden Trout Wilderness,36.258,-118.459,16.0,22.0,18.0,3.0,1012.0,0.0
+67,Yellow Fire,49,Sonoma,"Hwy 128 & Yellow Jacket Ranch Rd in Knights Valley, northwest of Calistoga",38.638828000000004,-122.655616,11.0,30.0,24.0,27.0,1013.0,0.0
+68,California Fire,48,Solano,"Off Lake Herman Rd, west of Hwy 680 in Benicia",38.08744,-122.13802,11.0,23.0,19.0,13.0,1017.0,0.0
+69,152 Fire,24,Merced,Hwy 152 in San Luis Creek Reservoir,37.03776,-121.00693899999999,15.0,33.0,28.0,15.0,1010.0,0.0
+70,Smiley Fire,33,Riverside,"Off Smiley Blvd & Vista Suelto Rd, north of Moreno Valley",33.963591,-117.18793400000001,10.0,21.0,17.0,4.0,1013.0,0.0
+71,Cantwell Fire,17,Lake,"South of Morgan Valley Rd and East of Hwy 29, Community of Lower Lake",38.882214000000005,-122.567525,8.0,21.0,15.0,9.0,1019.0,0.0
+72,Union Fire,9,El Dorado,"off Koki Ln and Pleasant Valley Rd, northwest of Diamond Springs",38.682378,-120.839075,11.0,33.0,27.0,4.0,1015.0,0.0
+73,Cleghorn Fire,36,San Bernardino,I-15 Cajon Pass south of Cleghorn Road,34.287,-117.45100000000001,21.0,34.0,29.0,6.0,1012.0,0.0
+74,Clinton Fire,10,Fresno,"Clinton and Highland, East of Fresno",36.772425,-119.62838899999998,14.0,32.0,27.0,5.0,1015.0,0.0
+75,Freeman Fire,27,Monterey,"off Hwy 198, 10 miles east of King City",36.1531,-120.8973,19.0,39.0,33.0,8.0,1013.0,0.0
+76,Murphy Fire,55,Tuolumne,off Lime Kiln Rd,37.91529,-120.33313000000001,14.0,32.0,28.0,6.0,1008.0,0.0
+77,Border Fire,37,San Diego,Off Alta Rd in the Otay Mesa area,32.564465000000006,-116.900368,14.0,20.0,18.0,4.0,1010.0,0.0
+78,Davis Creek Complex,25,Modoc,"Both sides of Davis Creek near Hwy 395, south of Goose Lake ",41.73325,-120.375,11.0,21.0,18.0,6.0,1014.0,0.0
+79,Little Fire,36,San Bernardino,near Thomas Mountain south of Lake Hemet on the San Jacinto Ranger District.,33.641999999999996,-116.706,20.0,31.0,28.0,5.0,1008.0,0.0
+80,Coyote Fire,18,Lassen,"Southeast of Coyote Reservoir, 20 miles southeast of Bieber",40.88886,-120.95812600000001,6.0,24.0,19.0,6.0,1013.0,0.3
+81,Roadrunner Fire,3,Amador,"Roadrunner Drive, south of Ione",38.27783,-120.966016,13.0,32.0,26.0,4.0,1014.0,0.0
+82,Creek Fire,40,San Luis Obispo,"off Toro Creek Rd, east of Cayucos",35.4393,-120.8358,15.0,25.0,22.0,9.0,1014.0,0.0
+83,Lilly 2 Fire,20,Madera,Off Road 400 & Sandy Beach Dr. in Yosemite Lakes,37.1927,-119.7917,5.0,25.0,20.0,7.0,1018.0,0.0
+84,Adelaida Fire,40,San Luis Obispo,"off Adelaida Rd & Vineyard Dr, west of Paso Robles",35.62743,-120.83417,12.0,29.0,24.0,7.0,1009.0,0.0
+85,Retek Fire,23,Mendocino,"Off Hwy 101 at Henry Station Rd, north of Hopland",39.0442,-123.1478,2.0,20.0,12.0,21.0,1018.0,0.0
+86,Centerville Fire,4,Butte,"Off Centerville Rd in the Butte Creek Canyon in the community of Centerville, west of Magalia ",39.731878,-121.71393799999998,16.0,33.0,28.0,9.0,1015.0,0.0
+87,Silverwood Fire,36,San Bernardino, Hwy 138 west of Hwy 173,34.316,-117.352,21.0,33.0,29.0,9.0,1012.0,0.0
+88,Revis Fire,20,Madera,Off Revis Road & Yosemite Springs Parkway in Yosemite Lake Parks area in Coarsegold,37.169379,-119.75636000000002,9.0,30.0,25.0,8.0,1014.0,0.0
+89,Lytle Fire,36,San Bernardino,"I-15 at Sierra Ave, near Lytle Creek",34.1834,-117.4408,23.0,36.0,33.0,4.0,1014.0,0.0
+90,Liveoak Fire,36,San Bernardino,"Live Oak Canyon Rd, South of I-10 near cities of Redlands and Yucaipa. ",34.003151,-117.106075,15.0,29.0,24.0,5.0,1012.0,0.0
+91,McGanney Fire,58,Yuba,"off Highway 20 and McGanney Lane, west of Smartsville",39.205999999999996,-121.31634,16.0,33.0,27.0,9.0,1012.0,0.0
+92,Double Fire,17,Lake,"Hwy 20 and Mule Skinner Rd., Clear Lake Oaks",39.013682,-122.49189399999999,15.0,32.0,27.0,10.0,1014.0,0.0
+93,Rail Fire,25,Modoc,"Rail Mountain, 7 miles NW of Canby",41.568999999999996,-120.959,11.0,27.0,22.0,9.0,1017.0,0.0
+94,Wheeler Fire,56,Ventura,"Wheeler Canyon, north of Santa Paula",34.384,-119.13248999999999,11.0,21.0,15.0,20.0,1015.0,0.0
+95,Tram Fire,33,Riverside,Off of Hwy 111 & Tramway Rd in Palm Springs,38.838,-116.61,15.0,28.0,26.0,2.0,1012.0,0.0
+96,Relay Fire,33,Riverside,"near Mt. David, south of Beaumont",33.910270000000004,-116.99895,16.0,28.0,24.0,6.0,1013.0,0.0
+97,Tyler Fire,29,Nevada,"North San Juan Area, Highway 49 and Tyler Foote Road",39.333401,-121.107022,11.0,31.0,25.0,9.0,1015.0,0.0
+98,Toro Fire,40,San Luis Obispo,"Toro Creek Rd. and Hwy 41 West, Morro Bay",35.457978000000004,-120.75155500000001,12.0,25.0,19.0,8.0,1017.0,0.0
+99,Bruner Fire,17,Lake,"Off Bruner Drive & Al Drive, Clearlake Oaks",39.0448,-122.7656,2.0,17.0,10.0,19.0,1017.0,0.0
+100,Cottonwood Fire,47,Siskiyou,"Cottonwood Creek Rd., 2 miles north of Hornbrook",41.923322999999996,-122.57839299999999,10.0,31.0,26.0,2.0,1016.0,0.0
+101,Uvas Fire,43,Santa Clara,"Uvas Road and Casa Loma Road, near Calero County Park,  west of Morgan Hill",37.1438,-121.7804,13.0,22.0,19.0,8.0,1013.0,0.0
+102,Grant Fire,1,Alameda,"off Grant Ln Rd & I-580 in the Altamont Pass, 5 miles west of Tracy",37.7393,-121.5869,19.0,40.0,34.0,14.0,1009.0,0.0
+103,Homestead Fire,40,San Luis Obispo,"Homestead Rd & Hwy 41, northeast of Atascadero ",35.5123,-120.6368,8.0,23.0,19.0,4.0,1015.0,0.0
+155,Junction Fire,20,Madera,"off Road 425A, near the Hwy 41 and Hwy 49 junction in Oakhurst",37.3433,-119.6581,8.0,32.0,25.0,1.0,1013.0,0.0
+104,Bridges Fire,5,Calaveras,"Parrott''s Ferry Road north of the bridge, near Vallecito & New Melones Lake ",38.06231,-120.45233,18.0,33.0,28.0,5.0,1015.0,0.0
+105,Pratt Fire,23,Mendocino,"Hwy 175 & Pratt Ranch Road, East of Hopland ",38.980846,-123.06767099999999,12.0,31.0,24.0,4.0,1014.0,0.0
+106,Fiddler Fire,45,Shasta,off Fiddler,40.373000000000005,-122.7338,14.0,34.0,30.0,8.0,1015.0,0.0
+107,Viper Fire,33,Riverside,"off San Timoteo Canyon Rd and Viper Rd, north of Moreno Valley",33.969359999999995,-117.1265,15.0,34.0,28.0,4.0,1007.0,0.0
+108,Chestnut Fire,41,San Mateo,"Chestnut Ave and Hillside Blvd, San Bruno Mountain, South San Francisco",37.667295,-122.42728500000001,21.0,28.0,25.0,3.0,1010.0,0.0
+109,Baker Fire,30,Orange,"Off Baker Canyon Rd, Silverado Canyon area, east of Irvine",33.7655,-117.6649,17.0,31.0,25.0,9.0,1020.0,0.0
+110,Pierce Fire,33,Riverside,Ave 66 and Pierce Street  ,33.570291,-116.10815,24.0,38.0,35.0,14.0,1010.0,0.0
+111,Heacock Fire,33,Riverside,Heacock St & Sandy Glade Ave in Moreno Valley,33.9634,-117.2508,18.0,32.0,27.0,6.0,1011.0,0.0
+112,Palmyrita Fire,33,Riverside,"Highgrove Pass Rd and Pigeon Pass Rd, Community of Highgrove",34.001745,-117.302057,13.0,31.0,26.0,6.0,1012.0,0.0
+113,54 Fire,33,Riverside,"Avenue 54 and Tyler Street, near the community of Coachella",33.655638,-116.161201,11.0,31.0,27.0,20.0,1010.0,0.0
+114,Empire Fire,9,El Dorado,off Hwy 193 & Empire Creek Cir near Georgetown,38.89555,-120.84716,10.0,27.0,22.0,6.0,1010.0,0.0
+115,Indian Fire,17,Lake,"Off Bartlett Springs Road near Indian Valley Reservoir, 10 miles northeast of Clearlake Oaks",39.1591,-122.5906,9.0,25.0,20.0,6.0,1016.0,0.0
+116,Fallon Fire,1,Alameda,off Fallon Rd & Camino Tassajara near Dublin ,37.74241,-121.86216,12.0,27.0,22.0,11.0,1008.0,0.0
+117,Michelle Fire,10,Fresno,"off McKinley Ave & Academy Ave, north of Sanger ",36.763366999999995,-119.55824399999999,16.0,30.0,26.0,5.0,1015.0,0.0
+118,Cottontail Fire,40,San Luis Obispo,Cayucos Creek Rd & Thunder Canyon Rd north of Cayucos,35.49864,-120.91375,15.0,27.0,23.0,10.0,1014.0,0.0
+119,Dersch Fire,45,Shasta,"Off Dersch Rd and Hyrax, Millville",40.483662,-122.140914,8.0,20.0,15.0,5.0,1022.0,0.0
+120,Chuckwagon Fire,5,Calaveras,"near the 4500 block of Chuckwagon Drive, Copperopolis",37.965364,-120.69636200000001,17.0,35.0,29.0,7.0,1012.0,0.0
+121,Lakeshore Fire,17,Lake,near the community of Clearlake,38.9777,-122.68299999999999,11.0,26.0,20.0,11.0,1008.0,0.0
+122,Fawnskin Fire,36,San Bernardino,"west of Delamar Mountain, north of the community of Fawnskin, northside of Big Bear Lake",34.288877,-116.94131100000001,11.0,24.0,21.0,12.0,1014.0,0.0
+123,Sonoma-Lake-Napa Unit Lightning Fires,"49,48,17,6",Sonoma,"throughout Sonoma, Solano, Lake & Colusa Counties",38.4229,-122.0437,13.0,22.0,19.0,12.0,1010.0,0.0
+124,Cloverdale Fire,45,Shasta,"Cloverdale Rd. and Dale Rd., Happy Valley, 9 miles SW of Redding",40.473356,-122.48258999999999,13.0,34.0,29.0,3.0,1016.0,0.0
+125,Flume Fire,37,San Diego,Barrett Lake Road and Highway 94,32.612773,-116.70733500000001,17.0,27.0,22.0,6.0,1011.0,0.0
+126,Mount Fire,17,Lake,"Off Konocti Rd & Oak Hills Ln, east of Kelseyville",38.980579999999996,-122.81796000000001,7.0,25.0,21.0,14.0,1017.0,0.0
+127,Cherry Fire,33,Riverside,Off Sunset Ave & Mesa St in Banning,33.96201,-116.90721299999998,16.0,26.0,23.0,4.0,1012.0,0.0
+128,Dam Fire,17,Lake,"Off Dam Rd, southeast of Clear Lake",38.9289,-122.5818,4.0,18.0,12.0,21.0,1017.0,0.0
+129,Gilman Fire,33,Riverside,"Hwy 60 east of Gilman Springs Rd, east of Moreno Valley",33.94528,-117.09306000000001,21.0,36.0,31.0,8.0,1011.0,0.0
+130,Orleans Complex,12,Humboldt,"10 miles east of Somes Bar, California",41.333,-123.376,6.0,27.0,22.0,8.0,1016.0,0.0
+131,Hathaway Fire,33,Riverside,"Hathaway Canyon area, northeast of Banning",33.99647,-116.84137,17.0,28.0,24.0,5.0,1010.0,0.0
+132,King Fire,9,El Dorado,Near Pollock Pines,38.805437,-120.62971399999999,11.0,25.0,20.0,6.0,1014.0,0.0
+133,Bald Fire,45,Shasta,8 miles southeast of Fall River Mills,40.900999999999996,-121.368,14.0,34.0,29.0,2.0,1018.0,0.2
+134,Oregon Gulch Fire (part of the Beaver Complex),47,Siskiyou,"Community of Copco, South of Oregon Border",42.048,-122.345,16.0,31.0,26.0,4.0,1019.0,0.6
+135,Eiler Fire,45,Shasta,12 miles southeast of Burney near Old Station,40.72,-121.56200000000001,12.0,30.0,25.0,8.0,1016.0,2.6
+136,Day Fire,25,Modoc,North of the community of Day,41.1336,-121.2144,14.0,34.0,29.0,2.0,1018.0,0.2
+137,Bully Fire,45,Shasta,"Plantina Road at Bland Road, Igo",40.4314,-122.75078799999999,14.0,32.0,28.0,4.0,1013.0,0.0
+138,Monticello Fire,57,Yolo,"Hwy 128 at Monticello Dam, southeast shore of Lake Berryessa ",38.512,-122.104,11.0,33.0,27.0,9.0,1012.0,0.0
+139,Coffee Fire,45,Shasta,East Fork of the Coffee Creek Drainage,41.141000000000005,-122.805,13.0,34.0,28.0,5.0,1018.0,0.7
+140,Little Deer Fire,47,Siskiyou,near Little Deer Mountain along Highway 97,41.681999999999995,-122.12700000000001,15.0,32.0,27.0,3.0,1017.0,0.2
+141,Tomahawk Fire,37,San Diego,"Traveled from Naval Weapons Station, Fallbrook and is now on Camp Pendleton ",33.3529,-117.28488899999999,18.0,35.0,29.0,14.0,1019.0,0.0
+142,Butts Fire,"28,17",Napa,"Off Butts Canyon Rd in Pope Valley, northwest of Lake Berryessa",38.664,-122.454,13.0,31.0,25.0,9.0,1009.0,0.0
+143,Sand Fire,"3,9",Amador,"East of Highway 49, 5 miles north of Plymouth",38.5691,-120.7819,15.0,36.0,30.0,5.0,1012.0,0.0
+144,Way Fire,15,Kern,"north side of Hwy 155, northwest of Wofford Heights",35.7206,-118.4747,13.0,32.0,25.0,8.0,1011.0,0.0
+145,Etiwanda Fire,36,San Bernardino,North of Rancho Cucamonga,34.169346000000004,-117.547374,15.0,28.0,25.0,19.0,1019.0,0.0
+146,Cocos Fire,37,San Diego,"Village Drive and Twin Oaks Road, San Marcos",33.1137,-117.1599,19.0,34.0,29.0,15.0,1019.0,0.0
+147,Colby Fire,19,Los Angeles,"near Morris Reservoir, north of Glendora",34.1703,-117.8816,13.0,23.0,19.0,18.0,1021.0,0.0
+148,Nicolls Fire ,15,Kern,Kelso Valley/Onyx area,35.641999999999996,-118.15,14.0,30.0,24.0,7.0,1012.0,0.0
+149,Modoc Lightning Complex,25,Modoc,15 fires across the Modoc National Forest,41.89,-120.79,12.0,34.0,29.0,9.0,1015.0,0.0
+150,Bernardo Fire,37,San Diego,"off Nighthawk Lane, southwest of Rancho Bernardo",33.003,-117.133,19.0,30.0,28.0,7.0,1016.0,0.0
+151,Gulch Fire,25,Modoc,"Off highway 139, 15 miles north of Canby - The fire is burning on the east side of Hwy 139",41.489,-120.904,14.0,30.0,26.0,4.0,1013.0,0.3
+152,San Mateo Fire,37,San Diego,in the Talega area of Marine Corps Base Camp Pendleton,33.417572,-117.55056699999999,16.0,28.0,25.0,6.0,1015.0,0.0
+153,Campbell Fire,52,Tehama,"Ishi Wilderness, north of Campbellville in the Lassen National Forest",40.134597,-121.79018300000001,8.0,20.0,14.0,8.0,1024.0,0.0
+154,Miguelito Fire,42,Santa Barbara,Off Santa Miguelito Canyon Road in Lompoc,34.609,-120.454,15.0,26.0,23.0,14.0,1017.0,0.0
+156,Poinsettia Fire,37,San Diego,off Poinsettia Ln & Alicante Rd in Carlsbad,33.1109,-117.279,20.0,33.0,28.0,14.0,1019.0,0.0
+157,Oregon Fire,53,Trinity,"off Hwy 299 at Oregon Mountain Summit, near Weaverville",40.7412,-122.946,9.0,26.0,21.0,8.0,1012.0,0.0
+158,Boles Fire,47,Siskiyou,City of Weed,41.423840000000006,-122.37432,13.0,25.0,22.0,9.0,1013.0,0.0
+159,59 Fire,55,Tuolumne,"near Bonds Flat Rd & La Grange Rd (J59), west of Don Pedro Reservoir",37.76617,-120.45087,13.0,31.0,25.0,7.0,1012.0,0.0
+160,Encinal Fire,27,Monterey,"Off Encinal Rd, 8 miles southeast of Salinas",36.6313,-121.4819,4.0,24.0,17.0,8.0,1015.0,0.0
+161,Highway Fire,37,San Diego,off Old Hwy 395 and I-15 in the Deer Springs area ,33.312,-117.162,17.0,33.0,28.0,16.0,1019.0,0.0
+162,Red Fire,12,Humboldt,"South of Berry Summit, west of Willow Creek",40.884415000000004,-123.773779,5.0,15.0,10.0,8.0,1018.0,0.0
+163,Courtney Fire,20,Madera,"Courtney Lane and 7 Hills Rd, Oakhurst",37.311915,-119.604124,12.0,34.0,27.0,3.0,1012.0,0.0
+164,Dog Rock Fire,22,Mariposa,"Hwy 140 at Indian Creek, El Portal Community",37.0,40.34,21.0,29.0,27.0,10.0,1016.0,0.0
+165,Tecolote Fire,19,Los Angeles,"18 miles north of Glendora, off Highway 39 and mile marker 28.",34.266999999999996,-117.867,19.0,30.0,27.0,6.0,1014.0,0.0
+166,Hetch Hetchy Fire,55,Tuolumne,"off La Grange Rd (J59) at Hetch Hetchy power lines, northwest shore of Don Pedro Reservoir",37.787,-120.45200000000001,17.0,33.0,29.0,9.0,1011.0,0.0
+167,Dog Bar Fire,29,Nevada,Off Dog Bar Rd & Taylor Crossing Rd near Alta Sierra,39.113682,-120.999508,13.0,27.0,22.0,7.0,1014.0,0.0
+168,Banner Fire,37,San Diego,"Banner Grade, east of Julian",33.078948,-116.576454,20.0,39.0,32.0,13.0,1010.0,0.0
+169,Bald Hill 3 Fire,12,Humboldt,1 mile northwest of Hoopa,41.13399999999999,-123.75299999999999,8.0,27.0,23.0,4.0,1013.0,0.0
+170,Shoemaker Fire,19,Los Angeles,"upper end of East Fork San Gabriel River, North of Glendora",34.235,-117.771,19.0,30.0,26.0,6.0,1013.0,0.0
+171,Dry Fire,45,Shasta,"off Hwy 299 & Dry Creek Rd, east of Bella Vista",40.6569,-122.2215,19.0,31.0,27.0,6.0,1013.0,0.2
+172,Haigh Fire,22,Mariposa,"Highway 49 and Haigh Rd., north of Coulterville",37.7103,-120.197,15.0,35.0,30.0,4.0,1008.0,0.0
+173,Gun Fire,37,San Diego,"Off Interstate 8 & Sunrise Hwy, near Pine Valley",32.81,-116.49,11.0,22.0,18.0,13.0,1014.0,0.0
+174,Irene Fire,9,El Dorado,Mokelumne Wilderness,38.59,-120.02799999999999,7.0,22.0,18.0,5.0,1012.0,0.0
+175,Oak Fire,5,Calaveras,"Oak Valley Road at Pool Station Road, south of San Andreas",38.058,-120.66,11.0,30.0,25.0,4.0,1012.0,0.0
+176,Boca Fire,29,Nevada,"off Interstate 80 at Hirschdale, east of Truckee ",39.3918,-120.0805,7.0,26.0,21.0,6.0,1013.0,0.0
+177,Marsh Fire,7,Contra Costa,"off Marsh Creek Rd., near Aspara Drive, east of Clayton",37.5359,-121.5118,15.0,25.0,21.0,10.0,1014.0,0.0
+178,Cassel Fire,45,Shasta,"Off Cassel Road at Thrush Road, in Cassel",40.5719,-121.3415,7.0,29.0,24.0,6.0,1016.0,0.0
+179,San Lucas Fire,27,Monterey,"San Lucas & Jolon Rd, west of King City ",36.103,-121.117,14.0,32.0,27.0,5.0,1018.0,0.0
+180,Wildlife Fire,4,Butte,"Wildlife Area - Larkin Road, west of Oroville<br><br>Road Closures: None, the Wildlife area north of the Afterbay Outlet is closed to the public.",39.4664,-121.6129,22.0,40.0,35.0,9.0,1013.0,0.0
+181,Jackson Fire,55,Tuolumne,Hwy 49 & Jacksonville Rd near the community of Moccasin,37.8316,-120.3434,14.0,32.0,26.0,8.0,1008.0,0.0
+182,Van Buren Fire,33,Riverside,Off Ave 62 and Van Buren St in Thermal,33.5982,-116.1985,8.0,23.0,18.0,17.0,1017.0,0.0
+183,Bane Fire,36,San Bernardino,in Chino Hills State Park near the Bane Canyon entrance,33.93869,-117.70643000000001,14.0,25.0,21.0,4.0,1015.0,0.0
+184,Interlake Fire,",40",San Luis Obispo,along Interlake Road between Monterey & San Luis Obispo County,35.8218,-121.0226,19.0,30.0,27.0,7.0,1012.0,0.0
+185,Hutto Fire,29,Nevada,on Hutto Rd & Keller Rd in Smartsville,39.1871,-121.2687,19.0,36.0,31.0,3.0,1013.0,0.0
+186,Bible Fire,9,El Dorado,"off Mt Aukum Rd, Somerset ",38.608336,-120.70323799999998,13.0,33.0,28.0,3.0,1013.0,0.0
+187,Jacumba Fire,37,San Diego,"Off Interstate 8, east of McCain Valley Rd, east of Boulevard",32.665,-116.22200000000001,9.0,23.0,18.0,11.0,1013.0,0.0
+188,Stage Coach Fire,28,Napa,"Berryessa Estates, North of Lake Berryessa",38.695961,-122.384054,15.0,35.0,29.0,6.0,1012.0,0.0
+189,Leopard Fire,45,Shasta,"Hyrax Road at Dersch Road, east of Redding",40.0,29.24,15.0,25.0,21.0,11.0,1014.0,0.0
+190,Hall Fire,10,Fresno,near Hwy 180 & Hall Lane near Squaw Valley,36.742746999999994,-119.24149299999999,14.0,32.0,27.0,3.0,1009.0,0.0
+191,Cascade Fire,9,El Dorado,"Desolation Wilderness, 8 miles west of South Lake Tahoe",38.9195001,-120.1140659,5.0,15.0,10.0,14.0,1013.0,0.0
+192,West Fire,53,Trinity,near the Trinity Pines community,40.41,-123.24,10.0,33.0,28.0,4.0,1010.0,0.0
+193,Pines Fire,20,Madera,Malum Ridge Road near Bass Lake,37.0,18.4,26.0,26.0,26.0,24.0,1014.0,0.0
+194,Happy Camp Complex,47,Siskiyou,in the Happy Camp area,41.79600000000001,-123.374,8.0,31.0,24.0,8.0,1016.0,0.0
+195,Rough Fire ,10,Fresno,5 miles North of Hume Lake and 2.5 miles to the southwest of Spanish Mountain 5,36.874,-118.905,8.0,19.0,16.0,4.0,1018.0,0.0
+196,Rocky Fire,17,Lake,"near Morgan Valley Road and Rocky Creek Road, east of Clear Lake",38.886353799999995,-122.47624750000001,18.0,37.0,32.0,7.0,1011.0,0.0
+197,Jerusalem Fire,"17,28",Lake,"Jerusalem Valley area, northeast of Middletown",38.8142503,-122.48673190000001,14.0,32.0,28.0,10.0,1013.0,0.0
+198,Dodge Fire,18,Lassen,17 miles northeast of Ravendale,40.938,-120.105,12.0,27.0,23.0,5.0,1012.0,0.0
+199,Cabin Fire,54,Tulare,"Golden Trout Wilderness, Sequoia National Forest",36.24,-118.54,20.0,33.0,29.0,5.0,1016.0,0.0
+200,Willow Fire,20,Madera,"off of Willow Canyon Drive and Road 274, southeast of Bass Lake",37.279722,-119.50013999999999,10.0,30.0,25.0,6.0,1019.0,0.0
+201,Frog Fire,25,Modoc,SW of Lava Campground,41.398999999999994,-121.39200000000001,13.0,36.0,31.0,8.0,1017.0,0.0
+202,North Fire,36,San Bernardino,"off Interstate 15, south of Oaks Hills, in the Cajon Pass area",34.339,-117.478,22.0,31.0,28.0,10.0,1011.0,0.0
+203,Tesla Fire,1,Alameda,"off Tesla Rd near Correl Hollow, between Livermore and Tracy",37.3845,-121.3732,17.0,37.0,30.0,6.0,1013.0,0.0
+204,Cuesta Fire,40,San Luis Obispo,"Off Highway 101 in the Cuesta Grade, north of San Luis Obispo",35.3477,-120.6269,23.0,33.0,29.0,5.0,1012.0,0.0
+205,Lowell Fire,29,Nevada,In the Steep Hollow drainage west of Alta,39.192088,-120.88231299999998,12.0,28.0,24.0,8.0,1019.0,0.0
+206,Saddle Fire ,53,Trinity,4 miles northwest of Hyampom,40.924,-123.16799999999999,10.0,24.0,21.0,4.0,1012.0,0.1
+207,Lumpkin Fire,4,Butte,"off Lumpkin Road and Forbestown Road, Robinson Mill",39.5218,-121.3363,21.0,37.0,31.0,8.0,1014.0,0.0
+208,Corrine Fire,20,Madera,"Road 222 and Tunoi Place, north of Auberry",37.165766999999995,-119.52394299999999,18.0,33.0,29.0,8.0,1014.0,0.0
+209,Elk Fire,17,Lake,"Off of Elk Mountain Road and Mount Dinger Road, north of Upper Lake",55.23,-122.0,2.0,4.0,3.0,4.0,1002.0,1.4
+210,Cienega Fire,35,San Benito,"Cienega Rd & Limekiln Rd, south of Hollister",36.70854,-121.32733999999999,14.0,34.0,26.0,1.0,1015.0,0.0
+211,Anza Fire,33,Riverside,Highway 74 east of Highway 371,33.5736,-116.5387,20.0,31.0,28.0,15.0,1011.0,0.0
+212,Triple Fire,54,Tulare,"Globe Dr and Mountain Rd, Springville",36.085212,-118.82423500000002,23.0,36.0,31.0,8.0,1015.0,0.7
+213,Calgrove Fire ,19,Los Angeles,"Southbound Interstate 5, North of Calgrove, Santa Clarita ",34.361007,-118.535793,18.0,33.0,29.0,2.0,1011.0,0.0
+214,Forebay Fire,24,Merced,off Hwy 152 near the O’Neill Forebay ,37.08312,-121.06963,9.0,25.0,20.0,12.0,1014.0,0.0
+215,Peterson Fire,17,Lake,"off Peterson Lane and Adobe Creek Road, near Kelseyville",38.925764,-122.879272,12.0,33.0,26.0,3.0,1011.0,0.0
+216,241 Fire,30,Orange,"Hwy 241, south of Santiago Canyon Rd, near Irvine Lake (Orange County)",33.7626,-117.7274,19.0,27.0,25.0,3.0,1015.0,0.0
+217,China Fire,45,Shasta,"China Gulch, Happy Valley, Southwest of Redding",40.415108000000004,-122.439939,20.0,42.0,35.0,7.0,1015.0,0.0
+218,Big Creek Fire,55,Tuolumne,off Hwy120 and Sprague Rd near Groveland ,37.823,-120.15643999999999,19.0,37.0,32.0,10.0,1014.0,0.0
+219,Pines Fire ,19,Los Angeles,Angeles Crest Highway (Hwy 2) north of Wrightwood and near Big Pines,34.367,-117.68299999999999,19.0,33.0,29.0,10.0,1011.0,0.0
+220,Stephens Fire,47,Siskiyou,"Approx. 18 miles northeast of McCloud, just south of Horse Peak",41.485,-121.851,-4.0,17.0,8.0,9.0,1030.0,0.0
+221,Cooley Fire,47,Siskiyou,5 miles North of the community of Montague on Cooley Rd,41.8048,-122.5029,10.0,26.0,22.0,4.0,1018.0,0.0
+222,Wildcat Fire,37,San Diego,"Wildcat Canyon Rd and Barona Rd, east of Fernbrook",32.9421,-116.8534,16.0,27.0,21.0,5.0,1011.0,0.0
+223,Cutca Fire,37,San Diego,"On Palomar Mountain, north of the Palomar Observatory",33.383889,-116.86861100000002,18.0,30.0,26.0,1.0,1016.0,0.0
+224,Queen Fire,12,Humboldt,"off Hwy 169 & McKinnon Hill Rd, 5 miles southeast of Pecwan",41.295667,-123.784067,-1.0,29.0,22.0,3.0,1018.0,0.0
+225,Cook Fire,58,Yuba,"UC Field Station, Scott Forbes Road",39.2688,-121.26471000000001,14.0,34.0,29.0,9.0,1012.0,0.0
+226,Horse Fire,12,Humboldt,"Saddle Mountain Road, 6 miles NE Shelter Cove",40.1058823,-124.0720419,12.0,25.0,22.0,3.0,1011.0,0.0
+227,Ward Fire,32,Plumas,East of Taylorsville,40.05083333,-120.70166670000002,0.0,9.0,6.0,9.0,1016.0,1.1
+228,Democrat Fire,53,Trinity,"Democrat Gulch, west of Weaverville ",40.724897999999996,-122.96173999999999,8.0,27.0,21.0,1.0,1015.0,0.0
+229,3-11 Fire,25,Modoc,"on Splawn Mountain, northeast of Bieber",41.29226,-121.17211699999999,11.0,25.0,21.0,4.0,1011.0,0.0
+230,Mark Fire,5,Calaveras,Marks Ranch Rd south of Angels Camp,38.052,-120.5577,16.0,31.0,26.0,6.0,1018.0,0.0
+231,Tulloch Fire,55,Tuolumne,"south of Hwy 108 & Tulloch Rd, south of Lake Tulloch",37.83618,-120.61691,14.0,36.0,30.0,6.0,1017.0,0.0
+232,36 Fire,52,Tehama,off Highwat 36 near Paynes Creek,40.3506868,-121.77867990000001,17.0,33.0,29.0,1.0,1012.0,0.2
+233,Munjar Fire,4,Butte,"Munjar Rd, 10 miles north of Chico",39.8707,-121.8938,14.0,32.0,25.0,3.0,1018.0,0.0
+234,Sterling Fire,36,San Bernardino,Sterling Avenue x Foothill Drive East,34.165974,-117.24387800000001,21.0,37.0,32.0,5.0,1011.0,0.0
+235,Laureles Fire,27,Monterey,off Laureles Grade and Highway 68 ,36.5696373,-121.75560290000001,12.0,22.0,19.0,6.0,1014.0,0.0
+236,Sprig Fire,45,Shasta,"Sprig Way and Millville Plains Rd, Millville; 10 miles southeast of Redding",40.49865,-122.20109,24.0,41.0,36.0,4.0,1016.0,0.0
+237,Advance Fire,54,Tulare,5 miles north of the community of Three Rivers near Advance,36.49845,-118.9009,21.0,37.0,33.0,7.0,1016.0,0.0
+238,Otay Fire,37,San Diego,off Otay Lakes Road and Woods Drive in Chula Vista,32.6449163,-116.94543870000001,17.0,27.0,25.0,6.0,1013.0,0.0
+239,3-12 Fire,25,Modoc,"in Dixie Valley, southwest of Bieber",40.856421999999995,-121.101623,5.0,23.0,19.0,3.0,1011.0,0.0
+240,Fern Fire,45,Shasta,"Fern Rd and Oak Run Rd, 1 mile east of the Community of Oak Run",40.67868,-121.93243999999999,15.0,26.0,23.0,5.0,1014.0,1.0
+241,Mallard Fire,45,Shasta,off Mallard Way in Millville ,40.509552,-122.19922700000001,22.0,38.0,32.0,7.0,1015.0,0.0
+242,Pass Fire,15,Kern,Off of Hwy 41 near Cottonwood Pass,35.77937,-120.19481999999999,24.0,37.0,32.0,9.0,1010.0,0.0
+243,Dixie Fire,18,Lassen,"Dixie Valley, south of Bieber",40.875667,-121.033667,8.0,27.0,22.0,5.0,1015.0,0.0
+244,Point Fire,45,Shasta,"Gas Point and Happy Valley Rd, west of Cottonwood",40.3929,-122.40546,16.0,35.0,29.0,3.0,1012.0,0.0
+245,De Luz Fire,37,San Diego,De Luz Rd and De Luz Murrieta Rd,33.4115972,-117.2886249,16.0,29.0,25.0,2.0,1013.0,0.0
+246,Fork Fire,52,Tehama,"Off Lowery Rd, north of Paskenta",40.0133,-122.552,18.0,37.0,27.0,5.0,1013.0,0.0
+247,Mill 2 Fire,36,San Bernardino,"Mill Creek Rd and Bryant St, east of Mentone",34.0783472,-117.04878629999999,13.0,31.0,26.0,3.0,1014.0,0.0
+248,Potrero Fire,56,Ventura,"Hidden Valley area, southwest of Thousand Oaks",34.15,-118.87944399999999,14.0,25.0,20.0,17.0,1020.0,0.0
+249,Mendocino Lightning Fires,23,Mendocino,Community of Willits and Brooktrails,39.433009999999996,-123.36316000000001,11.0,33.0,28.0,3.0,1014.0,0.0
+250,Center Fire,18,Lassen,"Center Rd, east of Susanville",40.400196,-120.553075,12.0,30.0,25.0,2.0,1015.0,0.0
+251,Sullivan Fire,50,Stanislaus,"Sullivan Rd and Orestimba Rd, 10 miles West of Newman",37.24523,-121.20324,17.0,38.0,32.0,9.0,1013.0,0.0
+252,Ascot Fire,48,Solano,Lake Herman Rd and Sky Valley Rd,38.1029,-122.1578,14.0,24.0,20.0,10.0,1012.0,0.2
+253,Chiles Fire,28,Napa,"Chiles Pope Valley Rd. & Lower Chiles Valley Rd., East of St. Helena",38.5287,-122.3415,8.0,30.0,24.0,4.0,1013.0,0.0
+254,Browns Fire,53,Trinity,Hwy 299 and Little Browns Creek Rd east of Weaverville,40.0,41.46,10.0,25.0,21.0,5.0,1016.0,0.0
+255,Covelo Fire,23,Mendocino,"off Highway 162 and Cemetery Lane, Covelo",39.7806004,-123.24821399999999,8.0,29.0,23.0,5.0,1015.0,0.1
+256,McCourtney Fire,29,Nevada,"off McCourtney Rd & Perimeter Rd, east of Camp Far West Reservoir ",39.080999999999996,-121.194,15.0,29.0,24.0,10.0,1009.0,0.0
+257,Kramer Fire ,18,Lassen,"off of Kramer Road and 4 Corners Road, west of Beiber ",41.12362,-121.19425600000001,9.0,23.0,19.0,11.0,1010.0,0.0
+258,Francis Fire,58,Yuba,Colgate Powerhouse south of Dobbins,39.33303,-121.18735,12.0,29.0,24.0,7.0,1012.0,0.0
+259,Baxter Fire,31,Placer,"Baxter Grade Rd, 3 miles West of Auburn",38.9361,-121.1548,15.0,30.0,25.0,10.0,1010.0,0.0
+260,Park Fire,37,San Diego,"Off of Lake Morena Drive near Lake Morena Park, north of Campo",32.682547,-116.51683999999999,16.0,32.0,27.0,5.0,1015.0,0.0
+261,Betabel Fire,35,San Benito,"off Hwy 101 between Anzar Rd & Hwy 156, in Aromas",36.8727,-121.5681,18.0,33.0,28.0,4.0,1017.0,0.0
+262,Dorris Fire,47,Siskiyou,"Off Hwy 161 & Hwy 97, northeast of Dorris",41.999340999999994,-121.891226,10.0,28.0,23.0,1.0,1016.0,0.0
+263,Soda Fire,23,Mendocino,"off Hwy 253, 4 miles northeast of Boonville (Mendocino County).",39.0263,-123.303,12.0,30.0,26.0,5.0,1011.0,0.2
+264,Grade Fire,17,Lake,"Jerusalem Grade Rd & June Bug Rd, 7 miles northeast of Middletown",38.831478000000004,-122.53428000000001,13.0,32.0,26.0,6.0,1015.0,0.0
+265,Gibraltar Fire,42,Santa Barbara,between Montecito Peak and Coldspring Saddle,34.4828,-119.63216000000001,8.0,25.0,18.0,16.0,1012.0,0.0
+266,Spider Fire,33,Riverside,"San Timoteo Canyon Rd and Redlands Blvd, northeast of Moreno Valley",33.986204,-117.43942,17.0,31.0,27.0,5.0,1015.0,0.0
+267,Pleasure Fire,28,Napa,"Steele Canyon Rd. and Headlands Dr., Lake Berryessa",38.519132,-122.181878,16.0,31.0,27.0,10.0,1013.0,0.0
+268,Keswick Fire,45,Shasta,"Middle Creek Road, north of Hwy 299",40.5953,-122.4397,17.0,33.0,29.0,4.0,1015.0,0.0
+269,Buck Fire,12,Humboldt,off Alderpoint Road & Wallan Road near Garberville ,40.1093,-123.774,16.0,33.0,27.0,13.0,1015.0,0.0
+270,Washington Fire,2,Alpine,south of Markleeville,38.598056,-119.751944,8.0,18.0,15.0,10.0,1015.0,0.0
+271,Soberanes Fire,27,Monterey,"Soberanes Creek, Garrapata State Park, Palo Colorado, north of Big Sur",36.45994,-121.89938000000001,12.0,20.0,18.0,8.0,1013.0,0.0
+272,Erskine Fire,15,Kern,Off Erskine Creek Rd in Lake Isabella,35.6115,-118.45628,16.0,29.0,23.0,10.0,1013.0,0.0
+273,Chimney Fire,40,San Luis Obispo,Running Deer Rd & Chimney Rock Rd south of Lake Nacimiento ,35.70595,-120.98316000000001,18.0,31.0,27.0,6.0,1015.0,0.0
+274,Blue Cut Fire,36,San Bernardino,"off of I-15 and Hwy 138, north of San Bernardino ",34.30372,-117.49342,21.0,36.0,31.0,9.0,1011.0,0.0
+275,Gap Fire,47,Siskiyou,"off Seiad Creek Rd, 5 miles northeast o Seiad Valley",41.851000000000006,-123.118,9.0,29.0,24.0,2.0,1015.0,0.0
+276,Canyon Fire,42,Santa Barbara,"Santa Ynez Ridge Road and Egress Road, south side of Vandenberg Air Force Base",34.63445,-120.54421,15.0,27.0,23.0,9.0,1014.0,0.0
+277,Pilot Fire,36,San Bernardino,"Pilot Rock & Hwy 138, southeast of Hesperia",34.28771,-117.27338,21.0,35.0,30.0,11.0,1008.0,0.0
+278,Sherpa Fire,42,Santa Barbara,west of Goleta,34.775999999999996,-119.64299999999999,14.0,22.0,18.0,13.0,1014.0,0.0
+279,Mineral Fire,10,Fresno,"off Hwy 198 & Mineral Springs Rd, W of Coalinga",36.099740000000004,-120.51057,18.0,31.0,26.0,8.0,1010.0,0.0
+280,Cold Fire,57,Yolo,"off of Highway 128 west of Pleasants Valley Road, west of Winters",38.52513,-122.06788,13.0,35.0,29.0,10.0,1015.0,0.0
+281,Trailhead Fire,"9,31",El Dorado,along the  Middle Fork of the American River near Todd Valley,38.96741,-120.9375,19.0,37.0,32.0,10.0,1016.0,0.0
+282,Owens River Fire,14,Inyo,"Clark Canyon, north of Mammoth Lakes, east of Hwy 395",37.75985,-118.95308999999999,4.0,18.0,13.0,4.0,1018.0,0.0
+283,Marek Fire,19,Los Angeles,Lake View Terrace,34.31,-118.335,18.0,33.0,26.0,9.0,1020.0,0.0
+284,Loma Fire,43,Santa Clara,off Loma Prieta Rd and Loma Chiquita Rd 10 miles NW of Morgan Hill,37.106320000000004,-121.85318000000001,19.0,36.0,30.0,0.0,1015.0,0.0
+285,Clayton Fire,17,Lake,off Hwy 29 and Clayton Creek south of Lower Lake,38.89741,-122.60663999999998,16.0,36.0,30.0,7.0,1015.0,0.0
+286,Metz Fire,27,Monterey,"Metz Rd & Blue Jay Ln, southeast of Soledad",36.38123,-121.20058999999999,5.0,20.0,14.0,8.0,1019.0,0.0
+287,Curry Fire,10,Fresno,"Curry Mountain, 7 miles SW of Coalinga",36.0749,-120.452041,20.0,34.0,30.0,8.0,1010.0,0.0
+288,Pony Fire,47,Siskiyou,15 miles SW of Happy Camp (Siskiyou County),41.623000000000005,-123.557,2.0,33.0,24.0,4.0,1010.0,0.0
+289,Soup Complex,25,Modoc,"Soup Springs, 12 miles east of Likely",41.2649,-120.3178,9.0,24.0,20.0,5.0,1018.0,0.0
+290,Willard Fire,18,Lassen,"off of Willard Creek Road, west of Susanville",40.3915,-120.7845,11.0,25.0,21.0,6.0,1017.0,0.0
+291,Coleman Fire,27,Monterey,off Mission Creek Rd and Milpitas Rd north of Fort Hunter Liggett,36.01542,-121.25028999999999,15.0,35.0,29.0,3.0,1013.0,0.0
+292,Pine Fire,56,Ventura,"Near Haddock Campground, 3 miles west of the Pine Mtn Lodge, above Middle Sespe.",34.701,-119.14399999999999,14.0,26.0,21.0,3.0,1011.0,0.0
+293,Goose Fire,10,Fresno,"Off Gooseberry Ln & Morgan Canyon, south of Prather ",37.01591,-119.50506999999999,22.0,36.0,33.0,6.0,1010.0,0.0
+294,Sacata Fire,10,Fresno,"near Sacata Ridge, located above Pine Flat",36.94536,-119.25958999999999,10.0,23.0,18.0,3.0,1015.0,0.0
+295,Sawmill Fire,49,Sonoma,"off Big Geysers Road and Geysers Resort Road, 10 miles east of Cloverdale",38.80017,-122.82895,12.0,37.0,27.0,5.0,1018.0,0.0
+296,Dinosaur Fire,24,Merced,"Off Hwy152 at Dinosaur Point, westside of San Luis Reservoir ",37.07147,-121.20155,16.0,38.0,32.0,10.0,1015.0,0.0
+297,Roblar Fire,37,San Diego,Roblar Rd and Case Springs (Camp Pendleton),33.393,-117.35093,17.0,26.0,22.0,7.0,1013.0,0.0
+298,Sage Fire,19,Los Angeles,"off of Calgrove Blvd, southwest of Santa Clarita",34.36763,-118.57245,16.0,32.0,28.0,3.0,1015.0,0.0
+299,Marshes Fire,55,Tuolumne,off Hwy. 49 and Marshes Flat Road north of Don Pedro Reservoir,37.79635,-120.32484,16.0,32.0,27.0,8.0,1018.0,0.0
+300,Saddle Fire,4,Butte,"Off Pentz Rd & Lime Saddle Rd, south of Paradise",39.6871,-121.571,10.0,26.0,20.0,9.0,1011.0,0.0
+301,Marina Fire,26,Mono,Hwy 395 & Mono Lake,37.97,-119.14,7.0,22.0,18.0,4.0,1017.0,0.0
+302,Tully Fire,12,Humboldt,"off of Hwy 169 & Martin''s Ferry Rd, northwest of Weitchpec ",41.284859999999995,-123.82268,-2.0,33.0,22.0,3.0,1014.0,0.1
+303,Fort Fire,15,Kern,"off of I-5, east of Grapevine",34.913000000000004,118.9082,23.0,29.0,27.0,7.0,1010.0,2.4
+304,99 Fire,4,Butte,"Off of Highway 99 and Neal Road, south of Chico",39.6708,-121.7192,12.0,33.0,27.0,3.0,1015.0,0.0
+305,Range Fire,15,Kern,"off Deer Trail Dr & Hwy 223, 6 miles east of Arvin",35.2013,-118.7212,10.0,33.0,26.0,5.0,1012.0,0.0
+306,Colyear Fire,52,Tehama,"Colyear Springs Road, 7 miles west of Red Bank",40.0353,-122.56938999999998,19.0,40.0,34.0,4.0,1013.0,0.0
+307,Beale Fire,58,Yuba,"off of Hammonton Smartsville Rd and Doolittle Rd, near Beale AFB ",36.16965,-121.38775,14.0,34.0,26.0,3.0,1010.0,0.0
+308,Tule Fire,54,Tulare,"off Hwy 190, 4 miles northeast of Springville",36.1648,-118.73906000000001,19.0,35.0,29.0,5.0,1012.0,0.0
+309,Howard Fire,25,Modoc,"in Howards Gulch, north of Canby ",41.4657,-120.9066,12.0,28.0,22.0,5.0,1017.0,0.0
+310,Hog Fire,52,Tehama,"Off Hwy 36 near Hog Lake, northeast of Red Bluff",40.30594,-122.1295,10.0,24.0,19.0,7.0,1011.0,0.0
+311,Appaloosa Fire,5,Calaveras,"Appaloosa Rd. and Pinto Dr., 5 miles southwest of Angels Camp",38.02845,-120.61153,18.0,34.0,29.0,7.0,1012.0,0.0
+312,Havilah Fire,15,Kern,south of Lake Isabella,35.4976,-118.5097,16.0,32.0,27.0,5.0,1015.0,0.0
+313,DeWolf Fire,10,Fresno,"DeWolf Ave & Behymer Ave, 2 miles north of Clovis",36.88286,-119.654,9.0,25.0,20.0,10.0,1016.0,0.0
+314,Tobin Fire,32,Plumas,north of Hwy 70 and west of Jackass Creek Road ,39.92,-121.32,15.0,30.0,24.0,13.0,1020.0,0.0
+315,Onyx Fire,15,Kern,"off Coyote Trail & Rocky Hill, East of Onyx",35.68313,-118.21793000000001,12.0,29.0,25.0,8.0,1013.0,0.0
+316,Reservoir Fire,17,Lake,"Near Indian Valley Reservoir, 7 miles Southwest of Leesville",39.12366,-122.50373,17.0,35.0,31.0,10.0,1014.0,0.0
+317,Camanche Fire,3,Amador,"off Camanche Parkway North & Coal Mine Road, south of Ione",38.26874,-120.90265,10.0,28.0,23.0,4.0,1018.0,0.0
+318,Big Fire,10,Fresno,"off Watts Valley Rd. & Big Springs Ln, east of Clovis",36.92244,-119.39618999999999,11.0,29.0,25.0,3.0,1015.0,0.0
+319,Emerald Fire,9,El Dorado,"off Highway 89, near Cascade Lake and Emerald Bay.",38.934490000000004,-120.10744,5.0,7.0,6.0,34.0,1013.0,0.0
+320,Athens Fire,31,Placer,"Off Athens Ave & Industrial Blvd, south of Lincoln",38.8390117,-121.3090268,15.0,31.0,26.0,10.0,1014.0,0.0
+321,Sunny Fire,10,Fresno,off Sunnyslope Rd & Lakeside Ln near the Pine Flat Lake Reservoir,36.84479,-119.34487,15.0,29.0,25.0,2.0,1010.0,0.0
+322,Wheatland Fire,19,Los Angeles,"Hwy 210 and Wheatland Ave, southeast of Lake View Terrace",34.275999999999996,-118.354,12.0,21.0,19.0,3.0,1014.0,0.0
+323,Old Fire,8,Del Norte,"off Old Yosemite Rd, 8 miles east of Greeley Hill",37.75972,-120.02962600000001,9.0,20.0,15.0,2.0,1010.0,0.0
+324,Holy Fire,30,Orange,off Trabuco Creek Rd near Holy Jim Trail,33.6542,-117.5221,20.0,27.0,23.0,1.0,1010.0,0.0
+325,Shedd Fire,40,San Luis Obispo,Wood Canyon Rd & Hwy 41,35.619609999999994,-120.39993,11.0,23.0,19.0,5.0,1014.0,0.0
+326,Bird Fire,39,San Joaquin,"off of Bird Rd & I-580, south of Tracy",37.62215,-121.36665,15.0,34.0,28.0,8.0,1014.0,0.4
+327,Frame Fire,10,Fresno,"Hwy 198 and Frame Ln, 14 miles west of Coalinga",36.14161,-120.62048,19.0,33.0,29.0,10.0,1016.0,0.0
+328,Temecula Fire,33,Riverside,Off I-15 south of Temecula Parkway,33.476894,-117.140883,19.0,31.0,28.0,0.0,1013.0,0.0
+329,Famoso Fire,15,Kern,"off Granite Rd & Famoso Rd, 15 miles east of Famoso",35.607479999999995,-118.94811000000001,22.0,40.0,35.0,7.0,1014.0,0.0
+330,Avocado Fire,10,Fresno,"Off Piedra Rd near Kings River, 10 miles northeast of Sanger",36.787690000000005,-119.38248,8.0,22.0,18.0,7.0,1012.0,0.0
+331,Bangor Fire,4,Butte,"off Oro-Bangor Highway & Swedes Flat, 7 miles SE of Oroville",39.4403,-121.42647,6.0,22.0,16.0,2.0,1013.0,0.0
+332,Green Fire,10,Fresno,"off Auberry Rd & White Thorne Rd, near Prather",37.0099,-119.5792,17.0,34.0,30.0,5.0,1014.0,0.0
+333,Coe Fire,50,Stanislaus,"Henry W. Coe State Park, Del Puerto Canyon, 20 miles west of Gustine (Stanislaus Co.)",37.17072,-121.42238,13.0,29.0,23.0,6.0,1012.0,0.0
+334,Coal Fire,4,Butte,"Off Coal Canyon Rd & Hwy 70, north of Oroville",39.595,-121.6008,16.0,33.0,28.0,8.0,1018.0,0.0
+335,Broken Fire,20,Madera,"Hwy 41 and Hummingbird Ln, One mile east of Coarsgold",37.256009999999996,-119.65776000000001,9.0,32.0,27.0,4.0,1016.0,0.0
+336,Cow Fire,45,Shasta,off Whitmore Road and Old Cow Creek Road,40.0,-121.93923000000001,21.0,39.0,31.0,14.0,1022.0,0.0
+337,Hart Fire,15,Kern,"off Hwy 58 and Hart Flat Rd, Tehachapi ",35.24504,-118.60343999999999,19.0,30.0,26.0,14.0,1012.0,0.0
+338,Bradley Fire,27,Monterey,"off Highway 101 and San Antonio River, south of Bradley ",35.85093,-120.81081,16.0,29.0,25.0,6.0,1013.0,0.0
+339,Feather Fire,37,San Diego,"off of El Capitan Truck Trail, south of Ramona ",32.9612,-116.7945,18.0,30.0,26.0,6.0,1012.0,0.1
+340,Dunstone Fire,4,Butte,"La Porte Road at Dunstone Road, west of Bangor ",39.33035,-121.78973,22.0,29.0,27.0,8.0,1014.0,0.0
+341,Santos Fire,4,Butte,"off Hwy 32 at Santos Ranch Rd, south of Forest Ranch",39.79547,-121.71661999999999,12.0,31.0,25.0,1.0,1012.0,0.0
+342,Flores Fire,52,Tehama,"Interstate 5 & Flores Ave, 5 miles south of Red Bluff",40.07846,-122.2071,20.0,39.0,34.0,9.0,1010.0,0.0
+343,Moore Fire,31,Placer,"off Moore Rd and South Dowd Rd, west of Lincoln",38.86804,-121.37704,16.0,38.0,32.0,6.0,1018.0,0.0
+344,Scott Fire,34,Sacramento,"off of Scotts Road and Latrobe Road, Rancho Murrieta",38.517771999999994,-121.103642,11.0,33.0,26.0,13.0,1018.0,0.0
+345,Frazier Fire,40,San Luis Obispo,off Nacimiento Lake Dr. and Frazier Rd.,35.70821,-120.82266000000001,22.0,36.0,32.0,10.0,1014.0,0.0
+346,Grub Fire,20,Madera,"off of Grub Gulch Road and Acton Grade Road, west of Oakhurst",37.3228,-119.7738,10.0,33.0,26.0,5.0,1013.0,0.0
+347,Dunnigan Fire,57,Yolo,"off County Road 86 & County Road 6, west of Dunnigan",38.8866,-122.04726000000001,16.0,40.0,33.0,2.0,1013.0,0.0
+348,Hoag Fire,52,Tehama,"off Corning Road and Gaylord Avenue, east of Corning",39.7947,-121.85700000000001,12.0,31.0,26.0,10.0,1016.0,0.0
+349,Sherwood Fire,56,Ventura,"near Lake Sherwood, southwest of Thousand Oaks",36.92244,-119.39618999999999,14.0,33.0,28.0,3.0,1015.0,0.0
+350,Newmark Fire,10,Fresno,"off Newmark Ave. and Fantz Ave., 3 miles southeast of Sanger",36.6543,-119.5327,11.0,24.0,19.0,6.0,1018.0,0.0
+351,Arroyo Fire,27,Monterey,"Arroyo Seco Rd &  Elm Ave, E of Greenfield",36.2833,-121.3306,12.0,28.0,24.0,6.0,1019.0,0.0
+352,Pala Fire,37,San Diego,"in the 38000 block of Pala Temecula Road, Temecula",33.41639,-117.08828999999999,11.0,25.0,20.0,4.0,1012.0,0.0
+353,Foothill Fire,17,Lake,"off Foothill Drive, community of Lucerne",39.0863,-122.7891,15.0,33.0,27.0,7.0,1014.0,0.0
+354,Cotton Fire,15,Kern,"off Highway 41, one mile east of the county line",35.77135,-120.251,17.0,30.0,26.0,5.0,1013.0,0.0
+355,Lowe Fire,27,Monterey,East of King City,36.1934,-120.9293,12.0,33.0,27.0,10.0,1016.0,0.0
+356,Ruff Fire ,23,Mendocino,"off of Hwy 101 and Woodruff Rd, north of Laytonville",39.7299,-123.5044,9.0,30.0,22.0,2.0,1016.0,0.0
+357,Spring Fire,36,San Bernardino,"off of Hwy 138 & Los Flores Rd, south of Hesperia",34.3183,-117.3189,19.0,32.0,28.0,2.0,1010.0,0.0
+358,Storksbill Fire,9,El Dorado,off Storksbill Rd in Pilot Hill ,38.79549,-121.00299,15.0,32.0,27.0,7.0,1013.0,0.0
+359,70 Fire,4,Butte,off Highway 70 at Palermo Rd.,39.43351,-121.6051,17.0,36.0,31.0,6.0,1017.0,0.0
+360,Auburn Fire,29,Nevada,"Off South Auburn Street and Whiting Street, Grass Valley",39.20427,-121.05948000000001,16.0,32.0,25.0,10.0,1016.0,0.0
+361,Laguna Fire,30,Orange,"n Laguna Coast Wilderness Park, 2½ miles northeast of Laguna Beach",33.578720000000004,-117.77395,21.0,29.0,27.0,4.0,1011.0,0.0
+362,Bell Fire,3,Amador,"off Hwy 49 and Bell Road, 4 miles north of Plymouth ",38.5212,-120.8416,9.0,25.0,19.0,6.0,1019.0,0.0
+363,Kugelman Fire,17,Lake,"off of Kugelman St and Hwy 53, community of Lower Lake",36.099740000000004,-120.51057,18.0,31.0,26.0,8.0,1010.0,0.0
+364,Kuehner Fire,56,Ventura,"off Hwy 118 at Rocky Peak Rd, NE Simi Valley",34.27619,-118.63264,19.0,24.0,22.0,3.0,1011.0,0.0
+417,LaPorte Fire (Wind Complex),4,Butte,"La Porte Rd and Oro Bangor Hwy, Bangor",39.39455,-121.40613,14.0,30.0,23.0,19.0,1016.0,0.0
+365,Boys Fire,34,Sacramento,"off of Boys Ranch Road and Scott Road, northwest of Rancho Murieta",38.558,-121.1309,14.0,30.0,23.0,9.0,1017.0,0.0
+366,Franklin Fire,7,Contra Costa,"Cummings Skyway & Franklin Canyon, 6 miles southeast of Rodeo",38.012640000000005,-122.1885,13.0,26.0,21.0,9.0,1014.0,0.0
+367,Phoenix Fire,29,Nevada,west of Fordyce Lake near Soda Springs ,39.39051,-120.51886999999999,9.0,23.0,17.0,8.0,1014.0,0.0
+368,Mina Fire,23,Mendocino,"off Mina Rd & Trinity County Line, 12 miles northeast of Covelo",39.8748511,-123.42670109999999,7.0,24.0,14.0,6.0,1016.0,0.0
+369,Knoxville Fire,17,Lake,"Berryessa Knoxville Rd & East Side Rd, north of Lake Berryessa",38.68403,-122.26015,12.0,34.0,27.0,6.0,1009.0,0.0
+370,Gopher Fire,37,San Diego,"I-15 & Lawrence Welk Drive, Gopher Canyon",33.22558,-117.14546999999999,16.0,27.0,24.0,4.0,1011.0,0.0
+371,Stagecoach Fire,5,Calaveras,"off Stagecoach Rd and Hwy 4, south of Copperopolis",37.96311,-120.67335,12.0,32.0,27.0,7.0,1013.0,0.0
+372,Campo Fire,5,Calaveras,"off Campo Seco and Chili Camp Road, near Burson ",38.22017,-120.8678,18.0,39.0,33.0,4.0,1016.0,0.0
+373,Moffett Fire,47,Siskiyou,"off of Moffett Creek Rd and Luce Gulch Rd, northeast of Fort Jones",41.6314,-122.7933,3.0,16.0,12.0,7.0,1016.0,0.0
+374,Frymire Fire,55,Tuolumne,"Off Frymire Rd & Morrison Rd, east of Oakdale",37.81434,-120.69521,23.0,41.0,35.0,8.0,1010.0,0.0
+375,Clay Fire,34,Sacramento,off Highway 104 and Clay East Road near Herald,38.3131,-121.06452,16.0,38.0,31.0,4.0,1016.0,0.0
+376,Lone Pine Fire,14,Inyo,"Whitney Portal Rd. and OlivasRanch Rd., 3 miles West of Lone Pine",36.58972,-118.15588999999999,21.0,28.0,25.0,5.0,1011.0,0.2
+377,Hidden Fire,35,San Benito,"off Hidden Valley Rd & Cienega Rd, southwest of Hollister ",36.80296,-121.40303999999999,14.0,36.0,31.0,4.0,1015.0,0.0
+378,Taglio Fire,24,Merced,"I-5 & Taglio Road, east of Gustine",37.2171,-121.08036000000001,9.0,23.0,18.0,9.0,1019.0,0.0
+379,Rock Fire,37,San Diego,"off Highway 67 & Rockhouse Road, near Ramona",33.00056,-116.9571,17.0,29.0,24.0,4.0,1012.0,0.0
+380,Aukum Fire,9,El Dorado,off Mount Aukum Road & Grizzly Flat Road,38.64107,-120.6955,16.0,33.0,28.0,10.0,1017.0,0.0
+381,Bryson Fire,27,Monterey,"Bryson-Hesperia Rd & Interlake Rd, west of Bradley ",35.8378273,-121.0381507,13.0,25.0,20.0,6.0,1016.0,0.0
+382,Stafford Fire,12,Humboldt,"Community of Stafford, 7 miles south of Fortuna",40.4572,-124.05803999999999,11.0,27.0,22.0,7.0,1014.0,0.0
+383,Table Fire,47,Siskiyou,"Table Rock Rd & Harry Cash Rd, Montague",41.71847,-122.36923999999999,9.0,29.0,24.0,5.0,1016.0,0.1
+384,Ken Fire,36,San Bernardino,Off I-15 Between Kenwood and Blue Cut in the Cajon Pass,34.25858,-117.4415,16.0,29.0,24.0,7.0,1010.0,0.0
+385,Mockingbird Fire,17,Lake,"Off Hwy 29 & Mockingbird Lane, Upper Lake",39.1408865,-122.9148951,13.0,27.0,18.0,10.0,1016.0,0.0
+386,Shelter Fire,56,Ventura,"off Volcan Mountain, north of Julian",33.11645,-116.58542,12.0,35.0,28.0,18.0,1009.0,0.0
+387,Jacobson Fire,54,Tulare,Jacobson Drainage in the Golden Trout Wilderness,36.217,-118.551,13.0,27.0,21.0,5.0,1021.0,0.0
+388,Mokelumne Fire,2,Alpine,Mokelumne Wilderness,38.575540000000004,-120.00606,11.0,18.0,16.0,4.0,1012.0,0.0
+389,Gorman Fire,19,Los Angeles,off northbound Interstate 5 at Gorman Creek,34.6888731,-118.78925929999998,7.0,22.0,17.0,8.0,1015.0,0.0
+390,Thomas Fire,"42,56",Santa Barbara,"Hwy 150 and Hwy 126, north of Santa Paula ",34.415209999999995,-119.09123999999998,10.0,17.0,14.0,11.0,1017.0,0.0
+391,Long Valley Fire,18,Lassen,"off Hwy 395 and Cowboy Joe Rd, 3 miles north of Doyle",40.07045,-120.14013,9.0,27.0,22.0,6.0,1012.0,0.0
+392,Detwiler Fire,22,Mariposa,"Detwiler Rd and Hunters Valley Rd, 2 miles east of Lake McClure",37.61757,-120.21321,22.0,37.0,32.0,6.0,1015.0,0.0
+393,Eclipse Complex,47,Siskiyou,"5 miles W of Happy Camp, CA",41.841,-123.47399999999999,8.0,27.0,22.0,3.0,1012.0,0.0
+394,Nuns / Adobe / Norrbom/ Pressley / Partrick Fires / Oakmont (Central LNU Complex),"28,49",Napa,"Hwy 12, north of Glen Ellen",38.4041,-122.5209,15.0,26.0,22.0,4.0,1010.0,0.0
+395,Atlas Fire (Southern LNU Complex),"28,48",Napa,"Off of Altas Peak Rd, south of Lake Berryessa",38.39206,-122.24367,14.0,27.0,22.0,5.0,1010.0,0.0
+396,Garza Fire,16,Kings,"Tar Canyon Road, near Avenal",35.93273,-120.20013999999999,23.0,41.0,36.0,6.0,1013.0,0.0
+397,Miller Complex,47,Siskiyou,"17 miles east of Cave Junction, Oregon",42.038999999999994,-123.21799999999999,11.0,25.0,20.0,5.0,1014.0,0.0
+398,Tubbs Fire (Central LNU Complex),"28,49",Napa,"off of Hwy 128 and Bennett Ln, Calistoga",38.60895,-122.62879,12.0,28.0,21.0,6.0,1010.0,0.0
+399,Pier Fire,54,Tulare,"Highway 190, east of Springville",36.15356,-118.74103000000001,27.0,43.0,37.0,7.0,1012.0,0.0
+400,Redwood Valley Fire (Mendocino Lake Complex),23,Mendocino,"North of Hwy 20, west of Mendocino National Forest, south of Black Bart",39.24873,-123.16635,7.0,28.0,20.0,9.0,1012.0,0.0
+401,Alamo Fire,40,San Luis Obispo,Off Highway 166 near Twitchell Reservoir,35.0179,-120.3223,19.0,33.0,28.0,8.0,1016.0,0.0
+402,Helena - Fork Fire,53,Trinity,"Hwy 299 near town of Helena, Junction City",40.76025,-123.10003,14.0,31.0,24.0,2.0,1014.0,0.0
+403,Lion Fire,54,Tulare,Golden Trout Wilderness near Lion Meadow.,36.27138,-118.48555,15.0,22.0,20.0,12.0,1015.0,0.0
+404,R-4 Fire,18,Lassen,23 miles east-southeast of Madeline,40.69573,-119.93498999999998,14.0,30.0,25.0,6.0,1013.0,0.0
+405,Whittier Fire,42,Santa Barbara,"Lake Cachuma area, south of Hwy 154",34.550959999999996,-119.9494,21.0,39.0,35.0,4.0,1011.0,0.0
+406,Pocket Fire (Central LNU Complex),49,Sonoma,"off of Pocket Ranch Rd and Ridge Ranch Rd, Geyserville ",38.76549,-122.90938999999999,9.0,27.0,19.0,12.0,1011.0,0.0
+407,Railroad Fire,20,Madera,"Highway 41, south of Fish Camp",37.44663,-119.64622,19.0,37.0,30.0,9.0,1014.0,0.1
+408,Elm Fire,10,Fresno,"off of Hwy 198 & Fire Stone, south of Coalinga",36.12089,-120.37116,11.0,24.0,20.0,9.0,1015.0,0.0
+409,Cascade Fire (Wind Complex),58,Yuba,"Cascade Way and Marysville Rd, north of Collins Lake ",39.321979999999996,-121.4021,14.0,28.0,23.0,7.0,1011.0,0.0
+410,Canyon 2 Fire,30,Orange,"Off of East Santa Ana Canyon Rd, west of Gypsum Canyon",33.87041,-117.70975,22.0,33.0,29.0,4.0,1010.0,0.0
+411,Slinkard Fire,26,Mono,"West of Hwy 395, north of Hwy 89, south of Topaz",38.655,-119.55425,10.0,27.0,23.0,5.0,1015.0,1.0
+412,Cherokee Fire,4,Butte,"off Cherokee Road and Zonalea Lane, Oroville ",39.624959999999994,-121.52966,12.0,25.0,20.0,8.0,1011.0,0.0
+413,Parker 2 Fire,25,Modoc,southwest of Cedarville,41.466,-120.321,17.0,34.0,30.0,10.0,1016.0,0.0
+414,La Tuna Fire ,19,Los Angeles,"Lowell Ave and I-210, Verdugo Hills, Los Angeles City",34.22957,-118.2674,26.0,42.0,37.0,2.0,1010.0,0.7
+415,South Fork Fire,22,Mariposa,"off Wawona Rd, east of Wawona",37.538000000000004,-119.598,11.0,20.0,17.0,4.0,1012.0,0.0
+416,Manzanita Fire,33,Riverside,"Hwy 79 North, Lambs Canyon south of Dump Road, south of Beaumont",33.530045,-116.594422,25.0,37.0,33.0,15.0,1011.0,0.0
+418,Rye Fire,19,Los Angeles,"along Rye Canyon Loop, west Valencia",34.45283,-118.58188,7.0,15.0,11.0,36.0,1021.0,0.0
+419,Mud Fire,18,Lassen,"Little Mud Flat, 18 miles northeast of Susanville ",40.43962,-120.22215,16.0,32.0,26.0,5.0,1014.0,0.0
+420,Wall Fire,4,Butte,"Chinese Wall Rd, north of Bangor",39.453520000000005,-121.41221999999999,20.0,39.0,33.0,7.0,1017.0,0.0
+421,Jayne Fire,10,Fresno,Off of Hwy 33 and Lost Hills south of Coalinga,36.07228,-120.26561000000001,11.0,21.0,17.0,13.0,1024.0,0.0
+422,Summit Complex,50,Stanislaus,The Summit Complex consists of 3 fires burning on the Summit Ranger District of the Stanislaus National Forest.,38.329,-119.78200000000001,17.0,33.0,28.0,10.0,1019.0,0.0
+423,Ruth Complex,53,Trinity,"Dutchman Rd, east of Zenia",40.175979999999996,-123.36882,12.0,32.0,25.0,3.0,1014.0,0.0
+424,Minerva Fire,32,Plumas,"Forest Road 24N26, 3 miles southwest of Quincy (Plumas County)",39.9034,-120.9761,16.0,32.0,27.0,6.0,1014.0,0.0
+425,Lilac Fire,37,San Diego,"Old Hwy 395 at Dulin Road, Bonsall",33.3237,-117.163,12.0,23.0,19.0,14.0,1024.0,0.0
+426,Ponderosa Fire,4,Butte,"Ponderosa way and Lumpkin road, 2 miles NW of Forbestown ",39.577009999999994,-121.30208999999999,24.0,38.0,33.0,9.0,1012.0,0.0
+427,Palmer Fire,33,Riverside,"San Timoteo Canyon Road / Fisherman''s Retreat, Beaumont",33.974709999999995,-117.09983999999999,25.0,36.0,33.0,8.0,1008.0,0.0
+428,Young Fire,47,Siskiyou,"Siskiyou Wilderness, Six Rivers NF",41.853,-123.676,17.0,24.0,21.0,5.0,1016.0,0.0
+429,Hawk Fire,15,Kern,"Hwy 155, north of Bakersfield",35.77896,-118.89627,22.0,43.0,37.0,3.0,1016.0,0.0
+430,Eureka Fire,32,Plumas,McRae Meadows,39.75312,-120.75485,14.0,34.0,26.0,4.0,1013.0,0.0
+431,I-5 Fire,16,Kings,"off I-5 & Quebec Ave, north of Avenal",36.05187,-120.05403999999999,19.0,37.0,31.0,7.0,1013.0,0.0
+432,Winters Fire,57,Yolo,"Hwy 128 and Pleasant View Rd, south west of Winters",38.49521,-122.0251,17.0,40.0,34.0,10.0,1018.0,0.0
+433,Sulphur Fire (Mendocino Lake Complex),17,Lake,"off Hwy 20 and Sulphur Bank Road, Clearlake Oaks",39.013870000000004,-122.64543,13.0,26.0,21.0,9.0,1011.0,0.0
+434,Gate Fire,37,San Diego,"off of Hwy 94 and Otay Truck Trail, northwest of Dulzura",32.65597,-116.80527,17.0,30.0,26.0,5.0,1012.0,0.0
+435,Parkfield Fire,"27,40",Monterey,"Vineyard Canyon Rd, west of Parkfield",35.86949,-120.57893999999999,25.0,39.0,36.0,8.0,1012.0,0.0
+436,Wright Fire,24,Merced,"Hwy 152 and Arburura Road, southwest of Los Banos",36.96655,-120.89261,11.0,22.0,18.0,12.0,1020.0,0.0
+437,37 Fire,49,Sonoma,Hwy 37 & Lakeville Highway,38.14242,-122.47301000000002,16.0,25.0,21.0,21.0,1009.0,0.0
+438,Quail Fire,15,Kern,off Hwy 65 and Famoso Road east of Famoso,35.59904,-119.08312,22.0,42.0,36.0,3.0,1017.0,0.0
+439,Hill Fire,40,San Luis Obispo,"Park Hill Road and La Entrada, east of Santa Margarita",35.4025,-120.4992,14.0,31.0,25.0,2.0,1016.0,0.0
+440,Derrick Fire,10,Fresno,"off Los Gatos Creek Rd, west of Coalinga",36.269125,-120.620791,17.0,31.0,27.0,8.0,1012.0,0.0
+441,Holcomb Fire,36,San Bernardino,"off Highway 18 & Holcomb Valley Rd, east of Big Bear Lake",34.2976,-116.82600000000001,24.0,39.0,35.0,8.0,1007.0,0.0
+442,Oakwood Fire,20,Madera,"Oakwood Road and Road 406, northeast of Madera",37.0825,-119.8011,10.0,21.0,18.0,4.0,1012.0,0.0
+443,Garden Fire,15,Kern,"1/2 mile west of USFS Democrat Fire Station, Kern River Ranger District",35.543,-118.654,19.0,34.0,30.0,5.0,1016.0,0.0
+444,Opera Fire,33,Riverside,"off Opera Loop & East Palmyrita Avenue, in Highgrove ",34.00566,-117.30693000000001,11.0,30.0,25.0,1.0,1018.0,0.0
+445,Caldwell Fire,15,Kern,"Kernville Rd. x Sierra Way, 6 miles north of Lake Isabella",35.76,-118.406,20.0,30.0,27.0,12.0,1013.0,2.2
+446,Latrobe Fire,34,Sacramento,"Off Latrobe Rd & Scott Rd, near Rancho Murieta",38.5181,-121.104,21.0,39.0,32.0,5.0,1016.0,0.0
+447,Tarina Fire ,15,Kern,"Breckenridge Road, 3 miles east of Bakersfield",35.382979999999996,-118.80123,17.0,36.0,30.0,4.0,1013.0,0.0
+448,Buffalo Fire,37,San Diego,"Range 600, Case Springs Road, Camp Pendleton",33.402411,-117.402445,20.0,30.0,26.0,2.0,1016.0,0.0
+449,Hudson Fire,15,Kern,"Hudson Ranch Rd. and Hwy 166, south of Maricopa",34.94373,-119.44751000000001,23.0,35.0,31.0,5.0,1012.0,0.0
+450,Blaine Fire,33,Riverside,Blaine Rd and Terrace Dr,33.98212,-117.30819,23.0,34.0,31.0,6.0,1012.0,0.0
+451,Mission Fire,20,Madera,"Mission Dr. and Italian Bar Rd., 2 miles east of North Fork",37.216159999999995,-119.48066999999999,26.0,37.0,32.0,8.0,1015.0,0.0
+452,Chilcoot Fire,32,Plumas,"Chilcoot Ave, Chilcoot",39.75371,-120.1397,8.0,28.0,22.0,3.0,1015.0,0.0
+453,Berry Fire,45,Shasta,"off of Baker Rd, east of Big Bend",40.98352,-121.81623,16.0,32.0,26.0,4.0,1014.0,0.9
+454,El Dorado Fire,10,Fresno," El Dorado Ave & Kamm Ave, northeast of Coalinga",36.530836,-120.20659199999999,12.0,24.0,20.0,16.0,1015.0,0.0
+455,Wildomar Fire,33,Riverside,"S Main Divide Rd and Wildomar OHV Park, west of Wildomar City",33.602470000000004,-117.34192,20.0,31.0,27.0,3.0,1011.0,0.0
+456,Poslin Fire,18,Lassen,"Scott Rd, 9 miles south of Doyle",39.888000000000005,-120.066,8.0,28.0,22.0,3.0,1015.0,0.0
+457,Lobo Fire (Wind Complex),29,Nevada,"near Lone Lobo Trail, Rough and Ready",39.245490000000004,-121.12791999999999,12.0,25.0,19.0,27.0,1017.0,0.0
+458,Yankee Fire,40,San Luis Obispo,Field Rd and Perimeter Rd at Training Area Yankee 6 in Camp Roberts,35.7908,-120.77485,20.0,32.0,28.0,5.0,1014.0,0.0
+459,Placerita Fire,19,Los Angeles,"Off Hwy 14 & Placerita Canyon Rd, in Santa Clarita",34.37443,-118.49343,22.0,39.0,34.0,2.0,1012.0,0.0
+460,Farad Fire,46,Sierra,"Hwy 80 and State Boundary, 12 miles northeast of Truckee ",39.439721999999996,-120.027222,15.0,20.0,19.0,9.0,1014.0,0.0
+461,Jacksonville Fire,55,Tuolumne,"Jacksonville Road, south of Jamestown",37.905545000000004,-120.40813500000002,19.0,36.0,30.0,6.0,1014.0,0.0
+462,Peak Fire,22,Mariposa,"Indian Peak Rd and Usona Rd, 9 miles southeast of Mariposa",37.37397,-119.83556000000002,20.0,37.0,30.0,8.0,1015.0,0.0
+463,Mart Fire,36,San Bernardino,"Highland Ave and City Creek Road, Highland",34.14575,-117.17813000000001,21.0,36.0,32.0,8.0,1011.0,0.0
+464,Ben Fire,22,Mariposa,off Ben Hur Road and Silver Bar Road,37.3762,-119.9646,9.0,31.0,25.0,5.0,1013.0,0.0
+465,Battle Fire,25,Modoc,"Hwy 139 south of Newell, east of Tule Lake",41.85763,-121.29581,7.0,25.0,20.0,5.0,1014.0,0.0
+466,Mias Fire,33,Riverside,Misa Canyon Road and Bluff Street,33.950359999999996,-116.88066,15.0,26.0,23.0,4.0,1011.0,0.0
+467,W-2 Fire,18,Lassen,"Ash Valley, 6 miles west of Madeline",41.119890000000005,-120.74968,13.0,28.0,23.0,5.0,1014.0,0.0
+468,Ming Fire,15,Kern,"Round Mountain Road and Amaya Court, north of Lake Ming",35.4605,-118.85896000000001,15.0,33.0,27.0,7.0,1014.0,0.0
+469,Deluz Fire,37,San Diego,"Camp Pendleton, north of India Training Area",33.3906,-117.32348,15.0,27.0,23.0,4.0,1014.0,0.0
+470,Fay Fire,47,Siskiyou,"Highway 3 & Fay Lane, south of Etna",41.3975,-122.8428,14.0,31.0,26.0,11.0,1016.0,0.0
+471,Monterey Fire,10,Fresno,"off South Monterey Ave. & W South Ave., near Tranquillity ",36.616986,-120.36934699999999,11.0,23.0,19.0,16.0,1013.0,0.0
+472,Rucker Fire,42,Santa Barbara,"Rucker Rd and Purisima Rd, 2 miles north east of Lompoc",34.67403,-120.4393,17.0,26.0,22.0,12.0,1013.0,0.0
+473,Eastman Fire,20,Madera,"Road 29 & Road 26, southwest of Raymond",37.14624,-120.01550900000001,15.0,30.0,25.0,12.0,1014.0,0.0
+474,Skirball Fire,19,Los Angeles,N Sepulveda Blvd at I-405,34.09454,-118.48178,15.0,26.0,20.0,10.0,1023.0,0.0
+475,Elephant Fire,54,Tulare,"off Strathmore Rd, community of Lindsay",36.22265,-119.06598000000001,20.0,33.0,29.0,2.0,1015.0,0.0
+476,Dode Fire,25,Modoc,"off Hwy 139, 7 miles North of Tionesta",41.72163,-121.30451000000001,9.0,30.0,25.0,2.0,1017.0,0.0
+477,Jennings Fire,37,San Diego,"I-8 and Old Hwy 80, Community of Lakeside",32.84796,-116.85396000000001,20.0,31.0,28.0,3.0,1012.0,0.0
+478,Sonoma Fire,10,Fresno,"off Sonoma Ave & Cerini Ave, west of Helm ",36.45491,-120.2445,15.0,31.0,25.0,6.0,1013.0,0.0
+479,Pleasant Fire,29,Nevada,"Off Hwy 49 & Pleasant Valley Rd, south of North San Juan  ",39.34292,-121.12003999999999,20.0,34.0,29.0,7.0,1013.0,0.0
+480,Bear Fire,44,Santa Cruz,"Bear Canyon Road and Deer Creek Road in Boulder Creek, CA",37.18356,-122.07011999999999,18.0,28.0,24.0,7.0,1020.0,0.0
+481,Chris Fire,26,Mono,"Hwy 395, north of Hwy 108, Walker Watershed, south of Walker",38.46111,-119.48284,0.0,9.0,5.0,14.0,1021.0,0.0
+482,Stone Fire,40,San Luis Obispo,"Huer Huero Road, east of Santa Margarita",35.42433,-120.47322,21.0,34.0,30.0,6.0,1012.0,0.0
+483,Dinely Fire,54,Tulare,"off of Dinely Drive in Three Rivers, northeast of Lake Kaweah",36.458090000000006,-118.87676,16.0,33.0,28.0,4.0,1012.0,0.0
+484,Rose Fire,15,Kern,"I-5 Freeway and Grapevine Rd, north of the Grapevine",34.92907,-118.9267,17.0,30.0,26.0,6.0,1012.0,0.0
+485,Bryant Fire,36,San Bernardino,"Bryant Street at Hwy 38, City of Yucaipa",34.084920000000004,-117.03826000000001,23.0,32.0,28.0,1.0,1014.0,0.0
+486,Marble Fire,8,Del Norte,"Orleans Rd, Six River National Forest",41.478,-123.506,-2.0,29.0,21.0,4.0,1019.0,0.0
+487,Liberty Fire,33,Riverside,"Los Alamos Rd & Liberty Rd, city of Murrieta",33.59257,-117.14979,11.0,21.0,16.0,16.0,1025.0,0.0
+488,Bravo Fire,15,Kern,"Hwy 178 and Mira Monte Drive, 2 miles southeast of Lake Ming",35.41283,-118.84466,6.0,20.0,15.0,2.0,1011.0,0.0
+489,Little Mountain Fire,36,San Bernardino,"University Pkwy. and Varsity Ave., San Bernardino City",34.16564,-117.33333999999999,6.0,16.0,11.0,23.0,1021.0,0.0
+490,Lost Fire,37,San Diego,"off of Hwy 79, 4 miles north of Warner Springs",33.34659,-116.66107,18.0,37.0,32.0,10.0,1010.0,0.0
+491,Huasna Fire,40,San Luis Obispo,"Huasna Townsite Rd & Huasna Rd, Huasna",35.122690000000006,-120.39386999999999,16.0,26.0,22.0,8.0,1014.0,0.0
+492,Largo Fire,9,El Dorado,"South Shingle Rd at Michigan Bar Rd, northeast of Rancho Murieta",38.538332000000004,-121.039267,20.0,37.0,31.0,4.0,1018.0,0.0
+493,Deer Complex,7,Contra Costa,"Deer Valley Road & Marsh Creek Road, west of Brentwood",37.87808,-121.78676999999999,18.0,39.0,31.0,9.0,1013.0,0.0
+494,Camp Fire,40,San Luis Obispo,"off of Hwy 1 & Range Rd, northeast of San Luis Obispo ",35.34541,-120.76463999999999,10.0,21.0,19.0,12.0,1015.0,0.0
+495,Arrow Fire,40,San Luis Obispo,off of Soda Lake,35.21177,-119.87525,9.0,18.0,15.0,5.0,1012.0,0.0
+496,Bodfish Fire,15,Kern,5 miles south of Lake Isabella,35.598040000000005,-118.47939,-1.0,19.0,11.0,13.0,1010.0,0.0
+497,Eagle Fire,33,Riverside,"Off Tin Mine Rd & La Sierra Ave, near Lake Mathews",33.853229999999996,-117.48195,21.0,34.0,31.0,4.0,1015.0,0.0
+498,Skeleton Fire,17,Lake,"Skeleton Glade, 5 miles east of Lake Pillsbury ",39.44543,-122.85193999999998,15.0,33.0,26.0,4.0,1013.0,1.0
+499,Eclipse Fire,37,San Diego,"Royal Willie Road and La Posta Road, Community of Campo",32.65003,-116.42907,18.0,30.0,25.0,5.0,1012.0,0.0
+500,Wasioja Fire,42,Santa Barbara,"Wasioja Road and Hwy 166, east of New Cuyama ",34.9465,-119.8036,16.0,30.0,26.0,1.0,1014.0,0.0
+501,Toll Fire,32,Plumas,"Tollgate Creek and Oakland Camp Road, north of Quincy",39.9864,-120.89746000000001,15.0,33.0,25.0,5.0,1013.0,0.0
+502,Wild Fire,10,Fresno,"Jensen Ave at Ohio Ave, Mendota",36.704679,-120.405077,11.0,23.0,19.0,16.0,1013.0,0.0
+503,Quarry Fire,15,Kern,"off Hwy 223, east of Arvin ",35.19008,-118.76151999999999,3.0,21.0,14.0,5.0,1014.0,0.0
+504,Laverne Fire,45,Shasta,"off of Laverne Ln & Saddle Trail, 6 miles southeast of Redding",40.471059999999994,-122.43608,20.0,31.0,28.0,4.0,1013.0,0.0
+505,High Fire,36,San Bernardino,"off High Rd & Santa Rosa Rd, Lucerne Valley",34.412040000000005,-117.03031000000001,24.0,34.0,31.0,6.0,1010.0,0.0
+506,Evans Fire,46,Sierra,"Off Highway 395 & Scott Rd, east of Loyalton",39.711009999999995,-120.02325,13.0,32.0,26.0,3.0,1013.0,0.0
+507,Peg Fire,18,Lassen,"off Termo Grasshopper Rd., northwest of Ravendale",40.80968,-120.48641,12.0,31.0,25.0,2.0,1016.0,0.0
+508,26 Fire,20,Madera,"off of Road 29, north of Ave 26, east of Chowchilla",37.127590000000005,-120.0193,17.0,35.0,29.0,19.0,1013.0,0.0
+509,Corral Fire,1,Alameda,"Off Corral Hollow Road, South of Tracy",37.63358,-121.49925,13.0,25.0,21.0,8.0,1016.0,0.0
+510,Lucy Fire,40,San Luis Obispo,"off of Lucy Brown Rd, south of Hwy 41",35.6871,-120.3187,15.0,30.0,26.0,8.0,1014.0,0.0
+511,41 Fire,20,Madera,"off of Hwy 41 and Ave 11, north of Fresno",36.90967,-119.79315,11.0,23.0,19.0,15.0,1015.0,0.0
+512,Tower Fire,36,San Bernardino,"Cleghorn Road, east of I-15, north of the community of Devore",34.30104,-117.45646,11.0,27.0,23.0,2.0,1018.0,0.0
+513,Grape Fire,23,Mendocino,"Off Hwy 101 & Crawford Ranch Rd, Hopland",39.02482,-123.1362,8.0,22.0,16.0,9.0,1017.0,0.0
+514,Skyway Fire,4,Butte,"off Skyway and Hwy 99, east of Chico",39.69717,-121.75417,17.0,32.0,27.0,8.0,1017.0,0.0
+515,Tumey Fire,10,Fresno,"Panoche Rd, 5 miles west of I-5",36.5355,-120.6585,11.0,26.0,21.0,12.0,1018.0,0.0
+516,Coronado Fire,22,Mariposa,Merced Falls Rd and Coronado Rd in Lake McClure,37.62823,-120.30046000000002,17.0,34.0,28.0,6.0,1014.0,0.0
+517,Twist Fire,55,Tuolumne,"Twist Road south of Algerine Road, Jamestown",37.90014,-120.36005,20.0,37.0,30.0,6.0,1018.0,0.0
+518,Stewart Fire,33,Riverside,Stewart Rd at Woodson Rd in Moreno Valley,34.009026,-117.239099,20.0,33.0,29.0,5.0,1014.0,0.0
+519,Margarita Fire,40,San Luis Obispo,"Santa Margarita Lake Rd. and W. Pozo Rd., 7 miles SE of Santa Margarita",35.31886,-120.50886000000001,23.0,36.0,30.0,2.0,1012.0,0.1
+520,Lamb Fire,33,Riverside,"Lamb Canyon & Dump Road, north of Hemet ",33.882870000000004,-116.99651000000001,8.0,19.0,16.0,7.0,1007.0,0.0
+521,Maria Fire,5,Calaveras,"Jesus Maria Road and Music Gulch Road, Mokelumne Hill ",38.291129999999995,-120.62177,15.0,39.0,34.0,6.0,1012.0,0.0
+522,Poly Fire,40,San Luis Obispo,near Cal Poly,35.3024,-120.65279,17.0,28.0,24.0,7.0,1010.0,0.0
+523,Humboldt Fire,4,Butte,"Humboldt Rd & Hwy 32, 2 miles east of Chico ",39.76243,-121.74121000000001,13.0,33.0,27.0,6.0,1016.0,0.0
+524,Coalinga Fire,10,Fresno,"Mendota Road and Interstate 5, 12 miles north of Coalinga",36.361129999999996,-120.32685,25.0,38.0,32.0,9.0,1012.0,0.1
+525,Lariat Fire,43,Santa Clara,"Lariat Lane and Claitor Way, 6 miles northeast of San Jose",37.39801,-121.8179,13.0,31.0,25.0,8.0,1012.0,0.0
+526,Church Fire,37,San Diego,"off Highway 94 and Church Rd, Campo Indian Reservation ",32.64962,-116.37345,9.0,24.0,20.0,8.0,1014.0,0.0
+527,Oakmont Fire (Central LNU Complex),49,Sonoma,east side of Highway 12 near the Oakmont community,38.46123,-122.58152,10.0,27.0,19.0,9.0,1019.0,0.0
+528,Long Fire,17,Lake,"off Hwy 20 & Long Valley Rd, 5 miles east of Clearlake Oaks",39.0199,-122.57486999999999,10.0,25.0,19.0,11.0,1020.0,0.0
+529,Timm Fire,48,Solano,"Timm Rd and Peaceful Glen Rd, 5 miles north of Vacaville ",38.43658,-121.97233,16.0,27.0,22.0,27.0,1011.0,0.0
+530,Bally Fire,43,Santa Clara,"Ballybunion Ct, Gilroy",36.99092,-121.59898999999999,23.0,39.0,33.0,3.0,1011.0,0.0
+531,Tilton Fire,43,Santa Clara,Hale Ave and Tilton Ave in Morgan Hill,37.14653,-121.68165,14.0,32.0,26.0,4.0,1014.0,0.0
+532,Mile Fire,36,San Bernardino,"Hwy 18 x Old Waterman Canyon Rd., 1 mile south of Crestline",34.19076,-117.26969,25.0,38.0,34.0,6.0,1015.0,0.0
+533,Auberry Fire,10,Fresno,"off Auberry Rd, north of Clovis",36.95104,-119.65621000000002,20.0,39.0,34.0,10.0,1015.0,0.0
+534,Wilbur Fire,4,Butte,"Wilbur rd, north of Oroville Dam blvd    ",39.52499,-121.64896999999999,16.0,31.0,27.0,6.0,1012.0,0.0
+535,Daulton Fire,20,Madera,"Road 29 and Ave 24, near Daulton",37.09773,-120.02027,23.0,44.0,37.0,16.0,1018.0,0.0
+536,Ridge Fire,17,Lake,"Bartlett Springs, community of Clearlake",39.15016,-122.57600000000001,17.0,31.0,26.0,3.0,1015.0,0.0
+537,Vista Fire,56,Ventura,off Hwy 33 & Casitas Vista Rd,34.34949,-119.30918,21.0,34.0,28.0,11.0,1019.0,0.0
+538,Saw Fire,12,Humboldt,"Off Alderpoint Rd & Lower Sawmill Rd, east of Garberville",40.117940000000004,-123.76098999999999,15.0,20.0,18.0,3.0,1014.0,0.0
+539,Dollar Fire,36,San Bernardino,"off Hwy 330 & Old City Creek Rd, southwest of Running Springs",34.20152,-117.14466000000002,22.0,34.0,31.0,5.0,1011.0,0.0
+540,Country Fire,27,Monterey,Portuguese Canyon Rd. at Cross Country Rd. southeast of Bradley,35.86596,-120.64583999999999,18.0,31.0,26.0,4.0,1014.0,0.0
+541,Holiday Fire,9,El Dorado,"off Hwy 395, south of Gardnerville in Nevada",38.869036,-119.61865,-4.0,14.0,4.0,6.0,1026.0,0.0
+542,Mills File,32,Plumas,"Hwy 89, ¼ mile north of Crescent Mills",40.13278,-120.9204,18.0,35.0,28.0,1.0,1016.0,0.0
+543,Fountain Fire ,54,Tulare,"off Avenue 56 & Road 256, 2 miles east of Ducor",35.89423,-119.00334,17.0,25.0,21.0,11.0,1011.0,0.0
+544,Castro Fire,43,Santa Clara,"off Castro Valley Rd. &  Hwy 101,  southwest of Gilroy",36.96607,-121.55552,17.0,35.0,28.0,1.0,1011.0,0.0
+545,Spring Fire ,52,Tehama,"off of Spring Branch Rd, 7 miles east of Cottonwood",40.38944,-122.13088,14.0,31.0,26.0,5.0,1013.0,0.0
+546,McCourtney Fire (Wind Complex),29,Nevada,"McCourtney Rd and Hwy 20, Grass Valley",39.19325,-121.08406000000001,13.0,27.0,21.0,23.0,1016.0,0.0
+547,Tivy Fire,10,Fresno,near Tivy Mountain,36.8005,-119.35901000000001,7.0,17.0,14.0,8.0,1010.0,0.0
+548,Linne Fire,40,San Luis Obispo,"Linne Rd x Geneseo Rd, east of Paso Robles",35.5956,-120.56068,17.0,28.0,23.0,5.0,1011.0,0.0
+549,Axel Fire,9,El Dorado,"Axel Ct & Barrister Ct, Rescue",38.7803,-120.97111000000001,21.0,39.0,34.0,6.0,1014.0,0.0
+550,Lynch Fire,40,San Luis Obispo,"Lynch Canyon Road and Interlake Road, north of Lake Nacimiento",35.786159999999995,-120.96513999999999,12.0,25.0,20.0,8.0,1017.0,0.0
+551,Ellis Fire,33,Riverside,"off of Mc Pherson Road, Perris",33.75526,-117.25075,19.0,34.0,28.0,2.0,1011.0,0.0
+552,Camatta Fire,40,San Luis Obispo,"Hwy 58 near Camatta Creek Rd, east of Santa Margarita",35.4403,-120.2913,21.0,32.0,28.0,6.0,1012.0,0.7
+553,Felipe Fire,43,Santa Clara,"San Felipe Road and Metcalf Road, 8 miles northeast of Morgan Hill",37.25014,-121.68562,13.0,32.0,26.0,7.0,1012.0,0.0
+554,Manning Fire,10,Fresno,"Interstate 5 and Manning Avenue, north of Coalinga",36.60736,-120.5828,14.0,32.0,27.0,3.0,1015.0,0.0
+555,Orange Fire,50,Stanislaus,"Off Sonora Rd & Orange Blossom Rd, east of Oakdale",37.82934,-120.68992,19.0,38.0,33.0,5.0,1010.0,0.0
+556,Placentia Fire,33,Riverside,"Placentia Ave. at Eureka St, Nuevo",33.819759999999995,-117.18552,22.0,33.0,29.0,3.0,1012.0,0.0
+557,Westfall Fire,22,Mariposa,west of  Westfall Road and north of Whiterock Road,37.36914,-120.0088,9.0,30.0,25.0,8.0,1015.0,0.0
+558,Montezuma Fire,37,San Diego,"Montezuma Valley Rd., near the Community of Borrego Springs.",33.20988,-116.46988999999999,18.0,39.0,33.0,6.0,1010.0,0.0
+559,Bottle Fire,17,Lake,Bottle Rock Rd and Highway 29 in Kelseyville,38.94599,-122.81135,17.0,35.0,30.0,4.0,1014.0,0.0
+560,Bolla Fire,52,Tehama,"Hwy 36 West, off Tedoc Roadd, west of Platina",40.32063,-122.83208,8.0,31.0,26.0,5.0,1016.0,0.0
+561,Slides Fire,17,Lake,"Elk Mountain Rd, west of Lake Pillsbury",39.42604,-123.03343999999998,15.0,33.0,26.0,4.0,1013.0,1.0
+562,Hogback Fire,54,Tulare,"off of Hogback Rd and Whitaker Forest Dr, Badger",36.644040000000004,-118.99943999999999,17.0,36.0,30.0,5.0,1013.0,0.0
+563,Live Fire,52,Tehama,"Live Oak Road, Community of Ridgway, west of Red Bluff",40.1583,-122.3209,21.0,40.0,35.0,4.0,1014.0,0.0
+564,Freedom Fire,10,Fresno,"Ashland and Riverbend Ave, Sanger City",36.81476,-119.51592,20.0,39.0,34.0,5.0,1016.0,0.0
+565,Bogus Fire,47,Siskiyou,Ager Beswick Rd. and Crest Ln. south of Copco Lake,41.93006,-122.36545,11.0,30.0,25.0,5.0,1020.0,0.0
+566,Estate Fire,48,Solano,"Estate Rd & John Wayne Rd, north of Vacaville",38.4446,-122.0041,14.0,26.0,21.0,10.0,1013.0,0.0
+567,Owens Fire,47,Siskiyou,"off of Owens Rd and Hwy 97, northeast of Dorris ",41.99483,-121.90077,14.0,32.0,27.0,3.0,1015.0,0.0
+568,Topanga Fire,19,Los Angeles,Off Topanga Canyon & Pacific Coast Hwy in Malibu,34.03941,-118.58623999999999,15.0,25.0,22.0,3.0,1013.0,0.0
+569,Quimby Fire,43,Santa Clara,"Off Quimby Rd, west of Grant Ranch Park, East San Jose",37.334540000000004,-121.76323000000001,15.0,35.0,28.0,9.0,1010.0,0.0
+570,Weller Fire,43,Santa Clara,"Weller Rd and Calaveras Rd, 3 miles east of Milpitas",37.44485,-121.84108,20.0,34.0,29.0,3.0,1015.0,0.0
+571,Tank Fire,15,Kern,"Hwy 58 and Keene Ranch Rd, community of Keene",35.215559999999996,-118.56578,14.0,25.0,21.0,8.0,1012.0,0.0
+572,Extension Fire,33,Riverside,"Lambs Canyon Road & Gilman Springs Road, Gilman Springs",33.8826,-117.00589,20.0,31.0,27.0,14.0,1020.0,0.0
+573,Wilson Fire,19,Los Angeles,off Mount Wilson Circle near the Mount Wilson Observatory ,34.22551,-118.05545,22.0,31.0,28.0,5.0,1017.0,0.0
+574,Skeggs Fire,41,San Mateo,"Skyline Rd and Skeggs Point, 3 miles west of Woodside",37.41591,-122.3001,22.0,30.0,26.0,3.0,1011.0,0.0
+575,Calgary Fire,15,Kern,"Old State Rd & Dollar Rd, Wofford Heights",35.70639,-118.47306999999999,17.0,28.0,24.0,5.0,1013.0,0.0
+576,Lago Fire,33,Riverside,"Lake Perris State Recreation Area, Moreno Valley (Riverside County)",33.877390000000005,-117.16215,15.0,33.0,29.0,2.0,1015.0,0.0
+577,Douglas Fire,37,San Diego,"Hwy. 76 & College Blvd., Oceanside, Camp Pendleton",33.23281,-117.29508999999999,15.0,23.0,20.0,2.0,1014.0,0.0
+578,Serenas Fire,33,Riverside,off Avenue 64 and Las Serenas Street,33.585770000000004,-116.07428999999999,14.0,33.0,28.0,12.0,1013.0,0.0
+579,Bitterwater Fire,35,San Benito,Airline Hwy and Bitterwater Road,36.38109,-121.00391,10.0,28.0,20.0,6.0,1016.0,0.0
+580,Zenon Fire,40,San Luis Obispo,"off Zenon Way, Nipomo ",35.06472,-120.5634,15.0,26.0,22.0,6.0,1016.0,0.0
+581,Whitepine Fire,47,Siskiyou,"Whitepine Road and Blue Heron Place, 10 miles east of Hornbrook ",41.8721,-122.4571,9.0,26.0,22.0,3.0,1014.0,0.0
+582,Riverbottom Fire,33,Riverside,"Mission Inn Ave. and Redwood Dr., Riverside",33.9885,-117.38417,8.0,14.0,12.0,15.0,1019.0,0.0
+583,Pozo Fire,40,San Luis Obispo,near 3055  West Pozo Rd,35.28738,-120.44448,15.0,26.0,21.0,6.0,1008.0,0.0
+584,Grace Fire,45,Shasta,"Grace Resort Rd and Bluebush Way, 2 miles SE of the Community of Shingletown",40.487120000000004,-121.85645,8.0,18.0,13.0,10.0,1018.0,0.0
+585,Mines Fire,1,Alameda,"Mines Road and Crane Ridge Road, 8 miles S of Livermore",37.561809999999994,-121.56425,26.0,39.0,34.0,6.0,1014.0,0.0
+586,Roser Fire,52,Tehama,"Roser Rd & Sour Grass Rd, 6 miles NW of Orland",39.81517,-122.28165,10.0,20.0,16.0,3.0,1014.0,0.0
+587,Lockwood Fire,27,Monterey,off San Lucas Rd and Martinez Rd,35.96275,-121.08753,16.0,31.0,26.0,5.0,1014.0,0.0
+588,Jones Fire,25,Modoc,"Off Hwy 395, south of Alturas",41.38247,-120.53443,10.0,23.0,21.0,5.0,1013.0,0.0
+589,Stokes Fire,19,Los Angeles,Stokes Rd. and Mulholland Dr in Calabasas ,34.104459999999996,-118.70293999999998,19.0,24.0,23.0,2.0,1013.0,0.0
+590,Feed Fire,15,Kern,"Sabastian Rd and Wheeler, southeast of Arvin ",35.05076,-118.90003999999999,0.0,21.0,14.0,7.0,1010.0,0.0
+591,Riverdale Fire,33,Riverside," Riverdale Place and Lakeview Ave, Santa Ana Riverbed ",33.965140000000005,-117.4764,13.0,20.0,16.0,4.0,1017.0,0.0
+592,Palm Fire,33,Riverside,"Off Palm Dr & 20th Ave, Desert Hot Springs",33.90327,-116.50151000000001,11.0,29.0,21.0,13.0,1017.0,0.0
+593,Freeway Fire,36,San Bernardino,"Interstate 15 and Interstate 210, Rancho Cucamonga",34.13534,-117.4982,25.0,34.0,30.0,12.0,1019.0,0.0
+594,Lakewood Fire,15,Kern,"Todd Ct and Brick Dr, east of Lake Isabella",35.59302,-118.46734,15.0,23.0,20.0,3.0,1014.0,0.0
+595,Hole Fire,8,Del Norte,"off Low Divide Rd, west of Rockland",41.98128,-124.01168,16.0,26.0,22.0,4.0,1014.0,0.0
+596,Translator Fire,12,Humboldt,"Tish Tang Road and Hostler, Hoopa",41.02705,-123.63721000000001,17.0,38.0,29.0,6.0,1016.0,0.0
+597,Vestal Fire,52,Tehama,"Hwy 36 and Vestal Road, west of Red Bluff",40.29831,-122.70448999999999,19.0,39.0,33.0,5.0,1014.0,0.0
+598,Reservation Fire,27,Monterey,"off Reservation Rd and Blanco Rd, east of the city of Marina",36.66684,-121.74826000000002,15.0,31.0,26.0,5.0,1014.0,0.0
+599,Spenceville Fire,58,Yuba,"Spenceville Rd & Monarch Trail Dr, Wheatland",39.065220000000004,-121.3519,22.0,36.0,31.0,9.0,1010.0,0.0
+600, Bridge Fire,45,Shasta,"I-5 and Turntable Bay, 7 miles NE of Shasta Lake ",40.774,-122.309,8.0,25.0,18.0,9.0,1014.0,0.0
+601,Banderilla Fire,22,Mariposa,"Banderilla Dr & Hidalgo St, north of Hayward",37.65963,-120.34801999999999,21.0,40.0,33.0,7.0,1018.0,0.0
+602,Melba Fire,33,Riverside,Hy 74 and Melba Avenue,33.74925,-117.10301000000001,19.0,31.0,27.0,3.0,1012.0,0.0
+603,Spaletta Fire,21,Marin,"Point Reyes - Petaluma Road, Petaluma",38.08055,-122.77846000000001,12.0,19.0,17.0,8.0,1013.0,0.0
+604,Breckenridge Fire,15,Kern,"Breckenridge Rd and Comanche Dr., 5 miles east of Bakersfield ",35.373509999999996,-118.84133999999999,13.0,28.0,24.0,2.0,1014.0,0.0
+605,Meyers Fire,36,San Bernardino,"near the Hwy 15 and Hwy 215 junction, near Glen Helen Regional Park ",34.21829,-117.40625,6.0,16.0,11.0,23.0,1021.0,0.0
+606,Ellie Fire,33,Riverside,"Ellie Way and El Toro Road, Lake Elsinore",33.73547,-117.33363999999999,22.0,33.0,29.0,5.0,1014.0,0.0
+607,Miller Fire,12,Humboldt,"Miller Ranch road x Bell Springs road, 10 miles NE Leggett ",40.036970000000004,-123.64214,15.0,25.0,21.0,18.0,1014.0,0.0
+608,Christmas Fire,33,Riverside,"off Christmas Tree Ln & Santa Rosa Mine Rd, in Good Meadow",33.763304,-117.314994,21.0,39.0,34.0,1.0,1012.0,0.1
+609,Creek Fire ,15,Kern,"off Erskine Creek Rd and Pasadena Ln, southwest of Lake Isabella",35.60633,-118.4642,10.0,28.0,20.0,5.0,1011.0,0.0
+610,Sandy Fire,53,Trinity,"North of Hwy 299, west of Del Loma",40.804,-123.375,20.0,39.0,34.0,5.0,1013.0,0.0
+611,Shore Fire,27,Monterey,"Jolon Rd and Frudden Rd, near Lockwood",35.90092,-120.93371,18.0,33.0,29.0,10.0,1015.0,0.0
+612,Pleyto Fire,27,Monterey,"New Pleyto Road cross of Stern st, Lockwood",35.902149,-120.98368400000001,10.0,19.0,16.0,14.0,1014.0,0.0
+613,York Fire,27,Monterey,"off York Road and S Boundary Road, east of Monterey ",36.5858,-121.80377,16.0,28.0,23.0,10.0,1018.0,0.0
+614,Juniper Fire,10,Fresno,"off of Highway 198 west of Parsons Road, Coalinga",36.099681,-120.443545,21.0,32.0,28.0,8.0,1015.0,0.0
+615,Hub Fire,15,Kern,"Red Hill Road and Schick Road, 2 miles east of Lake Isabella",35.60001,-118.4683,1.0,15.0,10.0,9.0,1016.0,0.0
+616,Castaic Fire,19,Los Angeles,"I-5, north of Hughes Rd., 2 miles north of Lake Hughes",34.52055,-118.62881999999999,28.0,38.0,35.0,8.0,1010.0,0.0
+617,Blocksburg Fire,12,Humboldt,"Off Alderpoint Rd and Cemetery Rd, Blocksburg",40.27582,-123.64281000000001,15.0,20.0,18.0,3.0,1014.0,0.0
+618,Timber Fire,33,Riverside,"off Moreno Beach Dr & Locust, north of Moreno Valley",33.968959999999996,-117.25411000000001,16.0,33.0,28.0,3.0,1015.0,0.0
+619,Ice Fire,9,El Dorado,"off Ice House Road and US-50, east of Riverton, 13 miles east of Camino",38.77921,-120.46234,9.0,22.0,17.0,9.0,1017.0,0.0
+620,Benson Fire,52,Tehama,"Benson Rd, Bowman., 11 miles northwest of Red Bluff",40.29118,-122.42606,20.0,40.0,35.0,6.0,1015.0,0.0
+621,32 Fire,4,Butte,"Hwy 32 and Humboldt Road, 5 miles northeast of Chico ",39.8255,-121.7127,12.0,28.0,22.0,9.0,1016.0,0.0
+622,4-4 Fire,25,Modoc,"4 miles east of Dorris Reservoir, east of Alturas",41.4844,-120.36658999999999,16.0,30.0,26.0,10.0,1013.0,0.0
+623,Nuevo Fire,33,Riverside,Hansen Avenue and Nuevo Road in Nuevo,33.79925,-117.11658999999999,16.0,34.0,29.0,2.0,1011.0,0.0
+624,4-10 Fire,25,Modoc,"off Highway 395 and County Road 118, 16 miles north of Alturas.",41.644690000000004,-120.31813999999999,16.0,30.0,26.0,10.0,1013.0,0.0
+625,Vernon Fire,33,Riverside,Off Soboba Road in San Jacinto,33.82165,-116.96078999999999,15.0,33.0,28.0,0.0,1010.0,0.0
+626,Jasper Fire,58,Yuba,"Jasper lane and Levee road, 1 mile NE of Wheatland",39.03168,-121.40947,17.0,34.0,28.0,10.0,1013.0,0.0
+627,Trellis Fire,33,Riverside,State Highway 74 near Trellis Lane,33.71025,-117.31924,18.0,34.0,30.0,1.0,1009.0,0.0
+628,Fairview Fire,33,Riverside,"Fairview Road & Old Morongo Road, west of Desert Hot Springs ",33.94788,-116.59719,16.0,29.0,26.0,13.0,1008.0,0.0
+629,Cove Fire,40,San Luis Obispo,"Lynch Canyon Rd & Lakeview Rd, northwest of Lake Nacimiento",35.76343,-121.04445,12.0,22.0,19.0,8.0,1012.0,0.0
+630,Border 9 Fire,37,San Diego,1 mile west of Tecate Port Of Entry in Potrero,32.59252,-116.61608999999999,23.0,31.0,28.0,3.0,1012.0,0.1
+631,Hopper Fire,45,Shasta,"Oak Run Road and Hopper Lane, Oak Run",40.719229999999996,-122.02525,24.0,38.0,31.0,8.0,1014.0,0.0
+632,Sloane Fire,37,San Diego,"off Sloane Canyon Road at Dehesa Road, east of El Cajon",32.7789,-116.8516,20.0,31.0,28.0,3.0,1011.0,0.0
+633,Road Fire,20,Madera,"Road 400 and Road 33, 7 miles east of Madera ",37.02081,-119.95136000000001,23.0,43.0,37.0,11.0,1011.0,0.0
+634,5 Fire,19,Los Angeles,"I-5, North of Lake Hughes Rd, Community of Cataic ",34.29931,-118.37539,18.0,29.0,25.0,3.0,1011.0,0.0
+635,Ribbonwood Fire,37,San Diego,"Off of Ribbonwood Road and Interstate 8, east of El Cajon",32.679,-116.29296000000001,13.0,29.0,25.0,6.0,1010.0,0.0
+636,Portola Fire,33,Riverside,"De Portola Road east of Pauba Road, Temecula",33.50488,-117.02131999999999,12.0,27.0,23.0,11.0,1015.0,0.0
+637,Edwards Fire,1,Alameda,"Edwards Ave and Mountain Blvd, 6 miles southeast of Oakland ",37.77982,-122.169,22.0,32.0,28.0,4.0,1011.0,0.0
+638,Refuge Fire,28,Napa,"Knoxville Rd and Eastside Rd, north end of Lake Berryessa ",38.68347,-122.2654,8.0,27.0,23.0,6.0,1019.0,0.0
+639,Mule Fire,17,Lake,"Off Hwy 20 and Mule Skinner Road, east of Clearlake ",39.01748,-122.49327,19.0,35.0,29.0,5.0,1012.0,0.0
+640,Globe Fire,54,Tulare,"Globe Dr, Springville",36.108579999999996,-118.81979,21.0,39.0,34.0,6.0,1014.0,0.0
+641,Blue Fire,12,Humboldt,"off of Blue Lake Blvd and Hwy 299,  east of Eureka ",40.88516,-123.96843999999999,9.0,20.0,15.0,18.0,1019.0,0.0
+642,Seine Fire,36,San Bernardino,"off Piedmont Drive and Seine Avenue, Highland",34.139,-117.199,25.0,36.0,33.0,5.0,1011.0,0.0
+643,City Fire,16,Kings,"off of Hwy 41 & I-5, south of Kettleman City",35.983000000000004,-119.91508,11.0,28.0,23.0,3.0,1015.0,0.0
+644,Nacimiento Fire,27,Monterey,"Off Nacimiento Lake Drive and Bee Rock Rd., near Bradley",35.77082,-120.92482,8.0,18.0,15.0,12.0,1013.0,0.0
+645,Longhorn Fire,33,Riverside,"off Shirleon Road and Old Banning and Idyllwild Road, Banning area",33.88994,-116.91023,9.0,24.0,17.0,13.0,1019.0,0.0
+646,Sway Fire,12,Humboldt,"Swayback Ridge, 5 southwest of Mad River",40.39799,-123.57562,16.0,39.0,33.0,1.0,1016.0,0.0
+647,Willms Fire,50,Stanislaus,10 miles east of Oakdale,37.81827,-120.65763999999999,16.0,36.0,30.0,8.0,1014.0,0.0
+648,Bodega Fire,49,Sonoma,"Bodega Ave and Nosecchi Rd., east of Petaluma",38.26294,-122.71998,22.0,35.0,29.0,5.0,1014.0,0.0
+649,Lakeland Fire,4,Butte,"Off Lakeland Blvd & Feather River, east of Oroville ",39.53944,-121.54722,14.0,34.0,28.0,7.0,1016.0,0.0
+650,Panoche Fire,10,Fresno,off Panoche Rd. 4 miles W of I-5 (Fresno County). ,36.61332,-120.7109,15.0,33.0,27.0,11.0,1018.0,0.0
+651,Ramblin Fire,22,Mariposa,"Ramblin Road and Mount Lilac Road, 4 miles south of Bootjack",37.41231,-119.87465,3.0,17.0,12.0,7.0,1009.0,0.0
+652,Corner Fire,45,Shasta,HWY 299 just south of HWY 89 near Cassel,40.92602,-121.5935,15.0,35.0,28.0,5.0,1017.0,0.0
+653,Lonoak Fire,27,Monterey,"Lonoak Road and Airline Road, east of King City",36.2771,-120.94328,5.0,22.0,16.0,11.0,1018.0,0.0
+654,Matz Fire,36,San Bernardino,"Big Morongo Canyon Preserve, Morongo Valley",34.04412,-116.55326000000001,20.0,31.0,29.0,9.0,1011.0,0.0
+655,Rusty Fire,10,Fresno,"off Millerton Rd. and Rusty Spur Ln., 10 miles N. of Clovis",36.96642,-119.58292,11.0,27.0,23.0,3.0,1017.0,0.0
+656,Paskenta Fire ,52,Tehama,Round Valley Rd and Paskenta Rd in Paskenta ,39.87983,-122.5415,18.0,37.0,32.0,4.0,1014.0,0.0
+657,Greenhorn Fire,29,Nevada,"Greenhorn Access Rd, Rollins Lake (Nevada Co)",39.16826,-120.95498,18.0,35.0,30.0,9.0,1017.0,0.0
+658,Alvarado Fire,27,Monterey,Alvarado Rd and Wunpost in the community of Bradley,35.946999999999996,-120.87491999999999,15.0,30.0,26.0,7.0,1013.0,0.0
+659,Lombardi Fire,5,Calaveras,"off Hwy 26 and Hwy 12, 4 miles SW of Mokelumne Hill",38.199059999999996,-120.83483999999999,11.0,28.0,23.0,2.0,1018.0,0.0
+660,66 Fire,33,Riverside,Avenue 66 and Hwy 111 near community of Mecca,33.56777,-116.08003000000001,9.0,26.0,22.0,15.0,1013.0,0.0
+661,Drum Fire,42,Santa Barbara,"off Drum Canyon Rd, south of Los Alamos",34.71796,-120.27077,9.0,18.0,14.0,14.0,1013.0,0.0
+662,Coast Fire,42,Santa Barbara,"off the 3500 Block of Highway 1, south east of Lompoc",34.605358,-120.414875,11.0,22.0,17.0,14.0,1016.0,0.0
+663,Desabla Fire,4,Butte,"off Desabla Powerhouse Rd and Humbug Rd, Desabla",39.8629,-121.6268,12.0,33.0,28.0,3.0,1011.0,0.0
+664,Moraga Fire,33,Riverside,"Avenue Juan Diaz and Riverside Drive, Jurupa Valley",33.97155,-117.44148,13.0,26.0,23.0,4.0,1012.0,0.0
+665,Milton Fire,50,Stanislaus,off Milton Road and Sonora Road north of Woodward Reservoir Park,37.89532,-120.84748,12.0,27.0,21.0,5.0,1018.0,0.0
+666,Woodland Fire,9,El Dorado,"Woodland Court, Community of Oak Hill",38.69775,-120.73756999999999,17.0,32.0,28.0,4.0,1013.0,0.0
+667,Rosado Fire,9,El Dorado,"off Rosado Rd, El Dorado Hills ",38.67474,-121.06088000000001,17.0,35.0,30.0,6.0,1013.0,0.0
+668,Pacific Fire,4,Butte,"off Pacific Heights Road, west of Palermo",39.44257,-121.60683,22.0,36.0,31.0,8.0,1014.0,0.4
+669,Shandon Fire,40,San Luis Obispo,"Off Lucy Brown Rd, in Shandon",35.6879,-120.3317,8.0,18.0,13.0,8.0,1007.0,0.5
+670,Jameson Fire,33,Riverside,"Jameson Rd and Clay Canyon Dr., south of Corona",33.7866,-117.5048,17.0,30.0,27.0,2.0,1018.0,0.0
+671,Independence Fire,49,Sonoma,"Independence Lane, 2 miles south of Geyserville",38.702890000000004,-122.90217,15.0,35.0,28.0,4.0,1017.0,0.0
+672,Lisa Fire,33,Riverside,"off Gilman Springs Rd and Alessandro Blvd., east of Moreno Valley",33.913089,-117.09623300000001,16.0,31.0,27.0,3.0,1011.0,0.0
+673,Dexter Fire,22,Mariposa,"Dexter Rd and Pine Lake Dr, 5 miles east of Coulterville",37.768879999999996,-120.15846,12.0,23.0,19.0,6.0,1014.0,0.0
+674,Shaver Fire,10,Fresno,"Indian Rock Rd and Musick Creek Lane, Community of Shaver Lake",37.10067,-119.32108999999998,13.0,24.0,20.0,11.0,1016.0,0.0
+675,Sandra Fire,3,Amador,"Butte Mountain road, 3 miles east of Jackson",38.34421,-120.72273999999999,25.0,41.0,36.0,7.0,1014.0,0.0
+676,Rincon Fire,19,Los Angeles,"off Hwy 39 & East Fork Ave, north of Azusa",34.23925,-117.85181999999999,27.0,31.0,29.0,6.0,1014.0,0.0
+677,Grizzly Fire,29,Nevada,"off of Grizzly Hill Rd & Turnagain Arm Rd, 8 miles northeast of Nevada City",39.36902,-120.97586000000001,15.0,32.0,27.0,9.0,1016.0,0.0
+678,Navajo Fire,33,Riverside,"West 7th Street and Park Avenue, Perris",33.77896,-117.24091000000001,17.0,33.0,28.0,3.0,1014.0,0.0
+679,Rebie Fire,4,Butte,"Off Rebie way and Forbestown Rd, south east of Lake Oroville",39.50475,-121.33785,14.0,34.0,28.0,4.0,1013.0,0.0
+680,Lambs Fire,33,Riverside,"Manzanita Park and Roadrunner Dr., near Beaumont",33.90965,-116.9669,19.0,34.0,30.0,3.0,1009.0,0.0
+681,Shirleon Fire ,33,Riverside,"Old Banning Idyllwild Road & Mount Edna Road, Banning",33.87107,-116.88096999999999,19.0,30.0,27.0,6.0,1010.0,0.0
+682,Twenty Fire,58,Yuba,"off Hwy 20 and Escheman Ln, East of Brown",39.23205,-121.376,12.0,30.0,24.0,6.0,1014.0,0.0
+683,Champagne Fire,15,Kern,10 miles West of Rosamond,34.87128,-118.35296000000001,12.0,32.0,27.0,7.0,1016.0,0.0
+684,Moreno Fire,33,Riverside,Ironwood Avenue and Moreno Beach Drive,33.94673,-117.17773000000001,19.0,33.0,29.0,3.0,1013.0,0.0
+685,Soledad Fire,27,Monterey,"Highway 101 & Front Street, north of Soledad ",36.44141,-121.34695,4.0,17.0,14.0,13.0,1017.0,0.0
+686,Pressley Fire (Central LNU Complex),49,Sonoma,east of Rohnert Park,38.36685,-122.64001,14.0,27.0,21.0,22.0,1010.0,0.0
+687,Partrick Fire (Central LNU Complex),28,Napa,"off Partrick Rd, west of Napa",38.318020000000004,-122.39052,15.0,26.0,22.0,4.0,1010.0,0.0
+688,Rattlesnake Fire,22,Mariposa,Hwy 120 and Big Oak Flat Road near Foresta,37.73596,-119.78256,11.0,20.0,17.0,5.0,1015.0,0.0
+689,Clear Complex (merged into Eclipse Complex),47,Siskiyou,"Clear Creek Drainage, 7 miles southwest of Happy Camp (Siskiyou County)",41.702,-123.508,11.0,36.0,26.0,5.0,1013.0,0.0
+690,Warner Mountain Lightning,25,Modoc,Warner Mountain Ranger District on the Modoc National Forest,41.338,-120.304,17.0,34.0,30.0,11.0,1015.0,0.0
+691,Klamath Fire,47,Siskiyou,"Off Hwy 96 & Dutch Creek Rd, east of Oak Knoll",41.86609,-122.73031,15.0,29.0,26.0,5.0,1016.0,0.0
+692, Cristianitos Fire,37,San Diego,off Cristianitos Rd. and Talega Rd.,33.43513,-117.58252,15.0,24.0,22.0,2.0,1011.0,0.0
+693,Salmon-August Complex ,47,Siskiyou,"14 miles west of Etna, California in the Marble Mountain Wilderness",41.841,-123.47399999999999,12.0,34.0,27.0,3.0,1015.0,0.0
+694,King Incident,54,Tulare,"Hwy 201 & Rd 36, Community of Kings River",36.51912,-119.50606,23.0,44.0,37.0,10.0,1010.0,0.0
+695,Oroville Spillway ,4,Butte,"Oroville Dam, Canyon Dr. & Oroville Dam Rd, Oroville, CA 95966",39.51158,-121.55633,11.0,16.0,15.0,27.0,1007.0,7.7
+696,Ranch Fire (Mendocino Complex),"6,11,17,23",Colusa,"off Highway 20 near Potter Valley, northeast of Ukiah ",39.243283,-123.10336699999999,14.0,36.0,28.0,7.0,1014.0,0.0
+697,Carr Fire,"45,53",Shasta,"Hwy 299 and Carr Powerhouse Rd, Whiskeytown",40.65428,-122.62357,23.0,37.0,33.0,5.0,1020.0,0.1
+698,Woolsey Fire,"19,56",Los Angeles,"E Street and Alfa Road Rd, South of Simi Valley",34.235,-118.70128000000001,14.0,20.0,18.0,2.0,1015.0,0.1
+699,Ferguson Fire,22,Mariposa,"Highway 140 and Hite Cove, near El Portal",37.6549,-119.88581,14.0,24.0,22.0,5.0,1017.0,0.0
+700,County Fire,"28,57",Napa,east of Lake Berryessa,38.80583,-122.18183,24.0,40.0,35.0,15.0,1011.0,0.0
+701,Delta Fire,"45,53",Shasta,"I-5 and Lamoine, 2 miles NW of Lakehead ",40.9425,-122.43,16.0,34.0,29.0,6.0,1013.0,0.0
+702,River Fire (Mendocino Complex),"6,17,23",Colusa,"Old River Rd, near Mile Marker Post 7.9, Hopland ",39.04786,-123.11971000000001,14.0,36.0,28.0,7.0,1014.0,0.0
+703,Hirz Fire,45,Shasta,"off Gilman and Moore Creek Campground, east of Lakehead ",40.896,-122.219,16.0,40.0,33.0,6.0,1016.0,0.0
+704,Klamathon Fire,47,Siskiyou,"off Klamathon Road and Copco Road, south of Hornbrook",41.893332,-122.534655,12.0,28.0,24.0,6.0,1018.0,0.0
+705,Donnell Fire,55,Tuolumne,"Near Hwy 108, Donnell Lake area in the Carson Iceburg Wilderness",38.349000000000004,-119.929,17.0,30.0,26.0,6.0,1015.0,0.0
+706,Whaleback Fire,18,Lassen,"off Whaleback Mountain and Antelope Valley Road, West of Spaulding",40.633536,-120.86809099999999,15.0,33.0,28.0,6.0,1016.0,0.0
+707,Pawnee Fire,17,Lake,"Pawnee Rd & New Long Valley Rd, northeast of Clearlake Oaks ",39.0674,-122.59848000000001,20.0,37.0,32.0,9.0,1010.0,0.0
+708,Waverly Fire,39,San Joaquin,"off North Waverly Road and North Shelton Road, east of Linden",38.052054999999996,-120.94548200000001,15.0,36.0,29.0,4.0,1013.0,0.0
+709,Boot Fire,26,Mono,"Hwy 395 & Hwy 108, Sonora Junction",38.347395,-119.45186000000001,10.0,23.0,19.0,1.0,1013.0,0.0
+710,Planada Fire,24,Merced,"off Doug Road and Bonner Road, north of the community of Planada",37.393390000000004,-120.34206999999999,17.0,33.0,28.0,8.0,1008.0,0.0
+711,Lions Fire,20,Madera,near the Lion Point area in the Ansel Adams Wilderness,37.571,-119.118,8.0,20.0,17.0,2.0,1015.0,0.0
+712,Sun Fire,52,Tehama,"Hwy 36 and Sunriver Road, east of Red Bluff",40.22027778,-122.18,13.0,26.0,20.0,14.0,1017.0,0.0
+713,Lane Fire,52,Tehama,Off Hwy 36 in Paynes Creek,40.35068,-121.77866999999999,19.0,39.0,32.0,9.0,1014.0,0.0
+714,Mill Creek 1 Fire,12,Humboldt,"Hwy 96 & Mill Creek Road, northeast of the Town of Hoopa",41.079440000000005,-123.688056,8.0,34.0,25.0,4.0,1016.0,0.0
+715,Charlie Fire,19,Los Angeles,"Charlie Canyon Rd  and Tapia Canyon Rd, Castaic",34.48229,-118.60858,19.0,29.0,26.0,1.0,1015.0,0.0
+716,Five Fire,16,Kings,"off Interstate 5 and Milham Rd, Kettleman Hills area",35.97896,-119.98329,18.0,36.0,30.0,8.0,1015.0,0.0
+717,Tarina Fire,15,Kern,"Breckenridge Rd & Comanche Dr, east of Bakersfield",35.37444,-118.83556000000002,21.0,37.0,32.0,5.0,1013.0,0.0
+718,Georges Fire,14,Inyo,"off Hogback and Whitney Portal Road, Alabama Hills",36.6734,-118.21881,27.0,30.0,28.0,7.0,1014.0,0.0
+719,Snell Fire,28,Napa,"off Butts Canyon Rd and Snell Valley Rd, southeast of Middletown",38.69601,-122.44468,15.0,34.0,27.0,6.0,1015.0,0.0
+720,Chrome Fire,11,Glenn,"Hwy 162 and Forest Hwy 7, north of Elk Creek",39.64978,-122.58218000000001,13.0,26.0,22.0,9.0,1015.0,0.0
+721,Turkey Fire,27,Monterey,"near Highway 46 and Turkey Flats, near Parkfield",35.847778000000005,-120.343056,18.0,36.0,30.0,8.0,1015.0,0.0
+722,Hat Fire,45,Shasta,"Hwy 299 east and Fish Hatchery rd, northeast of Burney ",40.99344,-121.52225,15.0,37.0,31.0,4.0,1016.0,0.0
+723,Nees Fire,24,Merced,Interstate 5 and W Nees Ave. south of Los Banos ,36.85156,-120.77206000000001,11.0,24.0,20.0,7.0,1012.0,0.4
+724,Kerlin Fire,53,Trinity,"Kerlin Creek, west of Hyampom",40.616251,-123.52018999999999,15.0,32.0,26.0,3.0,1013.0,0.0
+725,Nurse Fire,48,Solano,"off Highway 12 and Nurse Blue Road, Suisun City",38.21396,-121.9424,13.0,22.0,18.0,19.0,1017.0,0.0
+726,Airline Fire,35,San Benito,Coalinga and Airline Highway,36.40755,-120.99322,10.0,31.0,24.0,8.0,1012.0,0.0
+727,Moffat Fire,14,Inyo,"Highway 395 and Moffat Ranch Road, north of Lone Pine",36.71537,-118.08448999999999,5.0,11.0,8.0,14.0,1011.0,0.0
+728,Patterson Fire,33,Riverside,"off Rawson Road and Royal Netherlands Road, south of Winchester",33.62924,-117.05991999999999,10.0,20.0,17.0,3.0,1013.0,0.0
+729,Front Fire,42,Santa Barbara,off Highway 166 and Sierra Madre Road,35.11416667,-120.09222220000001,19.0,31.0,26.0,5.0,1015.0,0.0
+730,Eel Fire,23,Mendocino,"off Indian Dick Road and Mendocino Pass Road, east of Covelo",39.82877,-123.08488999999999,14.0,34.0,28.0,5.0,1015.0,0.0
+731,Dale Fire,52,Tehama,"off Hwy 36 and Manton Rd, 10 miles NE of Red Bluff ",40.33682,-121.93908,19.0,37.0,32.0,4.0,1018.0,0.0
+732,Irish Fire,3,Amador,"off Irish Ridge Road and Carbondale Road, southeast of Plymouth",38.42623,-120.95408,21.0,35.0,30.0,3.0,1021.0,0.0
+733,Eighty Eight Fire,57,Yolo,"off County Road 88 and County Road 29, north of Winters",38.59694444,-121.9938889,19.0,40.0,34.0,7.0,1015.0,0.0
+734,Sunset Fire,31,Placer,"off Sunset Blvd. West and South Brewer Rd, northwest of Roseville",38.824259999999995,-121.451307,19.0,37.0,31.0,7.0,1014.0,0.0
+735,Tumbleweed Fire,18,Lassen,"off Highway 395 Southeast of Litchfield, East of Susanville",40.3768,-120.36403,12.0,27.0,22.0,7.0,1009.0,0.0
+736,Eastern Fire,35,San Benito,"Coalinga Road, east of Bitterwater ",36.378333000000005,-120.90116699999999,10.0,31.0,24.0,8.0,1012.0,0.0
+737,Hyatt Fire,18,Lassen,"Hyatt Ln and Standish Buntingville Rd, 5 miles east of Janesville",40.316137,-120.45053,12.0,29.0,25.0,6.0,1014.0,0.0
+738,San Ardo,27,Monterey,"Sargents Canyon and Deadman Gulch, San Ardo Oil Fields",35.95515,-120.86256000000002,16.0,27.0,24.0,3.0,1014.0,0.0
+739,Call Fire,15,Kern,"off Cow Flat Road and Highway 178, west of Lake Isabella",35.51777778,-118.6525,18.0,34.0,29.0,5.0,1017.0,0.0
+740,Pasqual Fire,37,San Diego,"San Pasqual Valley Rd, west of Ramona",33.078920000000004,-116.91845,21.0,34.0,29.0,4.0,1011.0,0.0
+741,Shippee Fire,4,Butte,"Midway Road and Esquon Road , 4 miles SE  of Durham",39.59872,-121.78208000000001,18.0,36.0,30.0,4.0,1013.0,0.0
+742,Bascom Fire,45,Shasta,"Off Bascom Rd & Hwy 44, in Millville",40.529090000000004,-122.17456999999999,21.0,39.0,33.0,9.0,1014.0,0.0
+743,Shingle Fire,9,El Dorado,"off South Shingle Road and Latrobe Road, west of Latrobe",38.539806,-121.059979,16.0,30.0,25.0,6.0,1012.0,0.0
+744,ONeals Fire,20,Madera,"Road 210 and Road 200, Oneal",37.10181,-119.623981,20.0,31.0,27.0,9.0,1013.0,0.0
+745,Alpha Fire,37,San Diego,"Basilone Rd and San Juan Rd, Camp Pendleton Marine Corps Base",33.389425,-117.50240500000001,14.0,25.0,22.0,6.0,1020.0,0.0
+746,South Fire,5,Calaveras,"Near Milton Road and South Gulch Road, Rancho Calaveras",38.061298,-120.872244,19.0,36.0,30.0,4.0,1016.0,0.0
+747,Skyline Fire,33,Riverside,"off Skyline Drive and Burrero Way, in an unincorporated county area west of Corona Cit",33.836101,-117.607577,25.0,32.0,29.0,10.0,1014.0,0.7
+748,Stoll Fire,52,Tehama,"Stoll Rd & Baker Rd, west of Red Bluff",40.18395,-122.27573999999998,21.0,38.0,33.0,9.0,1013.0,0.0
+749,Recycle Fire,37,San Diego,"Off Hwy 94 and Campo Truck Trail, Campo",32.63046,-116.46673999999999,13.0,27.0,22.0,6.0,1010.0,0.0
+750,Santa Cruz Fire,42,Santa Barbara,"Channel Islands National Park, Santa Cruz Island",34.0232,-119.76576000000001,14.0,16.0,15.0,14.0,1020.0,0.0
+751,Rangeland Fire,37,San Diego,off Rangeland Road and Highway 78 in Ramona,33.076239,-116.90298500000002,24.0,33.0,30.0,3.0,1012.0,0.0
+752,Steamboat Fire,47,Siskiyou,"Shasta Valley Wildlife Area, 4 miles south east of Montague ",41.70877,-122.47293,19.0,36.0,30.0,3.0,1017.0,0.0
+753,Petersburg Fire,47,Siskiyou,Petersburg and Caribou Creek Rd 3 MI SW of Cecilville,41.085,-123.051,15.0,33.0,28.0,5.0,1017.0,0.0
+754,Ribbon Fire,33,Riverside,Highway 74 and Ribbonwood Dr. near Pinyon,33.571763,-116.50005800000001,29.0,38.0,35.0,13.0,1011.0,0.1
+755,Par Fire,4,Butte,"off Par Four Way and Highway 162, west of the City of Oroville ",39.491737,-121.637759,17.0,29.0,25.0,7.0,1012.0,0.0
+756,Aliso Fire,30,Orange,"Aliso Woods Canyon Park, Community of Aliso Viejo",33.551320000000004,-117.72044,17.0,22.0,21.0,4.0,1014.0,0.0
+757,Ogilvy Fire,42,Santa Barbara,"Pie Canyon Rd and Mono-Alamar Rd, NE of Gibraltar Reservoir",34.576944,-119.61416000000001,21.0,28.0,26.0,7.0,1010.0,0.0
+758,Priest Fire,27,Monterey," Hwy 198 & Priest Valley Rd, east of San Lucas",36.18401,-120.69955,14.0,25.0,20.0,9.0,1011.0,0.0
+759,Roxie Fire (Formerly 1-1 Fire),18,Lassen,"Roxie Peconom Campground, west of Willard Cr, 10 mi west of Susanville",40.34822,-120.82497,18.0,34.0,30.0,7.0,1018.0,0.0
+760,Gorge Fire,45,Shasta,"off Highway 36 west and Beegum Gorge road, Platina area",40.36888889,-122.89055559999998,10.0,33.0,25.0,1.0,1017.0,0.0
+761,Santiago Fire,30,Orange,off Highway 241 and Santiago Canyon Road,33.787838,-117.746625,23.0,28.0,27.0,6.0,1011.0,0.0
+762,Euclid Fire,33,Riverside,off Highway 71 south of Euclid Avenue in Chino,33.925862,-117.654299,22.0,34.0,30.0,5.0,1010.0,0.0
+763,Irving Fire,21,Marin,"Samuel P Taylor State Park, northwest of the Community of Lagunitas",38.02447,-122.727,13.0,21.0,19.0,9.0,1012.0,0.0
+764,Sliger Fire,9,El Dorado,"Sliger Mine Rd and Hida Way, northwest of Georgetown",38.94388,-120.92611000000001,18.0,33.0,28.0,7.0,1012.0,0.0
+765,Parrots Fire,5,Calaveras,"Parrots Ferry Rd x Camp 9 Rd, South of the community of Vallecito",38.08424,-120.46078,18.0,32.0,28.0,7.0,1014.0,0.0
+766,Steele Fire,28,Napa,"off Arroyo Grande Drive and Steele Canyon Road, Capell",38.51943,-122.18353,16.0,39.0,32.0,6.0,1014.0,0.0
+767,Pico Fire,19,Los Angeles,"off West Pico Canyon Rd and Potrero Canyon Rd, Stevenson Ranch area",34.380390000000006,-118.60441000000002,22.0,38.0,33.0,6.0,1016.0,0.0
+768,Open Fire,11,Glenn,"Open Ridge, NW of Dry Creek Hill, 11 miles SW of Elk Creek",39.46543,-122.65581999999999,10.0,29.0,24.0,4.0,1018.0,0.0
+769,Shastina Fire,47,Siskiyou,"west of Rancho Hills, community of Lake Shastina, north of Weed",41.65935,-122.48556,10.0,20.0,16.0,3.0,1017.0,0.0
+770,Sterling,36,San Bernardino,"Sterling Ave and Foothill Dr, City of San Bernardino",34.15475,-117.24436599999999,22.0,33.0,30.0,5.0,1012.0,0.0
+771,Market Fire,54,Tulare,"Road 208 and Avenue 380, 5 miles north of Woodlake",36.47766,-119.10433,10.0,24.0,19.0,2.0,1016.0,0.0
+772,Idria Fire,35,San Benito,"Panoche Rd and New Idria Rd, west of San Joaquin",36.59036,-120.82355,21.0,38.0,33.0,10.0,1013.0,0.0
+773,Bridle Fire,43,Santa Clara,"off Bridal Path Drive and Butch Drive, east of Gilroy",37.06367,-121.53586000000001,18.0,36.0,31.0,1.0,1020.0,0.0
+774,Windmill Fire,42,Santa Barbara,"Highway 246, west of Buellton",34.62412,-120.22298,16.0,26.0,23.0,6.0,1013.0,0.5
+775,Cobble Fire,10,Fresno,"Cobblestone Lane and Thernal Road, Tivy Valley",36.75581,-119.42172,11.0,22.0,19.0,7.0,1017.0,0.0
+776,Western Fire,23,Mendocino,"Off Highway 101, south of Hopland",38.8802,-123.0496,12.0,35.0,28.0,7.0,1014.0,0.0
+777,Cache Fire,17,Lake,"Hwy 20 and New Long Valley Rd, Clear Lake Oaks          ",39.02017,-122.57496,13.0,31.0,25.0,4.0,1015.0,0.0
+778,Jelly Fire,52,Tehama,"Off Jellysferry Rd, north of Red Bluff",40.31759,-122.21032,12.0,30.0,25.0,2.0,1015.0,0.0
+779,Balch Fire,54,Tulare,"off Balch Park Road and Yokohl Drive, northeast of Porterville",36.21634,-118.82988999999999,24.0,39.0,34.0,2.0,1015.0,0.0
+780,Box Fire,36,San Bernardino,"off Interstate 15 and Kenwood Ave, north of San Bernardino",34.22526,-117.40966999999999,28.0,44.0,39.0,6.0,1015.0,0.0
+781,Sam Fire,27,Monterey,"Sam Jones and Jolon Rd, Fort Hunter Liggett ",35.9352,-121.11936000000001,14.0,24.0,21.0,9.0,1017.0,0.0
+782,Sheep Fire,15,Kern,"Comanche Point Rd, 3 miles south of Arvin",35.1234,-118.72905,13.0,31.0,26.0,4.0,1011.0,0.0
+783,Peach Fire ,23,Mendocino,"off Peachland Road and Highway 128, north of the Community of Boonville",39.038859,-123.38493000000001,8.0,28.0,23.0,1.0,1018.0,0.0
+784,3-16 Fire,18,Lassen,near Little Valley,40.946659999999994,-121.27049,20.0,35.0,31.0,3.0,1016.0,0.0
+785,Horn Fire,18,Lassen,"Horn Road and Mail Route Road, 9 miles southeast of Termo  ",40.83116,-120.19336000000001,-5.0,7.0,2.0,9.0,1028.0,0.0
+786,Redinger Fire,20,Madera,"Mammoth Road, 29 miles north of Clovis",37.179167,-119.43166699999999,17.0,28.0,24.0,5.0,1015.0,0.0
+787,Plaza Fire,24,Merced,off Highway 33 and south of Highway 152,37.056944,-121.01638,9.0,24.0,19.0,14.0,1014.0,0.0
+788,Spring 2 Fire,17,Lake,"Pawnee Dr. and New Long Valley Dr., northeast of Clearlake ",39.06715,-122.59788999999999,16.0,35.0,30.0,8.0,1017.0,0.0
+789,Cruces Fire,42,Santa Barbara,"off Highway 1 and Highway 101, North of Gaviota",34.54305556,-120.31805559999998,15.0,26.0,23.0,2.0,1015.0,0.0
+790,Anchor Fire,10,Fresno,"Anchor Ave and Hills Valley Rd, north of Orange Cove",36.696878999999996,-119.30449899999999,16.0,34.0,28.0,1.0,1013.0,0.0
+791,Stony Fire,6,Colusa,"off Stonyford Road and Lake Park, west of Maxwell   ",39.2976,-122.51201200000001,15.0,29.0,25.0,3.0,1012.0,0.0
+792,Main Fire,33,Riverside,"Main Street and Interstate 15, City of Lake Elsinore",33.67815,-117.32281,12.0,21.0,18.0,3.0,1013.0,0.0
+793,Tornado Fire,33,Riverside,"Via Santa Rosa near Via Tornado, southwest of Temecula",33.504964,-117.148204,15.0,29.0,25.0,1.0,1020.0,0.0
+794,Romero Fire,24,Merced,"Hwy 152 & Lower Cottonwood, west of Los Banos",37.08529,-121.09353999999999,19.0,35.0,31.0,10.0,1009.0,0.0
+795,Bumper Fire,9,El Dorado,"Bumper Rd & China Hill Rd, east of Frenchtown",38.645,-120.87416699999999,20.0,35.0,31.0,3.0,1014.0,0.0
+796,Heart Fire,23,Mendocino,"Hwy 101 at mile marker 38, west of Redwood Valley (Mendocino County) ",39.279833,-123.258319,13.0,31.0,25.0,1.0,1014.0,0.0
+797,Omega Fire,9,El Dorado,"off Omega Lane and Alpha Circle, west of Pilot Hill",38.82128,-121.03918,21.0,36.0,32.0,5.0,1014.0,0.0
+798,Benton Fire,33,Riverside,off Benton Road and Crams Corner Drive in Anza,33.56349,-116.732032,16.0,30.0,26.0,5.0,1013.0,0.0
+799,Stuhr Fire,50,Stanislaus,"Interstate 5 and Stuhr Rd, South of Patterson",37.32744,-121.10903,21.0,37.0,32.0,6.0,1011.0,0.0
+800,Lebec Fire,15,Kern,"off Lebec Road and Lebec Oaks Road, North of Lebec",34.86022,-118.87881000000002,22.0,33.0,29.0,7.0,1013.0,0.7
+801,Adams Fire,52,Tehama,"off Adams Road at Barr Lane, southwest of Cottonwood ",40.346652,-122.308479,11.0,24.0,17.0,8.0,1019.0,0.0
+802,Raymond Fire,20,Madera,"off Road 407 and Road 600, Community of Raymond",37.14663,-119.91223000000001,17.0,36.0,29.0,9.0,1008.0,0.0
+803,Creston FIre,40,San Luis Obispo,"off Creston Road, east of Paso Robles",35.58354,-120.62413500000001,13.0,28.0,23.0,2.0,1010.0,0.0
+804,Happy Fire,42,Santa Barbara,"Alisos Canyon Rd, Santa Ynez, north of Santa Barbara ",34.74245,-120.18236,10.0,21.0,17.0,14.0,1016.0,0.0
+805,Agua Fire,37,San Diego,"Hwy 76 and Agua Tibia Ranch Rd, 7.5 miles east of I-15",33.35505,-117.03133999999999,9.0,20.0,16.0,5.0,1010.0,0.0
+806,Camino Fire,40,San Luis Obispo,Off Lopez Drive east of Arroyo Grande,35.17693,-120.48861000000001,17.0,30.0,25.0,7.0,1018.0,0.0
+807,3-10 Fire,18,Lassen,"Hwy 299 E and Little Valley Rd, Dixie Valley Peak, 16 miles east of Fall River Mills",40.95234,-121.21597,18.0,31.0,27.0,1.0,1015.0,0.0
+808,Bruce Fire,7,Contra Costa,"off Bruce Lane and Joseph Lane, east of San Ramon",37.79718,-121.85311000000002,19.0,32.0,28.0,8.0,1015.0,0.0
+809,Experimental Fire,20,Madera,"Off Hwy 41 & Rd 406, south of ONeals",37.0979,-119.75307,14.0,23.0,20.0,4.0,1011.0,0.1
+810,Keenbrook Fire,36,San Bernardino,"Cajon Blvd and Kenwood Ave, Devore",34.24138,-117.42431,23.0,37.0,32.0,3.0,1013.0,0.0
+811,Copper Fire,18,Lassen,"McKenzie Meadows and Hwy 36, 15 miles west of Susanville",40.336420000000004,-120.93005,7.0,23.0,17.0,2.0,1017.0,0.0
+812,Boyer Fire,22,Mariposa,"off Boyer Road and Fox Hollow Lane, Community of Bootjack",37.47677,-119.84298999999999,12.0,29.0,25.0,7.0,1008.0,0.0
+813,Kelley Fire,25,Modoc,"off Hwy 299 E & County Rd 74, west of Devils Garden Conservation Camp",41.50105,-120.61108,16.0,32.0,29.0,7.0,1017.0,0.0
+814,Crestline Fire,45,Shasta,"Crest Line Dr and Hunt Rd, Montgomery Creek, west of Burney",40.824,-121.90215,18.0,35.0,31.0,3.0,1018.0,0.0
+815,Hale Fire,43,Santa Clara,at Hale Ave and Monterey St. in Morgan Hill ,37.163594,-121.702547,15.0,33.0,27.0,5.0,1016.0,0.0
+816,Carder Fire,17,Lake,"Adobe Creek Rd & Peterson Ln, Kelseyville",38.91152,-122.86854,17.0,34.0,29.0,4.0,1014.0,0.1
+817,Tuscan Fire,52,Tehama,"Hwy 36 E and Tuscan Lookout Road, 7 miles NE of Red Bluff near Hog Lake",40.27754,-122.11375,23.0,40.0,35.0,2.0,1015.0,0.0
+818,Haycamp Fire,27,Monterey,"Nacimento Fergusson Road and Hayfork Road, west of the community of Lockwood",35.96689,-121.28185,12.0,21.0,17.0,12.0,1021.0,0.0
+819,Buckingham Fire,7,Contra Costa,"Buckingham Dr and Moraga Rd, southwest of Walnut Creek ",37.86339,-122.12351000000001,16.0,26.0,22.0,10.0,1014.0,0.0
+820,Simmons Fire,4,Butte,"Off Highway 162 & Simmons Rd, Lake Oroville",39.57202,-121.43131000000001,23.0,39.0,34.0,8.0,1015.0,0.0
+821,Martinez Fire,33,Riverside,"Off Martinez Road & Avenue 66, Thermal",33.56921,-116.154398,24.0,42.0,38.0,15.0,1013.0,0.0
+822,Iron Fire,7,Contra Costa," off Montbretia Way and Ironwood, East of San Ramon",37.779209,-121.908976,15.0,27.0,23.0,7.0,1016.0,0.0
+823,Masonic Fire,45,Shasta,"Lake Blvd & Masonic Ave, Redding",40.60866,-122.38366,11.0,24.0,18.0,13.0,1017.0,0.0
+824,Adobe Fire,37,San Diego,"I-8 and College Ave, San Diego City",32.78031,-117.06782,17.0,25.0,23.0,4.0,1012.0,0.0
+825,Mustang Fire,40,San Luis Obispo,"Paso Robles Rd & Adelaida Rd, west of Paso Robles",35.64917,-120.71907,17.0,29.0,25.0,4.0,1015.0,0.0
+826,Martin Fire,47,Siskiyou,"Martin Dr. and Stanton Drive, NE of Lake Shastina",41.58233,-122.33769,13.0,28.0,23.0,1.0,1017.0,0.0
+827,Winchester Fire,33,Riverside,"Hidden Falls Road, Winchester",33.640051,-117.08535400000001,17.0,28.0,24.0,3.0,1013.0,0.0
+828,Brushy Fire,23,Mendocino,"near Dos Rios, off Highway 162, East of Highway 101 and West of Covelo",39.62194,-123.28773999999999,2.0,22.0,13.0,8.0,1020.0,0.0
+829,Terra Fire,33,Riverside,"off Terramor Road and Temescal Canyon Road, community of Temescal Valley",33.759722,-117.460278,30.0,39.0,36.0,3.0,1011.0,0.0
+830,Marcel Fire,15,Kern,"off Marcel Drive and Woodford-Tehachapi Road, west of Tehachapi",35.17156,-118.51651000000001,19.0,30.0,26.0,12.0,1017.0,0.0
+831,Horse Creek Fire,54,Tulare,"Mineral King Rd, Ash Mountain area",36.42638,-118.70443,25.0,37.0,34.0,5.0,1015.0,0.0
+832,Nimshew Fire,4,Butte,"Nimshew Rd & Centerville Rd, Magalia",39.84151,-121.62168,13.0,29.0,24.0,8.0,1013.0,0.0
+833,3-18 Fire,18,Lassen,"Punkin Center Road and Juniper Road, 6 miles southwest of the Community of Bieber",41.08583,-121.05722,20.0,35.0,31.0,3.0,1016.0,0.0
+834,Alhambra Fire,7,Contra Costa,"off Highway 4 and Alhambra Ave, Martinez",37.996179999999995,-122.14097,16.0,31.0,26.0,9.0,1018.0,0.0
+835,Sobrante Fire,33,Riverside,"El Sobrante Road at McAllister Street, Lake Matthews",33.85852,-117.43521000000001,27.0,34.0,31.0,7.0,1012.0,0.0
+836,Aqueduct Fire,10,Fresno,"25th Ave & Ultica Ave, south of Kettleman City",35.92436,-119.94083,9.0,18.0,14.0,21.0,1017.0,0.1
+837,Ager Fire,47,Siskiyou,"off Ager Road, northeast of Montague",41.791859,-122.513883,9.0,21.0,17.0,4.0,1015.0,0.0
+838,Soboba Fire,33,Riverside,"off Soboba Rd. San Jacinto, northeast of San Jacinto City, Soboba ",33.80406,-116.93188,15.0,33.0,29.0,4.0,1011.0,0.0
+839,Vineyard Fire,40,San Luis Obispo,"Estrella Rd and Airport Rd, North of Paso Robles",35.71859,-120.64028,17.0,28.0,24.0,3.0,1011.0,0.0
+840,Kelsey Fire,17,Lake,"Kelsey Creek Rd & Conklin Ln, Kelseyville",38.918420000000005,-122.85276,16.0,37.0,29.0,3.0,1011.0,0.0
+841,Land Fire,33,Riverside,"Hwy 60 and Jack Rabbit Trail, Beaumont",33.946896,-117.066643,20.0,31.0,27.0,4.0,1013.0,0.0
+842,Glen Fire,7,Contra Costa,Glen Canyon Circle and  Chaparral Drive  SE of Pittsburg,37.99113,-121.86473000000001,18.0,37.0,31.0,6.0,1016.0,0.0
+843,Plymire Fire,52,Tehama,"Plymire Rd and Deer Valley Rd, West of Red Bluff ",40.201826000000004,-122.29388,12.0,29.0,24.0,3.0,1019.0,0.0
+844,Wagner Fire,22,Mariposa,"Texas Hill Rd and Bondurant Mine Rd, east of Coulterville",37.69965,-120.0545,19.0,34.0,29.0,9.0,1014.0,0.0
+845,Niles Fire,1,Alameda," off Palomares Road Niles Canyon Road, northwest of Sunol",37.61158,-121.94181999999999,13.0,22.0,19.0,4.0,1028.0,0.0
+846,Vallecitos Fire,1,Alameda,"off Vallecitos Road and Little Valley, south of Livermore",37.627119,-121.806775,13.0,26.0,22.0,13.0,1009.0,0.0
+847,Portola Fire ,19,Los Angeles,off Westwanda Drive and Benedict Canyon Drive,34.110516,-118.42788600000002,18.0,30.0,26.0,5.0,1010.0,0.0
+848,Jacques Fire,37,San Diego,"De Luz Rd and Wisecarver fuel break, Camp Pendleton Marine Corps Base",33.40178,-117.27467,15.0,27.0,23.0,3.0,1013.0,0.0
+849,Ethanac Fire,33,Riverside,"Highway 74 and Ethanac Rd, City of Perris",33.742,-117.28188999999999,18.0,31.0,28.0,2.0,1012.0,0.0
+850,Johnson Fire,12,Humboldt,Highway 169 in Pecwan,41.34453,-123.85404,12.0,37.0,29.0,5.0,1016.0,0.1
+851,Keeler Fire,43,Santa Clara,"Keeler Court and Santa Teresa Blvd., south of San Jose",37.21803,-121.76828,11.0,26.0,23.0,4.0,1017.0,0.0
+852,Iron Gate Fire,47,Siskiyou,1 mile northwest of Iron Gate Dam,41.940459999999995,-122.43933,4.0,18.0,13.0,3.0,1015.0,0.0
+853,Essex Fire,25,Modoc,"East of Essex Reservoir, northeast of Canby.",41.521229999999996,-120.72362,10.0,29.0,24.0,5.0,1015.0,0.0
+854,Woodchuck Fire,33,Riverside,"Hwy 79 & Woodchuck Road, Temecula",33.467999,-117.00382900000001,15.0,29.0,25.0,1.0,1020.0,0.0
+855,Casner Fire,37,San Diego,"off Old Julian Highway and Creek Hollow, west of Ramona",33.05737,-116.77153999999999,21.0,34.0,30.0,2.0,1010.0,0.0
+856,3-2 Fire,18,Lassen,"off Homestead Ranch Road, southeast of Doyle ",39.99309,-120.02136999999999,15.0,33.0,26.0,5.0,1017.0,0.0
+857,Madison FIre,57,Yolo,"County Road 25 and County Road 86A, community of Madison north of Winters       ",38.64953,-122.01762,12.0,30.0,24.0,3.0,1018.0,0.0
+858,Ranchera Fire,45,Shasta,"Ranchera Road and Hill Boulevard, Shasta Lake City",40.678889,-122.40055600000001,20.0,31.0,27.0,6.0,1013.0,0.0
+859,Cinnamon Fire,37,San Diego,"Old Julian Way & Cinnamon Rock Rd, east of Ramona",33.04898,-116.78928,21.0,27.0,25.0,6.0,1013.0,0.0
+860,Coldwell Fire,10,Fresno,"Hwy 198 and Coldwell Ln, 10 miles west of Coalinga",36.10499,-120.55323999999999,17.0,31.0,26.0,5.0,1016.0,0.0
+861,Gray Fire,36,San Bernardino,Muscoy,34.171786,-117.35606000000001,23.0,35.0,32.0,6.0,1015.0,0.0
+862,School Fire,20,Madera,"in the area of Road 230 and Road 225, North Fork",37.227909999999994,-119.50461000000001,21.0,33.0,30.0,5.0,1016.0,0.0
+863,Meamber Fire,47,Siskiyou,"Meamber Creek Road, 8 miles west of Fort Jones",41.64805,-122.98442,8.0,23.0,19.0,6.0,1016.0,0.0
+864,Resort Fire,40,San Luis Obispo,"Lake Nacimiento, 10 miles west of Paso Robles",35.75737,-120.91793,18.0,30.0,26.0,3.0,1013.0,0.0
+865,Bellagio Fire,28,Napa,"American Canyon Rd, East of American Canyon",38.16303,-122.23058999999999,10.0,22.0,19.0,5.0,1012.0,0.0
+866,Volcan Fire,37,San Diego,"Volcan Road and Farmer Road, north of the community of Julian",33.12213,-116.58758999999999,10.0,34.0,25.0,15.0,1009.0,0.0
+867,Dark Fire,4,Butte,"south of Rich Gulch, near Lake Oroville",39.66492,-121.51772,18.0,35.0,30.0,8.0,1018.0,0.0
+868,Cornerstone Fire,20,Madera,"Cornerstone Court, Yosemite Lakes",37.198170000000005,-119.80413999999999,16.0,34.0,29.0,6.0,1017.0,0.0
+869,Grande Fire,33,Riverside,"Vuelta Grande Rd and Carancho Rd, Community of De Luz",33.47413,-117.31468000000001,16.0,32.0,26.0,1.0,1012.0,0.0
+870,Bear Fire ,44,Santa Cruz,"off Bear Creek Road and Mayfair Road, Boulder Creek north of Santa Cruz",37.12857,-122.12036,14.0,24.0,19.0,5.0,1018.0,0.0
+871,Green Hill Fire,12,Humboldt,off Highway 299 in the area of Green Hill,40.888785,-124.00184899999999,10.0,19.0,15.0,7.0,1025.0,0.0
+872,Powellton Fire,4,Butte,"Upper Powellton Rd and Skyway, north of Stirling City",39.93427,-121.54103,9.0,24.0,18.0,12.0,1024.0,0.0
+873,Keller Fire,33,Riverside,off Scenic View Drive and Keller Road,33.627006,-117.17173100000001,23.0,31.0,28.0,3.0,1014.0,0.0
+874,Syar Fire,28,Napa,Napa Vallejo Highway and Syar Industrial Way,38.272290000000005,-122.26388999999999,18.0,35.0,29.0,5.0,1014.0,0.0
+875,Lott Fire,47,Siskiyou,"off Lott Rd and Bunny Ln, 15 miles north of Weed ",41.632373,-122.37985,17.0,35.0,30.0,1.0,1017.0,0.0
+876,Building Fire,37,San Diego,off Highway 94 and Community Building Road near Dulzura,32.619855,-116.764733,25.0,39.0,36.0,4.0,1013.0,0.0
+877,Llano Fire,4,Butte,"at the Llano Seco Ranch, south of Chico",39.6139,-121.954098,19.0,37.0,32.0,7.0,1014.0,0.0
+878,Ranchita Fire,27,Monterey,"Ranchita Canyon Road, southwest of the town of Parkfield",35.77017,-120.57833000000001,16.0,30.0,26.0,1.0,1016.0,0.0
+879,Pallet Fire,49,Sonoma,"Hwy 12 and Broadway, Schellville ",38.245151,-122.44408,10.0,25.0,21.0,7.0,1012.0,0.0
+880,Jardin Fire,33,Riverside,"Calle Jardin  and Calle Uva, Temecula",33.450140000000005,-117.22215,15.0,27.0,23.0,1.0,1013.0,0.0
+881,70th Fire,33,Riverside,"Highway 86 Expressway and Avenue 70, Thermal",33.53924,-116.10231,14.0,35.0,30.0,11.0,1011.0,0.0
+882,Honey Flooding,4,Butte,"Lower Skyway and Lower Honey Run, Between Chico and Paradise ",39.71217,-121.77385,8.0,12.0,10.0,18.0,1000.0,9.6
+883,Easy Fire,56,Ventura,"West Easy Street and West Los Angeles Avenue, Simi Valley",34.282179,-118.803389,8.0,15.0,12.0,10.0,1016.0,0.0
+884,Rawson Fire,52,Tehama,"Gyle Road and Long Dirt Road, Northwest of Corning",40.001709999999996,-122.25421000000001,8.0,20.0,15.0,37.0,1015.0,0.0
+885,Hill Fire ,33,Riverside,"Granite Hill and Pyrite Street, in Jurupa Valley ",34.01778,-117.4625,12.0,19.0,15.0,7.0,1018.0,0.0
+886,Cross Fire,"27,40",Monterey,Indian Valley Road and Monterey County Line near Camp Robert's,35.790690000000005,-120.73102,11.0,24.0,18.0,3.0,1011.0,0.0
+887,Mud Fire ,10,Fresno,"Los Gatos Creek Road and Joaquin Rocks Lookout Road, east of Coalinga",36.319291,-120.46018899999999,8.0,20.0,15.0,13.0,1015.0,0.0
+888,Wolf Fire,33,Riverside,"Wolfskill Truck Road near Silver Creek Drive, south of Banning",33.8615,-116.897333,11.0,24.0,19.0,4.0,1010.0,0.0
+889,Merrill Fire,7,Contra Costa,"Merrill Circle N and Merrill Dr, Moraga",37.828267,-122.103867,14.0,24.0,19.0,9.0,1013.0,0.0
+890,Rains Fire,50,Stanislaus,"Frank Raines Park on Del Puerto Canyon Road, west of Patterson",37.420988,-121.371276,18.0,39.0,33.0,5.0,1013.0,0.0
+891,Whiskey Fire,5,Calaveras,near the Whiskey Creek Day Use area of New Hogan Lake,38.115224,-120.78068,13.0,36.0,31.0,6.0,1013.0,0.0
+892,La Barisa Fire,36,San Bernardino,Off La Barisa Dr & Hwy 247 in Landers,34.202883,-116.4449,27.0,39.0,35.0,7.0,1011.0,0.0
+893,Chaparral Fire,9,El Dorado,Chaparral Drive and Latrobe Road in Latrobe,38.538467,-120.96510500000001,6.0,18.0,13.0,6.0,1011.0,0.1
+894,Mid Fire,1,Alameda,"patterson pass and mid way, eastern",37.093243,-121.586846,14.0,31.0,26.0,5.0,1014.0,0.0
+895,Kincade Fire,49,Sonoma,"John Kincade Road and Burned Mountain Road, northeast of Geyserville",38.792458,-122.78005300000001,14.0,32.0,25.0,6.0,1017.0,0.0
+896,Tucker Fire,25,Modoc,"Hwy 139 and Tucker Butte Rd, 6 miles SW of Clear Lake Reservoir",41.79591,-121.260305,9.0,32.0,26.0,8.0,1021.0,0.0
+897,Taboose Fire,14,Inyo,south west of Big Pine and north west of Aberdeen,37.034,-118.345,9.0,19.0,15.0,4.0,1017.0,0.0
+898,Maria Fire ,56,Ventura,"off of Bradley Road and Solano Verde Dr, Top of South Mt, Santa Paula",34.302212,-118.997115,9.0,25.0,16.0,21.0,1023.0,0.0
+899,Red Bank Fire,52,Tehama,"Off Hammer Loop Road and Petty John Road, West of Red Bluff ",40.12,-122.64,18.0,36.0,30.0,11.0,1014.0,0.4
+900,Saddle Ridge Fire,19,Los Angeles,"Saddle Ridge Rd, Sylmar",34.329879999999996,-118.48161,13.0,23.0,20.0,6.0,1011.0,0.0
+901,R-1 Fire,18,Lassen,"Hagata Canyon, east of Eagle Lake",40.593,-120.581,14.0,32.0,25.0,4.0,1012.0,0.0
+902,Cave Fire (No Longer a CAL FIRE Incident),42,Santa Barbara,Highway 154 and E Camino Cielo near Painted Cave in the Los Padres National Forest,34.5025,-119.785,9.0,22.0,16.0,7.0,1015.0,0.0
+903,Long Valley Fire ,18,Lassen,"Off Highway 395 and Red Rock Road, North of Hallelujah Junction",39.892222,-120.02972199999999,11.0,30.0,24.0,3.0,1012.0,0.0
+904,Tenaja,33,Riverside,"Tenaja Road and Clinton Keith Road, in La Cresta",33.528469,-117.27315700000001,21.0,34.0,30.0,2.0,1010.0,0.0
+905,McMillan Fire,40,San Luis Obispo,"Highway 46 East and McMillan Canyon Road, North of Shandon",35.66318,-120.41128,17.0,32.0,28.0,5.0,1014.0,0.0
+906,Border 8 Fire,62,Mexico,"City of Tecate, southeast of San Diego ",32.573437,-116.65873500000001,21.0,32.0,28.0,2.0,1011.0,0.0
+907,West Butte Fire,51,Sutter,"North Butte Rd & West Butte Rd, northeast of Colusa",39.28926,-121.85906000000001,15.0,28.0,24.0,23.0,1018.0,0.0
+908,Boulder Fire,40,San Luis Obispo,"off Highway 58 and Boulder Creek Road, California Valley",35.343761,-119.91371699999999,24.0,34.0,31.0,3.0,1013.0,0.0
+909,W1 McDonald Fire,18,Lassen,"Cold Springs Rd and McDonald Peak, 11 miles southeast of Madeline",40.943799,-120.27529799999999,9.0,27.0,23.0,4.0,1013.0,0.0
+910,Gillis Fire,40,San Luis Obispo,Gillis Canyon and South East of Shandon,35.63111111,-120.26916670000001,12.0,27.0,22.0,6.0,1015.0,0.0
+911,Belmont Fire,40,San Luis Obispo,"Belmont & Costa Mesa Rd, In California Valley",35.307590000000005,-119.96498000000001,13.0,23.0,20.0,4.0,1013.0,0.0
+912,Marsh Complex,7,Contra Costa,"Marsh Creek Rd and Morgan Territory Rd, southwest of Brentwood",37.908362,-121.872941,18.0,34.0,28.0,10.0,1015.0,0.0
+913,Getty Fire ,19,Los Angeles,East Sepulveda Blvd and I-405 near Los Angeles City ,34.098191,-118.47871699999999,17.0,26.0,21.0,6.0,1015.0,0.0
+914,Burris Fire,23,Mendocino,"Potter Valley Road and  Highway 20, east of Calpella in Mendocino County",39.224309999999996,-123.12886999999999,4.0,20.0,13.0,5.0,1010.0,0.0
+915,Jerry Fire,33,Riverside,"off Gilman Springs Road, between Highway 60 and Jack Rabbit Trail",33.919507,-117.103765,14.0,21.0,18.0,6.0,1009.0,0.0
+916,Caliente Fire,37,San Diego,"Off Airway Road and Caliente Ave, in San Ysidro ",32.575556,-117.02666699999999,20.0,28.0,25.0,6.0,1014.0,0.0
+917,Real Fire,42,Santa Barbara,Calle Real & Hwy 101 west of El Capitan ,34.484722,-120.19083300000001,10.0,23.0,18.0,14.0,1011.0,0.0
+918,Reche Fire,33,Riverside,"Reche Canyon Rd and Jordan Dr, Moreno Valley",33.975405,-117.20706799999999,12.0,25.0,20.0,4.0,1011.0,0.0
+919,46 Fire,33,Riverside,"5300 block of 46th Street, East Jurupa Valley ",33.985972,-117.414111,13.0,25.0,20.0,9.0,1024.0,0.0
+920,Hwy Fire,4,Butte,"Off of Hwy 99 and Hwy 149, Southeast of Chico",39.622137,-121.693472,11.0,20.0,16.0,7.0,1007.0,0.0
+921,Hollow Fire,39,San Joaquin,"West Corral Hollow Road, Carnegie State Vehicular Recreational Area, southwest of Tracy",37.632059999999996,-121.53838200000001,15.0,28.0,24.0,11.0,1013.0,0.0
+922,Rams Horn Fire,53,Trinity,"Highway 3 and Bear Creek Loop, Northeast of Coffee Creek",41.150392,-122.63410800000001,13.0,28.0,23.0,4.0,1018.0,0.0
+923,Snail Fire,56,Ventura,3 miles northwest of Reyes Creek,34.71011,-119.3547,19.0,29.0,26.0,7.0,1012.0,0.0
+924,Snowstorm Fire,18,Lassen,"Snowstorm Rd, south of Ravendale",40.679318,-120.39276799999999,10.0,27.0,23.0,6.0,1016.0,0.0
+925,R-6 Fire,18,Lassen,"North of Fredonyer Peak, southwest of Termo",44.733999999999995,-120.60600000000001,13.0,26.0,21.0,6.0,1017.0,0.2
+926,Citrus Fire,54,Tulare,"Off Rd 256 & Ave 220, east of Strathmore",36.18479,-118.99229,17.0,29.0,25.0,7.0,1010.0,0.7
+927,Sycamore Fire,33,Riverside,"Kangaroo Court and River Ridge Drive, Riverside ",33.9369,-117.3063,24.0,32.0,29.0,1.0,1014.0,0.0
+928,Henthorne Fire,53,Trinity,"Yolla Bolly Middle Eel Wilderness near Henthorne Lake, North of Covelo",40.062304,-123.222196,14.0,32.0,25.0,4.0,1014.0,0.5
+929,Kidder 2 Fire,47,Siskiyou,"Marble Mountain Wilderness and Kidder Creek, Northwest of Etna",41.492974200000006,-123.2129356,0.0,26.0,16.0,1.0,1019.0,0.0
+930,Moose Fire,23,Mendocino,Off Moose Rd & Bus McGall Rd northwest of Hopland,39.005262,-123.195306,10.0,32.0,26.0,5.0,1016.0,0.0
+931,Lopez Fire,40,San Luis Obispo,"Upper Lopez Canyon Road & Wittenberg Creek Rd, southeast of San Luis Obispo",35.214364,-120.45588300000001,15.0,27.0,22.0,5.0,1013.0,0.0
+983,Yucca Fire,33,Riverside,Highway 371 cross of Yucca Road,33.4506,-116.857817,16.0,28.0,25.0,2.0,1007.0,0.0
+932,Wolf Fire ,33,Riverside,"Off of Lamb Canyon Road and California Avenue, Southeast of Beaumont",33.911,-116.980528,16.0,28.0,25.0,4.0,1013.0,0.0
+933,Madera Fire ,20,Madera,"Off Road 33 and Highway 145, Bonadelle",37.016944,-119.93416699999999,18.0,40.0,33.0,21.0,1016.0,0.0
+934,Merced Fire ,24,Merced,"Off of Merced Fall Road and La Grange Road, East of Snelling",37.312877,-120.242411,13.0,33.0,27.0,14.0,1017.0,0.0
+935,Malech Fire,43,Santa Clara,"Malech Rd & Bailey Rd, South San Jose",37.21638,-121.70768000000001,16.0,34.0,28.0,4.0,1015.0,0.0
+936,Lumgrey Fire,47,Siskiyou,"off Highway 96 and Lumgrey Road, West of Gottsville",39.28926,-121.85906000000001,17.0,40.0,31.0,8.0,1009.0,0.0
+937,Milton Fire ,50,Stanislaus,"Off of Milton Road and Highway 4, North of Oakdale ",37.944751000000004,-120.84371999999999,17.0,38.0,31.0,10.0,1016.0,0.0
+938,Hillside Fire,36,San Bernardino,"off of W 59th and Hill Dr, in San Bernardino National Forest",34.183,-117.285,6.0,20.0,15.0,12.0,1025.0,0.0
+939,Cypress Complex,7,Contra Costa,"East Cypress Rd and Bethel Island Road, Knightsen, CA  ",37.99136,-121.64118,13.0,22.0,18.0,12.0,1008.0,0.0
+940,Olivas Fire,56,Ventura,"Olivas Park Drive, near the Buenaventura Golf Course",34.23955,-119.20187,18.0,26.0,23.0,18.0,1015.0,0.0
+941,McMurray Fire,42,Santa Barbara,"McMurray Rd and Hwy 101, north of Buellton",34.630919,-120.18736799999999,14.0,27.0,22.0,13.0,1013.0,0.0
+942,Doyle Fire,18,Lassen,"Off Old Highway and Cowboy Joe Road, Northwest of Doyle",40.072739,-120.158273,11.0,27.0,23.0,5.0,1014.0,0.0
+943,Sargent Fire,27,Monterey,"Sargent Canyon Road and Sheep Canyon, San Ardo Oil Fields",35.95191,-120.8092,12.0,26.0,22.0,3.0,1016.0,0.0
+944,Vulcan Fire,15,Kern,Off Highway 166 at Wind Wolves Preserve,35.03855,-119.19453999999999,14.0,24.0,22.0,2.0,1015.0,0.0
+945,Bautista Fire,33,Riverside,"Bautista Road and Tripp Flats, West of Lake Hemet",33.635,-116.801111,20.0,31.0,28.0,3.0,1012.0,0.0
+946,Cottage Fire,45,Shasta,"Dersch Rd and Cottage Hill Dr, northeast of Anderson ",40.484328999999995,-122.159393,24.0,40.0,35.0,7.0,1018.0,0.0
+947,Spruce Fire,54,Tulare,"Off Spruce Rd & Myer Dr, east of Exeter",36.28001,-119.10973999999999,18.0,29.0,25.0,6.0,1011.0,0.0
+948,Sky Fire ,7,Contra Costa,"Commings Skyway and I-80, south of Crockett",38.03545,-122.2241,13.0,20.0,17.0,3.0,1008.0,0.0
+949,Dyer Fire,31,Placer,"Watt Ave & Dyer Road, northeast of Rio Linda",38.738170000000004,-121.39419,14.0,27.0,23.0,12.0,1012.0,0.0
+950,Glencove Fire ,48,Solano,"Glen Cove Pkwy and Lookout Dr, south of Vallejo",38.07205,-122.22463,13.0,20.0,17.0,3.0,1008.0,0.0
+951,South Fire ,56,Ventura,Off of South Mountain Rd and Balcom Canyon Road East of Santa Paula,34.366111,-118.96,15.0,33.0,27.0,1.0,1013.0,0.0
+952,Shady Fire,33,Riverside,"off Airport Boulevard and Shady Lane in Thermal, southwest of Coachella",33.650237,-116.17253400000001,9.0,26.0,23.0,16.0,1013.0,0.0
+953,Goose 2 Fire,25,Modoc,"Off Highway 395 and South Willow Ranch Road, West of Fort Bidwell ",41.909,-120.306,9.0,25.0,21.0,9.0,1014.0,0.0
+954,Weisgarber Fire,37,San Diego,"one mile west of the DeLuz gate, Camp Pendleton",33.396840000000005,-117.29665,16.0,21.0,20.0,3.0,1013.0,0.0
+955,Bitter Fire ,40,San Luis Obispo,Bitterwater Road East of Paso Robles,35.57376,-120.11738000000001,22.0,32.0,29.0,2.0,1015.0,0.0
+956,Woody Fire,15,Kern,"Woody Rd & Horseshoe Ranch Rd, northeast of Bakersfield",35.65189,-118.92545,14.0,23.0,19.0,4.0,1011.0,0.0
+957,Meadow Fire (Not a CAL FIRE incident),25,Modoc,"County Road 48 and Highway 395, northeast of Alturas",41.43783,-120.23976,9.0,29.0,25.0,6.0,1017.0,0.0
+958,Kennedy Fire,33,Riverside,"Moreno Beach Dr & John F. Kennedy Dr, near Lake Perris",33.900994,-117.170588,18.0,32.0,27.0,1.0,1011.0,0.0
+959,Sawday Fire ,37,San Diego,"Sawday Truck Trail and Little Page Rd, Community of Witch Creek ",33.055124,-116.742508,17.0,30.0,25.0,19.0,1018.0,0.0
+960,Orange fire,33,Riverside,27000 block of Orange Avenue in Nuevo,33.812837200000004,-117.1228851,22.0,35.0,31.0,1.0,1009.0,0.0
+961,Toro Fire ,33,Riverside,"26000 Block El Toro Road, North of Lake Elsinore",33.740219,-117.33372800000001,22.0,35.0,31.0,1.0,1012.0,0.0
+962,Trinity Fire,45,Shasta,"Trinity Alps Vista Road and Bland Road, southwest of Ono",40.41404,-122.66779,11.0,26.0,23.0,6.0,1012.0,0.0
+963,Timm Fire ,48,Solano,"Off of Timm Road and Allendale Road, South of Winters ",38.455,-121.969167,18.0,41.0,32.0,9.0,1015.0,0.0
+964,Nelson Fire ,4,Butte,Between Durham and Richvale,39.551423,-121.80053799999999,16.0,32.0,25.0,12.0,1020.0,0.0
+965,Ivy Fire,33,Riverside,near Northbound Intestate 15 and Temescal Canyon,33.77777348,-117.487578,25.0,33.0,30.0,5.0,1014.0,0.0
+966,Levee Fire,58,Yuba,"Highway 20 & E 22nd Street, in Marysville",39.15641,-121.56363,15.0,30.0,25.0,11.0,1018.0,0.0
+967,Corning Fire ,52,Tehama,"Inghram Road, South Corning",39.847708000000004,-122.1604,11.0,23.0,17.0,12.0,1013.0,0.0
+968,Jolon Fire,27,Monterey,"Jolon Road and New Pleyto Road, Lockwood",35.906482000000004,-120.99291399999998,18.0,35.0,29.0,4.0,1013.0,0.0
+969,Sugar Fire,31,Placer,"Sugar Pine Road and Big Reservoir Lane, northeast of Foresthill",39.115359999999995,-120.76088,9.0,26.0,20.0,12.0,1009.0,0.0
+970,Cabrillo Fire,41,San Mateo,"Highway 1 and Gazos Creek Rd, south of Pescadero",37.166674,-122.361112,20.0,32.0,27.0,5.0,1013.0,0.0
+971,Forbestown Fire,4,Butte,"Forbestown Road and Hurleton Swedes Flat Road, east of Oroville ",39.470333000000004,-121.412333,15.0,32.0,26.0,8.0,1017.0,0.0
+972,Forest Fire,7,Contra Costa,"Alhambra Ave and Alhambra Hills Dr, Martinez in Contra Costa County",37.97911,-122.11092,13.0,22.0,18.0,7.0,1008.0,0.0
+973,Prairie Fire ,34,Sacramento,off White Rock Road and Prairie City Road ,38.622058,-121.11409499999999,16.0,37.0,30.0,9.0,1017.0,0.0
+974,Ink Fire,28,Napa,"Pope Valley Rd, northeast of Calistoga",38.63047,-122.47282,12.0,29.0,24.0,11.0,1017.0,0.0
+975,Aborn Fire,43,Santa Clara,"Off Aborn Road and Murillo Avenue, East San Jose ",37.32555556,-121.76444440000002,18.0,31.0,27.0,3.0,1016.0,0.0
+976,Lower Fire,45,Shasta,Gas Point Rd & Lower Gas Point Rd in Igo,40.46968,-122.54364,15.0,37.0,31.0,7.0,1018.0,0.0
+977,Diversion Fire,33,Riverside,"Near the Intersection of Highway 95 and 2nd Avenue, in Blythe",33.69078,-114.57265,23.0,35.0,32.0,20.0,1008.0,0.0
+978,Flood Fire ,39,San Joaquin,"near Flood Rd and N. Waverly Road, Southwest of Rancho Calaveras",38.017138,-120.945044,17.0,34.0,28.0,4.0,1014.0,0.1
+979,Ardo Fire,27,Monterey,near San Ardo,35.97059,-120.88241000000001,17.0,29.0,26.0,3.0,1014.0,0.0
+980,Palisades Fire,19,Los Angeles,"North Palisades Dr., Pacific Palisades",34.055768,-118.55409099999999,21.0,30.0,27.0,14.0,1015.0,0.0
+981,Plains Fire,45,Shasta,Millville Plains Road and Sprig Road in Millville,40.4988,-122.19911,9.0,22.0,17.0,26.0,1023.0,0.0
+982,Calaveras Fire ,43,Santa Clara,Calaveras Road and Weller Road East of Milpitas,37.44422,-121.84082,22.0,39.0,33.0,3.0,1016.0,0.0
+984,Heavy Range Fire,57,Yolo,"Hammonton Smartsville Rd. and Kendal Rd, Beale Air Force Base",39.171091,-121.423281,15.0,29.0,24.0,12.0,1014.0,0.1
+985,Yokohl Fire,54,Tulare,off of Yokohl Drive in Tulare County ,36.23012,-118.85712,17.0,29.0,25.0,7.0,1012.0,0.0
+986,Bitter Fire,40,San Luis Obispo,Highway 46 and Bitterwater Rd,35.709176,-120.31285600000001,11.0,27.0,20.0,5.0,1015.0,0.0
+987,Point Fire ,43,Santa Clara,Highway 152 and Dinosaur Point Rd ,37.066483000000005,-121.219163,13.0,33.0,25.0,5.0,1016.0,0.0
+988,Glass Fire,17,Lake,"Highway 29 and DNA Ridge Rock, Southwest of Clear Lake.",38.910498,-122.642572,15.0,34.0,28.0,6.0,1012.0,0.0
+989,Watt Fire,31,Placer,Watt Ave near Baseline Road ,38.752629999999996,-121.39258999999998,12.0,25.0,21.0,12.0,1014.0,0.0
+990,Border 10 Fire,"62,37",Mexico,Mexico / California International border in the area east of the Otay port of entry.,32.557546,-116.87395500000001,24.0,31.0,29.0,4.0,1014.0,0.0
+991,Bikeway Fire,1,Alameda,"Christensen Road, Near Bethany Reservoir ",37.469,-121.3697,17.0,39.0,32.0,5.0,1014.0,0.0
+992,Fellow Fire,7,Contra Costa, Franklin Canyon Rd. ,37.99837,-122.16201000000001,15.0,30.0,25.0,11.0,1014.0,0.0
+993,Preston Fire,55,Tuolumne,"10,000 Block Preston Lane, Jamestown",37.949746999999995,-120.42005800000001,15.0,31.0,25.0,7.0,1014.0,0.3
+994,Radio Fire,33,Riverside,David Mountain Radio Road at David Mountain Road in Beaumont,33.909791999999996,-117.004667,18.0,29.0,26.0,3.0,1012.0,0.0
+995,Golf Fire,17,Lake,"Soda Bay Road and Golf Drive, northwest of Clearlake",38.99174,-122.7751,10.0,31.0,23.0,9.0,1014.0,0.0
+996,Gibbel Fire ,33,Riverside,Off of Girard Street and Quiet Hills Drive ,33.69055556,-116.95388899999999,14.0,35.0,29.0,1.0,1014.0,0.0
+997,Sobrante Fire ,33,Riverside,"off of La Sierra Ave and Tin Mine Road,  East of Corona ",33.849906,-117.46136299999999,15.0,27.0,22.0,5.0,1020.0,0.0
+998,Warren Fire,33,Riverside,Warren Rd & Old Mine Rd in Hemet,33.703546,-117.033598,7.0,21.0,17.0,7.0,1011.0,0.0
+999,Carroll Fire,1,Alameda,eastbound 580 and North Flynn Road,37.718636,-121.65701100000001,21.0,34.0,29.0,7.0,1014.0,0.0
+1000,Del Fire,50,Stanislaus,Del Puerto Canyon Road east of Frank Raines Park west of Patterson,37.429505999999996,-121.33646499999999,8.0,29.0,20.0,6.0,1015.0,0.0
+1001,Foster Fire ,35,San Benito,"off of Grass Valley Road and Cienega Road, in Hollister",36.732865999999994,-121.39478000000001,13.0,33.0,26.0,2.0,1012.0,0.0
+1002,Greenstone Fire ,9,El Dorado,Off of Greenstone Road and Buck Mountain Road ,38.703889000000004,-120.890556,20.0,38.0,33.0,8.0,1016.0,0.0
+1003,Duzel Fire,47,Siskiyou,"Near Duzel Rock Lookout, northeast of Etna",41.512917,-122.740333,11.0,26.0,20.0,2.0,1018.0,0.0
+1004,Telephone Fire,36,San Bernardino,"Old Dump Road, south of Summit Valley Road, Hesperia",34.353667,-117.343833,23.0,34.0,30.0,10.0,1013.0,0.0
+1005,Pauma Fire,37,San Diego,Highway 76 and Pauma Valley Road ,33.30267,-116.97771999999999,19.0,34.0,29.0,3.0,1015.0,0.0
+1006,Carson Fire,9,El Dorado,"Northeast of Placerville in the community of Camino, off of Shadow Ridge Road",38.757636,-120.75663999999999,17.0,32.0,27.0,8.0,1014.0,0.0
+1007,Mayberry Fire ,4,Butte,"Off Craig Access Road, Near Lake Oroville ",39.32889,-121.23431000000001,12.0,31.0,26.0,9.0,1018.0,0.0
+1008,Beaumont Fire,36,San Bernardino,Beaumont and San Timorese Canyon,34.033117,-117.21545,13.0,30.0,24.0,6.0,1015.0,0.0
+1009,Dales Fire,52,Tehama,Highway 36E east of Dales Station and Manton Road,40.314187,-122.07005500000001,14.0,32.0,24.0,6.0,1019.0,0.0
+1010,Fairmont Fire,37,San Diego,"Off Fairmont Avenue and Aldine Drive, Northwest of Talmadge",32.762706,-117.09744099999999,17.0,26.0,23.0,9.0,1014.0,0.0
+1011,Inghram Fire,52,Tehama,"Inghram Road, South Corning",39.847708000000004,-122.160416,11.0,23.0,17.0,12.0,1013.0,0.0
+1012,Electra Fire,3,Amador,"Electra Road and Highway 49, east of Jackson",38.332083000000004,-120.67131,20.0,35.0,29.0,7.0,1013.0,0.0
+1013,IronGate Fire,47,Siskiyou,"Deer Run Road, east of Iron Gate Reservoir",41.946220000000004,-122.40156999999999,13.0,28.0,23.0,5.0,1014.0,0.0
+1014,Cana Fire,4,Butte,"Off Hamilton Nord Cana Hwy & Cana Hwy, northeast of Chico",39.83958,-121.95700000000001,9.0,20.0,16.0,11.0,1009.0,0.7
+1015,Springs Fire,56,Ventura,"Southbound Highway 101 at Camarillo Springs Road, Camarillo",34.4565,-119.0836,11.0,20.0,17.0,9.0,1019.0,0.0
+1016,Pfeiffer Fire,27,Monterey,Pfeiffer Ridge Road and Highway 1 near Big Sur,36.2172,-121.2392,8.0,23.0,15.0,10.0,1022.0,0.0
+1017,Jurupa Fire,33,Riverside,"Rio Rancho Rd & Calle Hermosa, Jurupa Valley",33.7437,-115.9938,8.0,20.0,15.0,12.0,1026.0,0.0
+1018,Becks Fire,17,Lake,"North of Highway 29, southeast of Kelseyville",39.0996,-122.7532,2.0,13.0,8.0,9.0,1020.0,0.0
+1019,Daves Fire,11,Glenn,15 miles northwest of Elk Creek off County Road 306,39.5982,-122.39200000000001,12.0,30.0,24.0,11.0,1015.0,0.0
+1020,Tassajara Fire,27,Monterey,"Tassajara Hot Springs, near the Zen Center",36.2172,-121.2392,12.0,31.0,24.0,9.0,1017.0,0.0
+1021,Highland Fire,1,Alameda,"Highland Road, Livermore",37.6469,-121.8889,11.0,25.0,20.0,16.0,1015.0,0.0
+1022,Neal Fire,4,Butte,"Neal Road, southwest of Paradise",39.6669,-121.6007,4.0,18.0,14.0,14.0,1017.0,0.0
+1023,Bee Fire,19,Los Angeles,San Francisquito Canyon Rd & Stator Ln,34.3207,-118.2248,16.0,26.0,23.0,4.0,1013.0,0.0
+1024,Butte Fire,10,Fresno,Butte Ave near Conejo Ave near the community of Helm.,36.7582,-119.6493,4.0,22.0,17.0,12.0,1016.0,0.0
+1025,Tehama Fire,52,Tehama,East of Molinos,40.1256,-122.2341,14.0,31.0,24.0,4.0,1008.0,0.0
+1026,Cedar Fire,4,Butte,"Off Cedar Creek Loop Rd, South of Butte Meadows",39.6669,-121.6007,8.0,26.0,21.0,24.0,1019.0,0.0
+1027,Happy Camp Fire,56,Ventura, off Happy Camp Canyon Rd near Moorpark,34.4565,-119.0836,4.0,9.0,7.0,18.0,1027.0,0.0
+1028,Valley Fire,37,San Diego,off I-8 & Los Coches Rd near Lakeside,33.0341,-116.7353,12.0,21.0,18.0,11.0,1006.0,0.0
+1029,Trout Fire,47,Siskiyou,"Siskiyou Wildlife Refuge, 5 miles SE of Montague",41.5927,-122.5404,11.0,28.0,22.0,5.0,1019.0,0.0
+1030,Honey Fire,45,Shasta,"Honey Bee Road, West of Redding",40.7637,-122.0405,8.0,31.0,27.0,2.0,1015.0,0.0
+1031,Refuse Fire,23,Mendocino,off Refuse Road near Covelo,39.4402,-123.3915,3.0,17.0,10.0,6.0,1022.0,0.0
+1032,Ranger Fire,20,Madera,Off Range Circle Dr in Yosemite Lake,37.218,-119.7627,9.0,31.0,26.0,3.0,1020.0,0.0
+1033,July Complex,47,Siskiyou,Whites Fire approximately 4 miles East of Sawyer Bar<p> Log Fire approximately 6 miles West of Greenview<p>Leef Fire approximately 7 miles Southwest of Callahan. ,41.5927,-122.5404,14.0,33.0,28.0,3.0,1014.0,0.0
+1034,Beaver Fire,47,Siskiyou,"north of Highway 96, off of Beaver Creek Road",41.5927,-122.5404,14.0,32.0,27.0,4.0,1019.0,0.7
+1035,Pulgas Fire,37,San Diego,"Off Interstate 5 at Las Pulgas Rd, north of Oceanside",33.0341,-116.7353,19.0,36.0,31.0,9.0,1017.0,0.0
+1036,French Fire,20,Madera,"Rock Creek Drainage, south of Mammoth Pool Reservoir",37.218,-119.7627,13.0,33.0,27.0,2.0,1016.0,0.0
+1037,Lodge Lightning Complex,23,Mendocino,Wilderness Lodge and Eel River Canyon area,39.4402,-123.3915,14.0,33.0,28.0,4.0,1015.0,0.5
+1038,Stoney Fire,27,Monterey,"Nacimiento Fergusson Road & Stoney Valley, Fort Hunter Liggett",36.2172,-121.2392,11.0,32.0,26.0,8.0,1014.0,0.0
+1039,Meadow Fire,22,Mariposa,East of Little Yosemite Valley,37.5815,-119.9054,9.0,24.0,20.0,3.0,1016.0,0.0
+1040,El Portal Fire,22,Mariposa,Near Highway 140 and community of El Portal,37.5815,-119.9054,10.0,26.0,23.0,3.0,1014.0,0.0
+1041,Dark Hole Fire,22,Mariposa,near the Yosemite Creek Campground.,37.5815,-119.9054,12.0,24.0,21.0,1.0,1014.0,0.5
+1042,Hunters Fire,22,Mariposa,"Hunters Valley area, near the southeast shore of Lake McClure",37.5815,-119.9054,7.0,22.0,18.0,1.0,1013.0,0.0
+1043,Applegate Fire,31,Placer,on the eastside of Interstate 80 in the Applegate area,39.0635,-120.7175,9.0,28.0,21.0,4.0,1013.0,0.0
+1044,Black Fire,23,Mendocino,"Black Bart Trail, North of Lake Mendocino",39.4402,-123.3915,11.0,25.0,20.0,3.0,1013.0,0.1
+1045,Web Fire,4,Butte,Web Hollow & Big Chico Creek near Forest Ranch,39.6669,-121.6007,17.0,36.0,31.0,4.0,1016.0,0.0
+1046,Bridge Fire,22,Mariposa,"Highway 49 at Harris Road, 10 miles east of Mariposa",37.5815,-119.9054,8.0,23.0,19.0,3.0,1011.0,0.0
+1047,Gun Club Fire,24,Merced,"Gun Club Rd. at the Santa Fe Canal, Gustine",37.1919,-120.7177,18.0,37.0,31.0,17.0,1017.0,0.0
+1048,Curie Fire,43,Santa Clara,Off Curie Drive south of San Jose,37.2318,-121.6951,15.0,35.0,28.0,7.0,1010.0,0.0
+1049,Brewer Fire,31,Placer,"off South Brewer Road, west of Roseville",39.0635,-120.7175,6.0,18.0,12.0,14.0,1023.0,0.0
+1050,Saratoga Fire,17,Lake,"off Hwy 20 & Saratoga Road, west of Upper Lake",39.0996,-122.7532,13.0,32.0,26.0,6.0,1008.0,0.0
+1051,Interstate Fire,33,Riverside,I-15 at Temescal Canyon Rd in Alberhill,33.7437,-115.9938,25.0,36.0,33.0,15.0,1007.0,0.0
+1052,Casa Fire,43,Santa Clara,"Hwy 152 at Casa De Fruta, 10 miles east of Gilroy",37.2318,-121.6951,13.0,31.0,24.0,8.0,1018.0,0.0
+1053,Montgomery Fire,22,Mariposa,"Near Ponderosa Way & Tuolumne River Rd, south of Coulterville ",37.5815,-119.9054,8.0,23.0,19.0,4.0,1014.0,0.0
+1054,Sabina Fire,33,Riverside,Sabina Road and Ballinger Road in the community of Aguanga,33.7437,-115.9938,27.0,39.0,34.0,20.0,1013.0,0.0
+1055,Ranch Fire,15,Kern,Southwest of Greenhorn Summit,35.3429,-118.7299,15.0,39.0,32.0,6.0,1010.0,0.0
+1056,June Fire,14,Inyo,at the base of June Mountain,36.5111,-117.4107,23.0,41.0,37.0,4.0,1011.0,0.0
+1057,Nelson Fire,23,Mendocino,"off Nelson Ranch Rd, 9 mile south of Ukiah",39.4402,-123.3915,10.0,25.0,19.0,3.0,1014.0,0.0
+1058,Honcut Fire,4,Butte,off Palermo Honcut Highway and Ahart Road near the community of Honcut,39.6669,-121.6007,7.0,18.0,12.0,13.0,1023.0,0.0
+1059,Freeway Fire ,37,San Diego,"Naval Weapons Station, Fallbrook",33.0341,-116.7353,17.0,33.0,29.0,17.0,1019.0,0.0
+1060,McClellan Fire,12,Humboldt,on Hwy 36 at McClellan Mountain Rd in Dinsmore,40.6993,-123.8756,11.0,23.0,20.0,12.0,1015.0,0.0
+1061,Bogart Fire,33,Riverside,in Bogart Park in Cherry Valley,33.7437,-115.9938,19.0,36.0,30.0,22.0,1006.0,0.0
+1062,Siskiyou County Lightning Fires,47,Siskiyou,Throughout Siskiyou County,41.5927,-122.5404,13.0,33.0,26.0,3.0,1019.0,0.6
+1063,Foothill Fire ,56,Ventura,off Foothill Rd near Ventura ,34.4565,-119.0836,11.0,17.0,14.0,7.0,1014.0,0.0
+1064,Iowa Fire,31,Placer,Iowa Hill Road south of Colfax,39.0635,-120.7175,12.0,29.0,24.0,1.0,1016.0,0.2
+1065,Santa Fire,33,Riverside,off Santa Rosa & Rancho California Road in Temecula ,33.7437,-115.9938,17.0,35.0,31.0,21.0,1008.0,0.0
+1066,South Napa Earthquake,28,Napa,City and County of Napa,38.5065,-122.3305,11.0,30.0,23.0,8.0,1011.0,0.0
+1067,River Complex,53,Trinity,"Near the communities of Dailey Ranch, Hoboken, Denny and Trinity Village.",40.6507,-123.1126,9.0,36.0,30.0,1.0,1015.0,0.0
+1068,Fork Complex,53,Trinity,"Near the communities of Hayfork, Hyampom, and Harrison Gulch,",40.6507,-123.1126,9.0,36.0,30.0,1.0,1015.0,0.0
+1069,Gasquet Complex,8,Del Norte,Gasquet area,41.7431,-123.8972,15.0,27.0,23.0,8.0,1018.0,0.0
+1070,South Complex,53,Trinity,Hyampom area,40.6507,-123.1126,9.0,36.0,30.0,1.0,1015.0,0.0
+1071,Nickowitz Fire,8,Del Norte,near Orleans,41.7431,-123.8972,16.0,23.0,21.0,6.0,1015.0,0.9
+1072,Round Fire,"14,26",Inyo,Westside of Highway 395 at the Sherwin Grade,36.5111,-117.4107,10.0,26.0,20.0,7.0,1017.0,0.0
+1073,Humboldt Lightning Fires,12,Humboldt,"Alder Point-Blocksburg, Southeastern Humboldt County",40.6993,-123.8756,13.0,28.0,24.0,1.0,1015.0,0.0
+1074,Walker Fire,26,Mono,north of Walker Lake & north of June Lake Loop,37.9391,-118.8868,9.0,22.0,18.0,11.0,1017.0,0.0
+1075,Horno Fire,37,San Diego,Camp Pendleton,33.0341,-116.7353,21.0,35.0,31.0,4.0,1013.0,0.3
+1076,Park Hill Fire,40,San Luis Obispo,"Park Hill Rd & Las Pilitas Rd, east of Santa Margarita",35.3871,-120.4045,16.0,31.0,26.0,7.0,1011.0,0.0
+1077,Meridian Fire,4,Butte,"off Hwy 99 & Meridian Rd, north of Chico",39.6669,-121.6007,12.0,24.0,19.0,8.0,1010.0,0.0
+1078,Van Dyke Fire,26,Mono,"Point Ranch, South of Bridgeport",37.9391,-118.8868,-2.0,6.0,2.0,17.0,1016.0,0.0
+1079,Sky Fire,20,Madera,"Rd 632, 2 miles from Hwy 41, Community of Calvin Crest",37.218,-119.7627,12.0,32.0,27.0,8.0,1014.0,0.0
+1080,Tenaya Fire,22,Mariposa,"north rim of Yosemite Valley, east of Yosemite Falls",37.5815,-119.9054,8.0,21.0,12.0,9.0,1015.0,0.0
+1081,Lincoln Fire,19,Los Angeles,"off Lincoln Ave, in the Whittier Narrows Park, City of Montebello",34.3207,-118.2248,26.0,37.0,34.0,2.0,1012.0,0.0
+1082,Ione Fire,3,Amador,"off Ione Rd & Hwy 16, east of Rancho Murietta",38.4464,-120.6511,19.0,34.0,30.0,3.0,1013.0,0.0
+1083,Warm Fire,19,Los Angeles,Lake Hughes Rd at Warm Springs Rehab Center,34.3207,-118.2248,26.0,37.0,34.0,2.0,1012.0,0.0
+1084,Site Fire,1,Alameda,near Corral Hollow Road and the Alameda-San Joaquin county line.,37.6469,-121.8889,12.0,28.0,23.0,9.0,1009.0,0.0
+1085,Chorro Fire,56,Ventura,"Maricopa Highway 33 & Chorro Grande Canyon, north of Ojai ",34.4565,-119.0836,14.0,24.0,20.0,4.0,1013.0,0.0
+1086,Christensen Fire,1,Alameda,Christensen Rd and Burns Rd in the Altamont Pass area,37.6469,-121.8889,10.0,25.0,20.0,9.0,1016.0,0.0
+1087,Mendocino National Forest Lightning Complex,23,Mendocino,throughout Mendocino National Forest,39.4402,-123.3915,11.0,33.0,28.0,3.0,1014.0,0.0
+1088,Pacheco Fire,43,Santa Clara,"off Hwy 152 at Dinosaur Point, 3 miles west of San Luis Reservoir",37.2318,-121.6951,18.0,37.0,30.0,2.0,1011.0,0.0
+1089,Mesa Fire,42,Santa Barbara,off Burton Mesa Blvd in Lompoc,34.6729,-120.0165,19.0,32.0,28.0,13.0,1013.0,0.0
+1090,Rustic Fire,56,Ventura,Rustic Hills Drive in the Wood Ranch area Simi Valley,34.4565,-119.0836,16.0,27.0,23.0,7.0,1014.0,0.0
+1091,Flat Fire ,15,Kern,"southeast of Woody, south of Poso Flat Road & Burke Creek",35.3429,-118.7299,15.0,35.0,28.0,4.0,1011.0,0.0
+1092,Merwin Fire,33,Riverside,off Merwin St in Moreno Valley ,33.7437,-115.9938,27.0,33.0,31.0,3.0,1009.0,0.4
+1093,Collier Fire,39,San Joaquin,"Jack Tone Rd & Collier Rd, east of Herald",37.9348,-121.2714,14.0,33.0,27.0,8.0,1013.0,0.0
+1094,Shinn Fire,18,Lassen,"near Shinn Mountain, 10 miles southeast of Ravendale",40.6736,-120.5943,14.0,33.0,29.0,6.0,1016.0,0.0
+1095,Apple Fire,34,Sacramento,Off Apple Rd in Wilton,38.4493,-121.3443,14.0,27.0,23.0,10.0,1012.0,0.0
+1096,Riosa Fire,31,Placer,"Riosa Rd & Thousand Oaks Dr, north of Lincoln",39.0635,-120.7175,17.0,33.0,28.0,9.0,1013.0,0.0
+1097,Harrison Fire,33,Riverside,Avenue 66 and Harrison Street near Thermal  ,33.7437,-115.9938,22.0,33.0,30.0,14.0,1010.0,0.0
+1098,Webb Fire,4,Butte,"off LaPorte Rd, east of Bangor",39.6669,-121.6007,22.0,38.0,33.0,8.0,1012.0,0.0
+1099,Prairie Fire,47,Siskiyou,LaHonda Well area northeast of the community of Tennant,41.5927,-122.5404,12.0,32.0,25.0,3.0,1013.0,0.0
+1100,Scales Fire,36,San Bernardino,"Cajon Pass, I-15 and Highway 138",34.8414,-116.1784,26.0,37.0,34.0,15.0,1012.0,0.0
+1101,Kerkhoff Fire,10,Fresno,"off Powerhouse Rd, near Kercknoff Lake, north of the community of Auberry",36.7582,-119.6493,20.0,38.0,32.0,10.0,1011.0,0.0
+1102,Grapefruit Fire,33,Riverside,Off Grapefruit Blvd in Thermal,33.7437,-115.9938,25.0,39.0,35.0,14.0,1009.0,0.0
+1103,Triangle Fire,22,Mariposa,"Triangle Rd and Nickel Plate Rd, north of Bootjack",37.5815,-119.9054,10.0,23.0,20.0,5.0,1014.0,0.0
+1104,Military Fire,47,Siskiyou,Along Military Pass Road ,41.5927,-122.5404,10.0,21.0,16.0,8.0,1017.0,0.0
+1105,Antelope Fire,15,Kern,Antelope Canyon south of Tehachapi,35.3429,-118.7299,15.0,38.0,31.0,1.0,1012.0,0.1
+1106,Geary Fire,1,Alameda,"off Geary Road in the Sunol Wilderness, 10 miles east of Fremont",37.6469,-121.8889,19.0,33.0,27.0,10.0,1012.0,0.0
+1107,FKU Lightning Fires,10,Fresno,near Auberry,36.7582,-119.6493,13.0,31.0,27.0,5.0,1010.0,0.0
+1108,Mason Fire ,25,Modoc,Near Clear Lake and Mason Reservoir,41.5898,-120.725,13.0,24.0,21.0,3.0,1008.0,0.1
+1109,Garage Fire,28,Napa,off Pope Valley Road & Howell Mountain Road in Pope Valley ,38.5065,-122.3305,14.0,32.0,26.0,5.0,1009.0,0.0
+1110,Banister Fire,56,Ventura,off Wood Ranch Parkway 2 miles sw of Simi Valley,34.4565,-119.0836,9.0,19.0,15.0,14.0,1025.0,0.0
+1111,Buckaroo Fire,9,El Dorado,off Bucks Bar Cir & Buckaroo Trail near Somerset,38.7787,-120.5247,15.0,31.0,27.0,5.0,1013.0,0.0
+1112,Fox Fire,22,Mariposa,"Lookout Mountain Rd & Fox Field Lane, south of Mormon Bar",37.5815,-119.9054,7.0,20.0,16.0,12.0,1013.0,0.0
+1113,Oasis Fire,17,Lake,Hwy 20 near Lake County- Colusa County Line,39.0996,-122.7532,14.0,30.0,26.0,11.0,1009.0,0.0
+1114,Snow Fire,33,Riverside,"Snow Creek Road, south of Highway 111",33.7437,-115.9938,15.0,28.0,25.0,13.0,1007.0,0.0
+1115,Mad River Complex,53,Trinity,Near Ruth Lake area,40.6507,-123.1126,9.0,36.0,30.0,1.0,1015.0,0.0
+1116,Rey Fire ,42,Santa Barbara,"off of Hwy 154 and Paradise Rd, north of Santa Barbara",34.6729,-120.0165,14.0,27.0,22.0,2.0,1011.0,0.0
+1117,San Gabriel Complex (Formerly Fish & Reservoir Fires),19,Los Angeles,south of Azusa,34.3207,-118.2248,25.0,41.0,38.0,1.0,1013.0,0.0
+1118,Roberts Fire,40,San Luis Obispo,10 miles northwest of Paso Robles on Camp Roberts Military Base,35.3871,-120.4045,13.0,15.0,14.0,3.0,1014.0,0.0
+1119,Clark Fire,26,Mono,"on Bald Mountain, northeast of Mammoth",37.9391,-118.8868,9.0,21.0,18.0,4.0,1013.0,0.0
+1120,Flat Fire,15,Kern," off Granite Rd and Poso Flat Rd., 5 miles south of Woody",35.3429,-118.7299,12.0,38.0,29.0,2.0,1015.0,0.0
+1121,King Fire ,35,San Benito,"north of Hwy 198, east of Hwy 25",36.6057,-121.075,7.0,27.0,22.0,4.0,1017.0,0.0
+1122,Briggs Fire,33,Riverside,off Briggs Rd & Louis Rd in Romoland,33.7437,-115.9938,25.0,36.0,32.0,13.0,1009.0,0.0
+1123,Hills Fire,10,Fresno,four miles Northwest of Panoche and Interstate 5 ,36.7582,-119.6493,7.0,21.0,16.0,6.0,1010.0,0.0
+1124,Maze Fire,50,Stanislaus,"off of Maze & Kasson, west of Modesto",37.5591,-120.9977,15.0,36.0,28.0,9.0,1013.0,0.0
+1125,Rock Creek Fire,26,Mono,southeast of Mammoth Lakes and a mile north of the community of Swall Meadows.,37.9391,-118.8868,7.0,20.0,16.0,11.0,1011.0,0.0
+1126,Bailey Fire,43,Santa Clara,"Hwy 101 & Bailey Rd, South San Jose",37.2318,-121.6951,13.0,32.0,25.0,4.0,1011.0,0.0
+1127,Cheyenne Fire,5,Calaveras,"off Cheyenne Way, south of Camanche Reservoir ",38.2046,-120.5541,10.0,28.0,18.0,2.0,1014.0,0.0
+1128,Serpa Fire,20,Madera,off Hwy 41 northeast of Coarsegold,37.218,-119.7627,14.0,30.0,26.0,4.0,1014.0,0.0
+1129,Mill Fire,47,Siskiyou,"Old Dump Road/T-3 Road, 2 miles east of Weed",41.5927,-122.5404,3.0,17.0,13.0,6.0,1017.0,0.0
+1130,Casitas Fire,56,Ventura,"near Casitas Vista and Ventura Avenue, south of Casitas Springs  ",34.4565,-119.0836,5.0,13.0,11.0,15.0,1010.0,0.0
+1131,Dockery Fire,18,Lassen,"off Hwy 36E & County Rd A1, west of Susanville ",40.6736,-120.5943,15.0,32.0,28.0,6.0,1010.0,0.0
+1132,Evergreen Fire,33,Riverside,off Evergreen Street in Lakeland Village near Lake Elsinore ,33.7437,-115.9938,26.0,35.0,32.0,11.0,1013.0,0.0
+1133,Alder Fire,9,El Dorado,"off of Hwy 50 at Riverton, west of Kyburz",38.7787,-120.5247,11.0,27.0,22.0,8.0,1012.0,0.0
+1134,North Branch Extension Fire,17,Lake,"Off Ogulin Rd & Highway 53, Clearlake Oaks",39.0996,-122.7532,20.0,40.0,34.0,4.0,1010.0,0.0
+1135,Edison Fire,56,Ventura,North of Ventura,34.4565,-119.0836,8.0,20.0,16.0,1.0,1016.0,0.0
+1136,Modoc July Complex,25,Modoc,throughout Modoc County,41.5898,-120.725,15.0,32.0,25.0,3.0,1012.0,0.3
+1137,Schaeffer Fire,54,Tulare,Within the 2002 McNally wildfire burn area (17 miles north of Kernville),36.2201,-118.8005,21.0,41.0,35.0,4.0,1013.0,0.0
+1138,Adobe Fire (Central LNU Complex),49,Sonoma,near Kenwood,38.5283,-122.8874,11.0,28.0,21.0,19.0,1010.0,0.0
+1139,Platina Fire,45,Shasta,"Platina Road, 12 Miles West of Ono",40.7637,-122.0405,5.0,26.0,21.0,5.0,1021.0,0.0
+1140,Dehesa Fire,37,San Diego,"off of Dehesa Rd and Sloane Canyon Rd, Dehesa",33.0341,-116.7353,15.0,29.0,25.0,6.0,1010.0,0.0
+1141,Cranston Fire,33,Riverside,"off Highway 74 and Control Road, east of Hemet",33.7437,-115.9938,33.0,42.0,39.0,11.0,1012.0,0.0
+1142,Branscombe Fire,48,Solano,"Branscombe Road south of Hwy 12, Suisun City",38.27,-121.9329,16.0,26.0,22.0,26.0,1012.0,0.0
+1143,Twisselman Fire,15,Kern,"Twisselman Road and Kecks Road, west of Highway 33",35.3429,-118.7299,6.0,24.0,17.0,8.0,1016.0,0.0
+1144,Wilcox Fire,54,Tulare,"Road 136 and Avenue 440, Community of Orosi",36.2201,-118.8005,8.0,18.0,15.0,7.0,1016.0,0.0
+1145,Montecito Flooding / Mudflows,"42,56",Santa Barbara,"Montecito, Summerland and Carpenteria",34.6729,-120.0165,9.0,13.0,11.0,30.0,1004.0,3.3
+1146,Girasol Fire,33,Riverside,"Hwy 111 and Tramway Rd, Palm Springs",33.7437,-115.9938,18.0,30.0,26.0,12.0,1014.0,0.0

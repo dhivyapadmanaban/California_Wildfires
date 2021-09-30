@@ -1,0 +1,20 @@
+id,cause_id,cause_description
+1,1,Lightning
+2,2,Equipment Use
+3,3,Smoking
+4,4,Campfire
+5,5,Debris
+6,6,Railroad
+7,7,Arson
+8,8,Playing with fire
+9,9,Miscellaneous
+10,10,Vehicle
+11,11,Powerline
+12,12,Figherfighter Training
+13,13,Non-Firefighter Training
+14,14,Unidentified
+15,15,Structure
+16,16,Aircraft
+17,17,Unidentified
+18,18,Escaped Prescribed Burn
+19,19,Illegal Alien Campfire
