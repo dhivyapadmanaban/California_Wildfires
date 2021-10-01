@@ -1,29 +1,30 @@
-# California Wild Fires
+# California WildFires
 
 ## Project Outline
-   It is said that forest soils recover from fire disturbances as slowly as up to 80 years. On an average California has lost 4000 acres of forest land over a period of 7 years. Considering this alarming data, analyzing the trend and impacts of forest fire is very intriguing. 
-   Problem statement is to understand how are weather conditions contributing to the increase in wildfires and how human negligence can lead to a great deal of harm to the nature. 
-   Deeper analysis include how wildfires are affecting ecosystem as well as the infrastructure.
-   Our project provides a detailed analysis of all these factors and it can be used to expand the research for other states
-   that pose a threat of wildfires.
-   
-   ![CA_Map](./Images/CA_map.png)
 
+It is said that forest soils recover from fire disturbances as slowly as up to 80 years. On an average California has lost 4000 acres of forest land over a period of 7 years. Considering this alarming data, analyzing the trend and impacts of forest fire is very intriguing.
+
+Problem statement is to understand how are weather conditions contributing to the increase in wildfires and how human negligence can lead to a great deal of harm to the nature. Our project provides a detailed analysis of all these factors using wildfire dataset that combines historical wildifire occurrences with relevant features extracted. This projet is scalable to expand the research for other states that pose a threat of wildfires.
+
+![pexels-sippakorn-yamkasikorn-3552472](https://user-images.githubusercontent.com/83181834/135688533-716eb442-3fef-4755-8795-e0adc67e67e8.jpg)
+
+## Resources
+
+**- Data Source**
+1. [Kaggle data source](https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020)
+2. [CA gov data source](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::recent-large-fire-perimeters-5000-acres/about)
+3. [Weather data](https://www.worldweatheronline.com/developer/api/)
+4. [Geographical coordinates](https://simplemaps.com/data/us-counties)
+
+- **Data Analysis :** Pandas
+- **Database :** PostgresSQL (Database name : wildfire_db)
+- **Visualization :** Tableau
 
 ## Preliminary Data Preprocessing
 
 1. Data load : We have used Python pandas to load data from the following sources into two different dataframes. We have retrieved weather and other geographical data through API 
    to get more information about the past weather conditions , so that we can make analyse and make better predictions.			   	
- 
-	[Kaggle data source](https://www.kaggle.com/ananthu017/california-wildfire-incidents-20132020)
-	
-	[CA gov data source](https://gis.data.ca.gov/datasets/CALFIRE-Forestry::recent-large-fire-perimeters-5000-acres/about)
-	
-	[Weather data](https://www.worldweatheronline.com/developer/api/)
-	
-	[Geographical coordinates](https://simplemaps.com/data/us-counties)
-	
-	
+   
 2. Removal of data duplication : We have consolidated the data from various sources by removing duplicates to maintain accuracy and to avoid misleading statistics. 
 
 3. Handling null values : To maintain performance and accuracy of ML model we have replaced/dropped the null values with some appropriate values based on their column type.
