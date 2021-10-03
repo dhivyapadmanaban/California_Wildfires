@@ -194,9 +194,7 @@ Bar chart is the best way to explain relation between two attributes - This bar 
 
 This Do-nut chart shows the top counties based on total acres burned. This is interactive with year filter in dashboard.
  
-
-![image](https://user-images.githubusercontent.com/83181834/135735533-7f2fe0fb-a487-4f64-8ef4-6b9ca1a89f84.png)
-
+![image](https://user-images.githubusercontent.com/83181834/135735990-5eb3163c-1181-4a78-aeb2-8e3f1a156da5.png)
 
 ## Communication Protocol
 
