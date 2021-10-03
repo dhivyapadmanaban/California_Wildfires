@@ -2,9 +2,9 @@
 
 ## Project Outline
 
-Reasearcher found that forest soils recover from disturbances slowly over many years — up to 80 years following a wildfire. California has lost over 4000 acres of forest land over a period of 7 years. Considering this alarming data, analyzing the trend and impacts of forest fire is very intriguing.
+Researchers found that forest soils recover from disturbances slowly over many years — up to 80 years following a wildfire. California has lost over 4000 acres of forest land over a period of 7 years. Considering this alarming data, analyzing the trend and impacts of forest fire is very intriguing.
 
-Problem statement is to understand how are weather conditions contributing to the increase in wildfires and how human negligence can lead to a great deal of harm to the nature. Our project provides a detailed analysis of all these factors using wildfire dataset that combines historical wildifire occurrences with relevant features extracted. This projet is scalable to expand the research for other states that pose a threat of wildfires.
+Problem statement is to understand how are weather conditions contributing to the increase in wildfires and how human negligence can lead to a great deal of harm to the nature. Our project provides a detailed analysis of all these factors using wildfire dataset that combines historical wildfire occurrences with relevant features extracted. This project is scalable to expand the research for other states that pose a threat of wildfires.
 
 ![pexels-sippakorn-yamkasikorn-3552472](https://user-images.githubusercontent.com/83181834/135688533-716eb442-3fef-4755-8795-e0adc67e67e8.jpg)
 
@@ -22,7 +22,7 @@ Problem statement is to understand how are weather conditions contributing to th
 
 ## Data Description
 
-In our dataset, there are 1,636 datapoints which are the fire occurrences in years 2013 through 2020 for California. Each datapoint has Archive year, Fire name, Acres Burned, County name as primary incident indicators. Additional features of the dataset includes lattitude, longitude, Structures Damanged, Injuries etc. 
+In our dataset, there are 1,636 data points which are the fire occurrences in years 2013 through 2020 for California. Each data point has Archive year, Fire name, Acres Burned, County name as primary incident indicators. Additional features of the dataset includes latitude, longitude, Structures Damaged, Injuries etc. 
 
 **Data Example**
 
@@ -33,7 +33,7 @@ In our dataset, there are 1,636 datapoints which are the fire occurrences in yea
 
 ### Data Preprocessing
 
-**1. Data load :** We have used Python pandas to load data from the following sources into two different dataframes. We have retrieved weather and other geographical data through API to get more information about the past weather conditions , so that we can make analyse and make better predictions.			   	
+**1. Data load :** We have used Python pandas to load data from the following sources into two different data frames. We have retrieved weather and other geographical data through API to get more information about the past weather conditions , so that we can make analyse and make better predictions.			   	
    
 **2. Removal of data duplication :** We have consolidated the data from various sources by removing duplicates to maintain accuracy and to avoid misleading statistics. 
 
@@ -44,7 +44,7 @@ In our dataset, there are 1,636 datapoints which are the fire occurrences in yea
 **5. Merge/Join Dataset :** We have combined data frames using pandas merge function based on common columns so that we can incorporate additional data and information in our final
                         dataset.
 						
-**6. Statistical Summary:** We have generated a descriptive statistics of our final dataframe showing the statistical details like count, mean, standard deviation, min, max and
+**6. Statistical Summary:** We have generated a descriptive statistics of our final data frame showing the statistical details like count, mean, standard deviation, min, max and
                         quartiles.
 						
 ![image](https://user-images.githubusercontent.com/83181834/135734201-fdf76f8e-8db4-4122-bebd-d6c4b6a73467.png)
@@ -65,13 +65,13 @@ Below is the entity relation diagrams, showing the relationship between the four
 
 #### Number of fires per month vs Max Temperature
 
-We are analyzing if the temperature of California is contributing more to the wildfire occurances. As per below scatter plot, we have more wildfires in CA from June - August which is one of the hottest month. (Size of scatter = Number of fires)
+We are analyzing if the temperature of California is contributing more to the wildfire occurrences. As per below scatter plot, we have more wildfires in CA from June - August which is one of the hottest month. (Size of scatter = Number of fires)
 
 <img width="348" alt="monthVsMaxTemp" src="https://user-images.githubusercontent.com/83181834/135734392-2de33780-c3a3-4ac4-acae-58ca1956e119.PNG">
 
 #### Number of fires per month vs Precipitation
 
-In this analysis, we wanted to find relation between lack of rain (precipiation) to wildfire occurance. As per below plot, more fires occured during the dry months when the precipiation is very low. (Size of scatter = Number of fires)
+In this analysis, we wanted to find relation between lack of rain (precipitation) to wildfire occurrence. As per below plot, more fires occurred during the dry months when the precipitation is very low. (Size of scatter = Number of fires)
 
 <img width="344" alt="monthVsPrecipitation" src="https://user-images.githubusercontent.com/83181834/135734442-89799a8a-4471-418d-acb6-9aeab77176a0.PNG">
 
@@ -117,17 +117,17 @@ Using **Scikit-learn train_test_split method** we have split the data into train
 
 ### Machine Learning - Results
 
-Once we split the data into training and testing sets, we train the model and calculate predictions. Below are some of the results of machine learing.
+Once we split the data into training and testing sets, we train the model and calculate predictions. Below are some of the results of machine learning.
 
-**Accuracy :** Using month of fire and weather freatures,the model predicts the accuracy of 79.7%
+**Accuracy :** Using month of fire and weather features,the model predicts the accuracy of 79.7%
 
 ![image](https://user-images.githubusercontent.com/83181834/135735139-e47c4cc6-8ca0-45eb-b292-e3be5892d047.png)
 
-**Classification report:** Our reacll is 1.00 which is good and again the precision is 80%. 
+**Classification report:** Our recall is 1.00 which is good and again the precision is 80%. 
 
 ![image](https://user-images.githubusercontent.com/83181834/135735119-835f2351-cf62-4b30-b953-9003f0464954.png)
 
-**Confusion Matrix:** We plotted our confusion matrix, overall it looks good except we have 58 mojor fire predicted as not major fire but it may be due to skewed weather data of California.
+**Confusion Matrix:** We plotted our confusion matrix, overall it looks good except we have 58 major fire predicted as not major fire but it may be due to skewed weather data of California.
 
 ![Confusion_matrix](https://user-images.githubusercontent.com/83181834/135735211-e8c46b51-339a-4fea-bd02-fe3308e60bbf.png)
 
@@ -142,7 +142,7 @@ Once we split the data into training and testing sets, we train the model and ca
    
    - The logistic regression model is simple to understand, easy to implement, and efficient to train
    - Provides good accuracy for smaller datasets
-   - Less prone to overfitting in low dimensional datasets
+   - Less prone to over fitting in low dimensional datasets
    - Can be extended to multi-class classification
    - It makes no assumptions about distributions of classes 
    
@@ -154,34 +154,46 @@ Once we split the data into training and testing sets, we train the model and ca
    - Non linear problems can't be solved with logistic regression since it has a linear decision surface.
    
 
-## Dashbaord and Visualization
+## Dashboard and Visualization
 
 ### Seaborn - Python Library
 We used Seaborn python library to depict relationship between our variables during Exploratory data analysis and Machine learning phase. All those charts helps during the analysis of the data and deciding machine learning model. 
  
 ### Tableau
-We have used Tableau, a powerful visualization tool to showcase our findings using various charts , interactive design and dashbaord story telling. 
+We have used Tableau, a powerful visualization tool to showcase our findings using various charts , interactive design and dashboard story telling. 
 
 **Dashboard of California Wildfires**
+
+All the charts in this Dashboard are interactive with each other through common filter on YEAR. Each report included tool tips for more information on CA Wildfires.
 
 ![image](https://user-images.githubusercontent.com/83181834/135735443-1f64c7ae-fb82-424a-a3ff-276c4279cb37.png)
 
 **California Wildfire Map**
+
+California map is plotted based on latitude and longitude from data points and showing County name and total acres burned. Counties with acres burned are color coded.
 
 ![image](https://user-images.githubusercontent.com/83181834/135735556-90bcf382-712d-41db-8a1e-4b092191d173.png)
 
 
 **Cause of Fire**
 
+This is the simple map showing Causes of Fire contributing of Wildfires in last 7 years. "Unidentified" is the major reason of wildfire. 
+
 ![image](https://user-images.githubusercontent.com/83181834/135735546-1fb7a7cf-0d05-43f6-ae66-65b233b528ae.png)
 
 
 **Maximum Temperature per month**
 
+Bar chart is the best way to explain relation between two attributes - This bar chart is plotted against Fire started Month vs Maximum temperature. As expected from our previous analysis, Jun - Aug mark more number of fires. 
+
+
 ![image](https://user-images.githubusercontent.com/83181834/135735544-72672c19-3ad3-49bc-9af7-3d7a297b370e.png)
 
 
 **Top Counties by Total Acres Burned**
+
+This Do-nut chart shows the top counties based on total acres burned. This is interactive with year filter in dashboard.
+ 
 
 ![image](https://user-images.githubusercontent.com/83181834/135735533-7f2fe0fb-a487-4f64-8ef4-6b9ca1a89f84.png)
 
