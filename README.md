@@ -96,8 +96,9 @@ As part of predictive analysis, our Machine learning model will predict whether 
 We have selected the Logistic Regression method to predict the major fire which is mainly dependent on the past weather parameters. Here are some of the statistical summary from ML model. 
 
 **Reason for model selection:** 
-	1. Our dependent variable is binary and the observation are independent of each other
-	2. Logistic regression helps predicting the likelihood of events by looking at historical data points and is the best model for binary classification.
+
+* Our dependent variable is binary and the observation are independent of each other
+* Logistic regression helps predicting the likelihood of events by looking at historical data points and is the best model for binary classification.
 	
 **2. ML features** 
 
@@ -119,15 +120,19 @@ Using **Scikit-learn train_test_split method** we have split the data into train
 Once we split the data into training and testing sets, we train the model and calculate predictions. Below are some of the results of machine learing.
 
 **Accuracy :** Using month of fire and weather freatures,the model predicts the accuracy of 79.7%
+
 ![image](https://user-images.githubusercontent.com/83181834/135735139-e47c4cc6-8ca0-45eb-b292-e3be5892d047.png)
 
 **Classification report:** Our reacll is 1.00 which is good and again the precision is 80%. 
+
 ![image](https://user-images.githubusercontent.com/83181834/135735119-835f2351-cf62-4b30-b953-9003f0464954.png)
 
 **Confusion Matrix:** We plotted our confusion matrix, overall it looks good except we have 58 mojor fire predicted as not major fire but it may be due to skewed weather data of California.
+
 ![Confusion_matrix](https://user-images.githubusercontent.com/83181834/135735211-e8c46b51-339a-4fea-bd02-fe3308e60bbf.png)
 
 **Correlation Heatmap:** We also plotted correlation heat map for all the features to find the relation.
+
 ![correlation_heatmap](https://user-images.githubusercontent.com/83181834/135735225-26b392fd-a8e8-44eb-ba8d-0f4d465159cf.png)
 
 
