@@ -162,8 +162,11 @@ We used Seaborn python library to depict relationship between our variables duri
 ### Tableau
 We have used Tableau, a powerful visualization tool to showcase our findings using various charts , interactive design and dashbaord story telling. 
 
+**Dashboard of California Wildfires**
 
-   
+![image](https://user-images.githubusercontent.com/83181834/135735443-1f64c7ae-fb82-424a-a3ff-276c4279cb37.png)
+
+
 
 ## Communication Protocol
 
