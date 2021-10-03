@@ -168,11 +168,22 @@ We have used Tableau, a powerful visualization tool to showcase our findings usi
 
 **California Wildfire Map**
 
+![image](https://user-images.githubusercontent.com/83181834/135735556-90bcf382-712d-41db-8a1e-4b092191d173.png)
+
+
 **Cause of Fire**
+
+![image](https://user-images.githubusercontent.com/83181834/135735546-1fb7a7cf-0d05-43f6-ae66-65b233b528ae.png)
+
 
 **Maximum Temperature per month**
 
+![image](https://user-images.githubusercontent.com/83181834/135735544-72672c19-3ad3-49bc-9af7-3d7a297b370e.png)
+
+
 **Top Counties by Total Acres Burned**
+
+![image](https://user-images.githubusercontent.com/83181834/135735533-7f2fe0fb-a487-4f64-8ef4-6b9ca1a89f84.png)
 
 
 ## Communication Protocol
