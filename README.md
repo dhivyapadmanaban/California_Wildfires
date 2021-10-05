@@ -88,7 +88,7 @@ Here we are plotting important weather features using box plot to understand the
 
 As part of predictive analysis, our Machine learning model will predict whether a major fire can take place in the state of California based on weather conditions. Since we are using history data of 2013-2019 CA fires, we have trained our model to predict whether a major fire can occur. Below chart plots the number of wild fires happened per year which ultimately contribute to our predictive modeling
 
-<img width="399" alt="WildfireCount" src="https://user-images.githubusercontent.com/83181834/135905421-cfa50436-ff1e-4577-8e01-2b9e79bef953.png">
+![p](https://user-images.githubusercontent.com/83181834/136060275-446fbbe2-6b11-4628-a1ee-c72700e9a940.PNG)
 
 
 **1. Model Choice :**
@@ -108,7 +108,7 @@ We have selected the Logistic Regression method to predict the major fire which 
 
 Below S curve shows the major fire relation wrt Maximum temperature
 
-![Scurve](https://user-images.githubusercontent.com/83181834/135734754-2300442d-4c2a-4a50-9030-789a37f75b80.png)
+![2](https://user-images.githubusercontent.com/83181834/136060121-85e42e0d-dc9d-47b5-9366-3b08ceb583d2.PNG)
 
 **3. Splitting of data into training and testing sets**
 
@@ -119,21 +119,22 @@ Using **Scikit-learn train_test_split method** we have split the data into train
 
 Once we split the data into training and testing sets, we train the model and calculate predictions. Below are some of the results of machine learning.
 
-**Accuracy :** Using month of fire and weather features,the model predicts the accuracy of 79.7%
+**Accuracy :** Using month of fire and weather features,the model predicts future major fire with an accuracy of 71%
 
-![image](https://user-images.githubusercontent.com/83181834/135735139-e47c4cc6-8ca0-45eb-b292-e3be5892d047.png)
+![image](https://user-images.githubusercontent.com/83181834/136060517-ae7b3219-a2a3-4b49-90fc-390baa0dea35.png)
 
-**Classification report:** Our recall is 1.00 which is good and again the precision is 80%. 
+**Classification report:** Precision and recall values for "0" results are very good, although precision for "1" is small the recall value is 81%
 
-![image](https://user-images.githubusercontent.com/83181834/135735119-835f2351-cf62-4b30-b953-9003f0464954.png)
+![image](https://user-images.githubusercontent.com/83181834/136060577-528accb5-a77d-42bf-94e0-a8b2169e53ce.png)
+
 
 **Confusion Matrix:** We plotted our confusion matrix, overall it looks good except we have 58 major fire predicted as not major fire but it may be due to skewed weather data of California.
 
-![Confusion_matrix](https://user-images.githubusercontent.com/83181834/135735211-e8c46b51-339a-4fea-bd02-fe3308e60bbf.png)
+![1](https://user-images.githubusercontent.com/83181834/136060184-395ff308-f594-40d0-b6b8-88574dd840f2.PNG)
 
 **Correlation Heatmap:** We also plotted correlation heat map for all the features to find the relation.
 
-![correlation_heatmap](https://user-images.githubusercontent.com/83181834/135735225-26b392fd-a8e8-44eb-ba8d-0f4d465159cf.png)
+![5](https://user-images.githubusercontent.com/83181834/136060160-d69b693f-36ba-48fe-b4ef-c95afe4fd054.PNG)
 
 
 ### Logistics Regression Summary
@@ -168,6 +169,7 @@ All the charts in this Dashboard are interactive with each other through common 
 
 ![image](https://user-images.githubusercontent.com/83181834/135735443-1f64c7ae-fb82-424a-a3ff-276c4279cb37.png)
 
+
 **California Wildfire Map**
 
 California map is plotted based on latitude and longitude from data points and showing County name and total acres burned. Counties with acres burned are color coded.
@@ -186,19 +188,22 @@ This is the simple map showing Causes of Fire contributing of Wildfires in last 
 
 Bar chart is the best way to explain relation between two attributes - This bar chart is plotted against Fire started Month vs Maximum temperature. As expected from our previous analysis, Jun - Aug mark more number of fires. 
 
-
-![image](https://user-images.githubusercontent.com/83181834/135735544-72672c19-3ad3-49bc-9af7-3d7a297b370e.png)
+![3](https://user-images.githubusercontent.com/83181834/136060001-7dbe070b-9866-401d-8eae-4c41e8aa7559.PNG)
 
 
 **Top Counties by Total Acres Burned**
 
-This Do-nut chart shows the top counties based on total acres burned. This is interactive with year filter in dashboard.
+This interactive Do-nut chart shows the top counties based on total acres burned every year.
  
 ![image](https://user-images.githubusercontent.com/83181834/135735990-5eb3163c-1181-4a78-aeb2-8e3f1a156da5.png)
 
 ## Communication Protocol
 
 ![image](https://user-images.githubusercontent.com/83181834/132966692-1dff4ebd-bddc-46ca-9eaa-4ff9df42ce5b.png)
+
+## Summary
+
+
 
 ## Project Resources
 
