@@ -1,5 +1,7 @@
 # California WildFires
 
+by Taravat Sharafat, Dhivya Ram, Shailee Madhani,  Anupriya Sarkar
+
 ## Project Outline
 
 Researchers found that forest soils recover from disturbances slowly over many years — up to 80 years following a wildfire. California has lost over 4000 acres of forest land over a period of 7 years. Considering this alarming data, analyzing the trend and impacts of forest fire is very intriguing.
@@ -197,16 +199,17 @@ This interactive Do-nut chart shows the top counties based on total acres burned
  
 ![image](https://user-images.githubusercontent.com/83181834/135735990-5eb3163c-1181-4a78-aeb2-8e3f1a156da5.png)
 
-## Communication Protocol
-
-![image](https://user-images.githubusercontent.com/83181834/132966692-1dff4ebd-bddc-46ca-9eaa-4ff9df42ce5b.png)
 
 ## Summary
 
+Using the historic wildfire data from California Government, analyzing the dataset and building the machine learning model to predict occurance of major fire. Prediction of fire activities in the forest guides the authorities to make optimal, efficient, and sound decisions in fire management.The goal is to demonstrate the methodology of building advanced machine learning models using historic wildfire data and hence doesn’t represent the best model performance, rather presents an approach to take a data-driven approach to predict wildfires.
 
+
+## Project Execution Plan
+
+Please follow these [STEPS](https://docs.google.com/document/d/14wAf0Yp-gkutAlfjsqX9qAkFR4eNIuhQAqZhpegT_bY/edit#) to execute California Wildfire deliverables. 
 
 ## Project Resources
 
 - **Project Presentaton:** [View Project Presentation](https://docs.google.com/presentation/d/1gnMfB6wmNLj-aO9sgZWFiF82ZcbtqUYd51E1__3BVuY/edit?usp=sharing)
-- **Storyboard of Dashboard:** [View Storyboard](https://docs.google.com/presentation/d/1Pq6c_P56_Bx2GsKr0kPmHrszo_ZAOSP_QyOfqmEMr9o/edit?usp=sharing)
 - **Tableau Dashbaord**. [View California Wildfire Dashboard](https://public.tableau.com/app/profile/taravat/viz/California_Wildfires_2013-2019/CaliforniaWildfire2013-2019#1)
