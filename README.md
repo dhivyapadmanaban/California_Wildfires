@@ -202,7 +202,7 @@ This interactive Do-nut chart shows the top counties based on total acres burned
 
 ## Summary
 
-Using the historic wildfire data from California Government, analyzing the dataset and building the machine learning model to predict occurance of major fire. Prediction of fire activities in the forest guides the authorities to make optimal, efficient, and sound decisions in fire management.The goal is to demonstrate the methodology of building advanced machine learning models using historic wildfire data and hence doesn’t represent the best model performance, rather presents an approach to take a data-driven approach to predict wildfires.
+Using historic wildfire data from California Government, analyzing the dataset and building the machine learning model to predict occurrence of major fire. Prediction of fire activities in the forest guides the authorities to make optimal, efficient, and sound decisions in fire management. The goal is to demonstrate the methodology of building advanced machine learning models using historic wildfire data and hence doesn’t represent the best model performance, rather presents an approach to take a data-driven approach to predict wildfires.
 
 
 ## Project Execution Plan
