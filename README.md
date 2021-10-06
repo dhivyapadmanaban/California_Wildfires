@@ -88,7 +88,7 @@ Here we are plotting important weather features using box plot to understand the
 
 As part of predictive analysis, our Machine learning model will predict whether a major fire can take place in the state of California based on weather conditions. Since we are using history data of 2013-2019 CA fires, we have trained our model to predict whether a major fire can occur. Below chart plots the number of wild fires happened per year which ultimately contribute to our predictive modeling
 
-![p](https://user-images.githubusercontent.com/83181834/136060275-446fbbe2-6b11-4628-a1ee-c72700e9a940.PNG)
+![Major_fires_per_month](https://user-images.githubusercontent.com/83181834/136138076-d26a0e0e-a13b-4724-84c4-ca1f059eceec.png)
 
 
 **1. Model Choice :**
