@@ -41,7 +41,7 @@ In our dataset, there are 1,636 data points which are the fire occurrences in ye
 
 **3. Handling null values :** To maintain performance and accuracy of ML model we have replaced/dropped the null values with some appropriate values based on their column type.
 
-**4. Treat missing values :** Filled in some missing values required for our analysis using weather API and a python library for weather data called MeteoStat.
+**4. Treat missing values :** Filled in some missing values required for our analysis using weather API.
 
 **5. Merge/Join Dataset :** We have combined data frames using pandas merge function based on common columns so that we can incorporate additional data and information in our final
                         dataset.
@@ -56,7 +56,7 @@ In our dataset, there are 1,636 data points which are the fire occurrences in ye
 
 We have chosen PostgreSQl relational database system to store data for our project. We are using psycopg2 as the adapter to connect the database with our Python code and using SQLAlchemy which is a Python SQL toolkit to facilitate the communication between pandas and the database.
 
-Our database is named Wildfire_db that stores the static data in four different tables , for our use during the course of the project. 
+Our database is named Wildfire_db that stores the static data in four different tables, for our use during the course of the project. 
 
 Below is the entity relation diagrams, showing the relationship between the four tables and their columns:
 
@@ -105,7 +105,7 @@ We have selected the Logistic Regression method to predict the major fire which 
 **2. ML features** 
 
 * Feature Selection : Month of fire, Maximum temperature, Wind Speed, Precipitation
-* Target : Major fire (Any fire above 1000 acres are considered major fire)
+* Target : Major fire (Based on our analysis of fire data for all the months in the years 2013-2019 a major fire took place when the maximum temperature rose to **32°C** and more than **1000** acres were burned.)
 * Encoding : Using label encoder, converting features to a numeric machine-readable form.
 
 Below S curve shows the major fire relation wrt Maximum temperature
