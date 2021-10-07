@@ -207,7 +207,7 @@ Using historic wildfire data from California Government, analyzing the dataset a
 
 ## Project Execution Plan
 
-Please follow these [STEPS](https://docs.google.com/document/d/14wAf0Yp-gkutAlfjsqX9qAkFR4eNIuhQAqZhpegT_bY/edit#) to execute California Wildfire deliverables. 
+Please follow these [STEPS](https://docs.google.com/document/d/14wAf0Yp-gkutAlfjsqX9qAkFR4eNIuhQAqZhpegT_bY/edit?usp=sharing) to execute California Wildfire deliverables. 
 
 ## Project Resources
 
